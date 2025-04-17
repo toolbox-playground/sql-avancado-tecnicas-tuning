@@ -45,6 +45,3 @@ Para quem deseja instalar o MySQL diretamente no sistema operacional (Windows, m
 cd manual/
 cat README.md
 ```
-
-
-Se quiser, posso também gerar os dois arquivos `README.md` (da pasta `docker/` e `manual/`). Quer que eu crie esses agora também?
