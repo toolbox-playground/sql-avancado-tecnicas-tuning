@@ -1,10 +1,8 @@
-
 ## Como criar meu ambiente em MySQL
-
 
 docker network create some-network
 
-$ docker run --name teste-mysql --network some-network -p 3306:3306 -e MYSQL_ROOT_PASSWORD=thiago -d mysql:latest
+docker run --name teste-mysql --network some-network -p 3306:3306 -e MYSQL_ROOT_PASSWORD=thiago -d mysql:latest
 
 docker run -it --network some-network --rm mysql mysql -hteste-mysql -u root -p
 ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'thiago';
@@ -16,12 +14,7 @@ FLUSH PRIVILEGES;
 
 docker exec -it teste-mysql mysql -u root -p -e "SHOW VARIABLES LIKE 'bind_address';"
 
-
 docker exec -it teste-mysql sh -c "echo '[mysqld]\nbind-address = 0.0.0.0' > /etc/mysql/my.cnf"
-
-
-Claro! Aqui está um `README.md` bem explicativo para a pasta `docker/`, detalhando o processo de instalação e configuração do MySQL usando Docker, com base nos comandos que você forneceu:
-
 
 # 🐳 Instalação do MySQL via Docker
 
@@ -47,14 +40,10 @@ docker network create some-network
 
 ### 2. Suba o container do MySQL
 
-Neste exemplo, o nome do container será `teste-mysql`, a senha do root será `thiago`, e a porta local 3306 será exposta.
+Neste exemplo, o nome do container será `teste-mysql`, a senha do root será a que você definir, e a porta local 3306 será exposta.
 
 ```bash
-docker run --name teste-mysql \
-  --network some-network \
-  -p 3306:3306 \
-  -e MYSQL_ROOT_PASSWORD=<CRIE-UMA-SENHA-PARA-ROOT> \
-  -d mysql:latest
+docker run --name teste-mysql --network some-network -p 3306:3306 -e MYSQL_ROOT_PASSWORD=teste -d mysql:latest
 ```
 
 ### 3. Acesse o MySQL pela linha de comando
@@ -65,7 +54,7 @@ Você pode usar outro container temporário para se conectar ao MySQL:
 docker run -it --network some-network --rm mysql mysql -h teste-mysql -u root -p
 ```
 
-Digite a senha: `<CRIE-UMA-SENHA-PARA-ROOT>`
+Digite a senha: `teste`
 
 
 ### 4. Configure o usuário `root` para permitir conexões externas
@@ -73,11 +62,11 @@ Digite a senha: `<CRIE-UMA-SENHA-PARA-ROOT>`
 Execute os comandos SQL abaixo no prompt do MySQL:
 
 ```sql
-ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY '<CRIE-UMA-SENHA-PARA-ROOT>';
+ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'teste';
 FLUSH PRIVILEGES;
 
 -- Caso o comando acima não funcione, crie o usuário manualmente:
-CREATE USER 'root'@'%' IDENTIFIED BY '<CRIE-UMA-SENHA-PARA-ROOT>';
+CREATE USER 'root'@'%' IDENTIFIED BY 'teste';
 GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
 ```
