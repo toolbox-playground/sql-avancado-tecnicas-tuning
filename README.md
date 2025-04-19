@@ -1,9 +1,3 @@
-# sql-avancado-tecnicas-tuning
-Repositório dedicado ao curso de Tuning em SQL
-Claro! Aqui está uma versão no mesmo estilo, mas agora para um curso e repositório focado exclusivamente em **técnicas de SQL Tuning**:
-
----
-
 # SQL Tuning - Dominando a Performance de Bancos de Dados  
 Bem-vindo ao repositório oficial do curso de **SQL Tuning da Toolbox**, onde você vai aprender a extrair o máximo desempenho das suas queries e bancos de dados!
 
