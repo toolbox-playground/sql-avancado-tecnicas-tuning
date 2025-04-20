@@ -1,12 +1,4 @@
 # SQL Tuning - Dominando a Performance de Bancos de Dados  
-Bem-vindo ao repositório oficial do curso de **SQL Tuning da Toolbox**, onde você vai aprender a extrair o máximo desempenho das suas queries e bancos de dados!
-
-## Nosso objetivo  
-Este treinamento prático e intensivo, com aproximadamente **20 horas distribuídas em 4 encontros ao vivo**, foi desenhado para quem deseja **dominar a arte da otimização de queries SQL**, aplicando técnicas avançadas e ferramentas de análise de performance.
-
-Com uma abordagem 100% voltada para cenários reais, nosso foco é garantir que você saia do curso com segurança para diagnosticar, otimizar e escalar aplicações baseadas em banco de dados com eficiência.
-
----
 
 ## Ementa do Curso  
 Durante o curso, você irá aprender:
