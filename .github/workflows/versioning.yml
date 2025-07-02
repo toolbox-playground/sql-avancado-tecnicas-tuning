@@ -1,5 +1,8 @@
 name: Versioning Control
 
+permissions:
+  contents: write
+
 on: 
   push:
     branches:
