@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.2.0 (2025-08-20)
+
+
+### Features
+
+* updating training session ([db38288](https://github.com/toolbox-playground/sql-avancado-tecnicas-tuning/commit/db382886e2beaac8d9bfd8d4289cbea21bfb6bcd))
+
 ### 1.1.2 (2025-07-02)
 
 ### [1.1.1](https://github.com/toolbox-playground/sql-avancado-tecnicas-tuning/compare/v1.1.0...v1.1.1) (2025-07-02)
