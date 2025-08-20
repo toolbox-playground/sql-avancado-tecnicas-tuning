@@ -1,13 +1,13 @@
 -- Insert statements for employees (2500 rows)
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (1, 'LastName1', 'FirstName1', '1234', 'email1@example.com', 'O002', 2, 'JobTitle2');
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (2, 'LastName2', 'FirstName2', '1234', 'email2@example.com', 'O003', 3, 'JobTitle3');
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (3, 'LastName3', 'FirstName3', '1234', 'email3@example.com', 'O004', 4, 'JobTitle4');
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (4, 'LastName4', 'FirstName4', '1234', 'email4@example.com', 'O005', 5, 'JobTitle5');
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (5, 'LastName5', 'FirstName5', '1234', 'email5@example.com', 'O006', 6, 'JobTitle1');
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (6, 'LastName6', 'FirstName6', '1234', 'email6@example.com', 'O007', 7, 'JobTitle2');
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (7, 'LastName7', 'FirstName7', '1234', 'email7@example.com', 'O008', 8, 'JobTitle3');
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (8, 'LastName8', 'FirstName8', '1234', 'email8@example.com', 'O009', 9, 'JobTitle4');
-INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (9, 'LastName9', 'FirstName9', '1234', 'email9@example.com', 'O010', 10, 'JobTitle5');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (1, 'LastName1', 'FirstName1', '1234', 'email1@example.com', 'O002', NULL , 'JobTitle2');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (2, 'LastName2', 'FirstName2', '1234', 'email2@example.com', 'O003', NULL , 'JobTitle3');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (3, 'LastName3', 'FirstName3', '1234', 'email3@example.com', 'O004', NULL , 'JobTitle4');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (4, 'LastName4', 'FirstName4', '1234', 'email4@example.com', 'O005', NULL , 'JobTitle5');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (5, 'LastName5', 'FirstName5', '1234', 'email5@example.com', 'O006', NULL , 'JobTitle1');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (6, 'LastName6', 'FirstName6', '1234', 'email6@example.com', 'O007', NULL , 'JobTitle2');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (7, 'LastName7', 'FirstName7', '1234', 'email7@example.com', 'O008', NULL , 'JobTitle3');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (8, 'LastName8', 'FirstName8', '1234', 'email8@example.com', 'O009', NULL , 'JobTitle4');
+INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (9, 'LastName9', 'FirstName9', '1234', 'email9@example.com', 'O010', NULL , 'JobTitle5');
 INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (10, 'LastName10', 'FirstName10', '1234', 'email10@example.com', 'O001', 1, 'JobTitle1');
 INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (11, 'LastName11', 'FirstName11', '1234', 'email11@example.com', 'O002', 2, 'JobTitle2');
 INSERT INTO employees (employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle) VALUES (12, 'LastName12', 'FirstName12', '1234', 'email12@example.com', 'O003', 3, 'JobTitle3');

@@ -5,7 +5,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK200003', '2020-09-27', 4487.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK200004', '2021-10-27', 6589.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK200005', '2021-03-29', 1206.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK200006', '2022-11-30', 3815.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK200006', '2022-11-30', 3815.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK200007', '2020-01-24', 2117.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK200008', '2020-02-19', 3750.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK200009', '2020-11-24', 1404.97);
@@ -20,7 +20,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK200018', '2021-02-25', 2291.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK200019', '2020-11-21', 3537.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK200020', '2023-03-22', 1483.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK200021', '2020-05-07', 459.43);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK200021', '2020-05-07', 459.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK200022', '2023-06-16', 5221.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK200023', '2021-10-28', 1558.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK200024', '2021-09-20', 7967.09);
@@ -39,7 +39,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK200037', '2022-04-02', 8352.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK200038', '2022-11-06', 1320.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK200039', '2021-09-09', 8977.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK200040', '2020-08-17', 2631.71);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK200040', '2020-08-17', 2631.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK200041', '2021-04-14', 4341.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK200042', '2023-02-01', 198.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK200043', '2020-09-28', 589.67);
@@ -125,7 +125,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK200123', '2020-06-10', 2790.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK200124', '2023-09-10', 7177.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK200125', '2020-07-24', 582.87);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK200126', '2023-10-08', 9960.21);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK200126', '2023-10-08', 9960.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK200127', '2022-04-01', 2240.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK200128', '2021-04-04', 1827.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK200129', '2020-10-03', 5145.42);
@@ -464,7 +464,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK200462', '2021-09-08', 1753.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK200463', '2023-01-12', 7286.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK200464', '2021-08-12', 8053.56);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK200465', '2020-11-16', 9861.49);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK200465', '2020-11-16', 9861.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK200466', '2023-03-25', 6886.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK200467', '2020-02-20', 3009.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK200468', '2020-04-22', 9775.12);
@@ -800,7 +800,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK200798', '2023-08-29', 6759.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK200799', '2020-11-28', 8556.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK200800', '2023-05-03', 3439.7);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK200801', '2022-02-10', 2298.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK200801', '2022-02-10', 2298.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK200802', '2020-03-27', 6551.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK200803', '2021-11-16', 7693.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK200804', '2022-09-17', 1553.91);
@@ -908,7 +908,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK200906', '2022-10-17', 3756.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK200907', '2020-10-19', 4078.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK200908', '2020-11-21', 7947.83);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK200909', '2021-03-20', 6840.47);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK200909', '2021-03-20', 6840.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK200910', '2022-10-04', 594.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK200911', '2020-05-04', 5801.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK200912', '2022-01-23', 136.71);
@@ -949,7 +949,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK200947', '2021-06-20', 7715.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK200948', '2023-08-01', 1908.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK200949', '2022-07-04', 3040.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK200950', '2023-08-15', 989.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK200950', '2023-08-15', 989.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK200951', '2020-12-01', 180.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK200952', '2023-12-24', 6105.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK200953', '2023-04-27', 9212.17);
@@ -1041,7 +1041,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK201039', '2020-07-02', 5116.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK201040', '2020-03-13', 4315.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK201041', '2022-04-02', 9045.9);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK201042', '2020-02-27', 3304.95);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK201042', '2020-02-27', 3304.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK201043', '2020-11-16', 5886.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK201044', '2021-10-25', 8131.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK201045', '2022-02-21', 7926.88);
@@ -1220,7 +1220,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK201218', '2020-11-22', 9262.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK201219', '2023-03-18', 3256.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK201220', '2021-07-31', 1765.49);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK201221', '2020-01-18', 8628.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK201221', '2020-01-18', 8628.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK201222', '2020-06-19', 892.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK201223', '2023-12-27', 1046.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK201224', '2020-07-07', 6868.91);
@@ -1269,7 +1269,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK201267', '2023-05-13', 6081.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK201268', '2022-01-06', 7738.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK201269', '2023-03-26', 7551.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK201270', '2022-10-31', 1095.89);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK201270', '2022-10-31', 1095.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK201271', '2020-08-01', 325.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK201272', '2022-01-15', 186.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK201273', '2023-09-13', 8282.3);
@@ -1358,7 +1358,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK201356', '2020-11-26', 1561.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK201357', '2022-03-18', 8321.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK201358', '2020-06-13', 8527.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK201359', '2022-12-19', 8769.99);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK201359', '2022-12-19', 8769.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK201360', '2020-01-16', 9264.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK201361', '2020-08-24', 8313.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK201362', '2023-11-11', 8536.87);
@@ -1387,7 +1387,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK201385', '2021-06-28', 9083.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK201386', '2021-07-26', 2960.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK201387', '2020-03-12', 4603.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK201388', '2023-02-03', 4517.06);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK201388', '2023-02-03', 4517.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK201389', '2021-09-19', 9603.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK201390', '2023-01-03', 5193.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK201391', '2023-05-19', 4675.45);
@@ -1455,7 +1455,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK201453', '2022-02-02', 5958.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK201454', '2020-01-08', 8791.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK201455', '2023-03-25', 3648.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK201456', '2023-03-15', 1091.21);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK201456', '2023-03-15', 1091.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK201457', '2023-10-17', 3306.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK201458', '2022-12-16', 6008.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK201459', '2021-06-29', 5085.48);
@@ -1942,7 +1942,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK201940', '2022-01-25', 1695.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK201941', '2020-11-18', 7702.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK201942', '2023-11-06', 4100.36);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK201943', '2022-06-03', 2189.94);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK201943', '2022-06-03', 2189.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK201944', '2022-11-08', 320.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK201945', '2022-07-11', 2931.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK201946', '2020-05-06', 139.71);
@@ -2007,7 +2007,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK202005', '2022-10-09', 1609.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK202006', '2022-10-05', 5267.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK202007', '2022-08-01', 9091.89);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202008', '2022-06-01', 8496.49);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202008', '2022-06-01', 8496.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK202009', '2022-02-01', 7018.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK202010', '2022-07-12', 9374.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK202011', '2023-05-18', 5150.79);
@@ -2117,7 +2117,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK202115', '2022-12-15', 7642.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK202116', '2023-03-10', 5599.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK202117', '2021-07-26', 4124.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202118', '2020-01-03', 2685.15);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202118', '2020-01-03', 2685.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK202119', '2020-07-06', 6517.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK202120', '2021-11-19', 9787.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK202121', '2021-10-06', 7041.34);
@@ -2141,7 +2141,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK202139', '2020-04-02', 9086.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK202140', '2023-11-20', 7657.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK202141', '2022-01-04', 2285.5);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202142', '2021-01-06', 1852.29);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202142', '2021-01-06', 1852.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK202143', '2021-11-25', 4249.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK202144', '2023-10-23', 9723.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK202145', '2022-01-14', 5576.63);
@@ -2231,7 +2231,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK202229', '2022-05-17', 713.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK202230', '2023-07-17', 839.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK202231', '2022-12-24', 9832.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202232', '2023-10-09', 646.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202232', '2023-10-09', 646.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK202233', '2021-12-09', 3787.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK202234', '2021-09-04', 6567.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK202235', '2021-12-19', 4301.25);
@@ -2462,7 +2462,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK202460', '2020-08-05', 3092.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK202461', '2022-06-24', 3839.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK202462', '2021-05-12', 8986.77);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202463', '2023-07-28', 2711.11);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202463', '2023-07-28', 2711.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK202464', '2020-01-10', 4556.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK202465', '2022-03-29', 5871.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK202466', '2020-05-18', 9338.68);
@@ -2516,7 +2516,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK202514', '2021-07-08', 2689.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK202515', '2020-08-02', 2345.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK202516', '2020-09-20', 8886.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202517', '2022-07-16', 1750.08);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202517', '2022-07-16', 1750.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK202518', '2022-04-23', 7686.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK202519', '2022-10-24', 5137.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK202520', '2022-10-19', 936.7);
@@ -2609,7 +2609,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK202607', '2022-04-13', 9575.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK202608', '2022-11-19', 9332.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK202609', '2023-03-15', 6490.49);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202610', '2020-06-29', 3638.24);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202610', '2020-06-29', 3638.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK202611', '2023-04-07', 9120.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK202612', '2021-05-01', 6296.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK202613', '2022-03-06', 2671.63);
@@ -2744,7 +2744,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK202742', '2023-11-02', 995.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK202743', '2022-07-15', 4606.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK202744', '2020-11-01', 820.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202745', '2020-11-29', 2150.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202745', '2020-11-29', 2150.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK202746', '2023-01-20', 7037.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK202747', '2023-12-12', 4734.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK202748', '2020-09-05', 4703.78);
@@ -2842,7 +2842,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK202840', '2021-07-11', 7312.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK202841', '2022-08-18', 4447.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK202842', '2023-11-29', 1232.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202843', '2023-11-13', 4218.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202843', '2023-11-13', 4218.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK202844', '2022-02-15', 9988.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK202845', '2022-11-30', 801.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK202846', '2022-04-26', 4898.08);
@@ -2941,8 +2941,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK202939', '2021-01-24', 6615.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK202940', '2022-10-07', 7737.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK202941', '2020-05-17', 9799.0);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202942', '2021-03-06', 782.73);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK202943', '2022-07-08', 3769.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202942', '2021-03-06', 782.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK202943', '2022-07-08', 3769.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK202944', '2022-01-10', 9896.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK202945', '2021-01-19', 5410.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK202946', '2020-03-22', 6648.36);
@@ -3022,7 +3022,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK203020', '2023-12-04', 5565.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK203021', '2023-01-27', 7760.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK203022', '2022-11-29', 5643.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203023', '2021-05-25', 9592.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203023', '2021-05-25', 9592.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK203024', '2020-03-03', 4381.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK203025', '2020-09-25', 2030.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK203026', '2023-06-03', 2555.32);
@@ -3086,7 +3086,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK203084', '2023-06-10', 9655.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK203085', '2020-02-22', 1740.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK203086', '2022-01-07', 9025.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203087', '2023-07-13', 377.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203087', '2023-07-13', 377.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK203088', '2023-02-04', 3070.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK203089', '2022-07-24', 3105.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK203090', '2020-11-27', 4550.94);
@@ -3224,7 +3224,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK203222', '2020-08-26', 7958.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK203223', '2023-03-13', 9467.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK203224', '2021-03-06', 1092.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203225', '2021-08-25', 8733.03);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203225', '2021-08-25', 8733.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK203226', '2021-05-18', 9524.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK203227', '2021-05-08', 8628.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK203228', '2021-11-28', 6641.17);
@@ -3301,7 +3301,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK203299', '2023-02-23', 9895.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK203300', '2022-05-15', 5032.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK203301', '2020-09-27', 4459.75);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203302', '2022-02-09', 7633.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203302', '2022-02-09', 7633.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK203303', '2021-04-16', 5447.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK203304', '2022-04-06', 8639.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK203305', '2023-05-25', 9113.91);
@@ -3415,7 +3415,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK203413', '2023-11-12', 7925.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK203414', '2023-05-18', 885.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK203415', '2021-09-27', 2284.01);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203416', '2023-02-27', 2605.56);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203416', '2023-02-27', 2605.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK203417', '2020-03-28', 1204.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK203418', '2023-08-26', 6674.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK203419', '2022-01-09', 5322.99);
@@ -3427,7 +3427,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK203425', '2020-07-30', 4948.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK203426', '2022-04-11', 8365.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK203427', '2021-07-24', 9306.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203428', '2022-12-31', 7576.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203428', '2022-12-31', 7576.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203429', '2023-05-16', 2763.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK203430', '2020-11-18', 3012.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK203431', '2022-08-24', 4655.25);
@@ -3478,7 +3478,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK203476', '2020-02-11', 9305.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK203477', '2023-07-21', 8240.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK203478', '2023-08-11', 4465.34);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203479', '2021-02-19', 1431.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203479', '2021-02-19', 1431.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK203480', '2022-04-12', 6009.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK203481', '2021-11-28', 9859.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK203482', '2023-06-10', 7568.21);
@@ -3558,7 +3558,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK203556', '2022-12-17', 4800.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK203557', '2020-07-05', 6909.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK203558', '2020-03-06', 1764.72);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203559', '2023-08-08', 3951.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203559', '2023-08-08', 3951.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK203560', '2022-05-06', 8245.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK203561', '2020-12-19', 8602.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK203562', '2023-01-09', 9917.05);
@@ -3691,7 +3691,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK203689', '2023-03-20', 7462.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK203690', '2023-09-17', 8420.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK203691', '2023-08-01', 9774.89);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203692', '2020-12-30', 6544.22);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203692', '2020-12-30', 6544.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK203693', '2021-01-10', 6872.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK203694', '2020-01-26', 9071.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK203695', '2021-06-08', 1825.74);
@@ -3720,7 +3720,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK203718', '2022-01-10', 1320.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK203719', '2023-03-29', 3575.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK203720', '2023-05-07', 4336.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203721', '2022-06-30', 7844.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203721', '2022-06-30', 7844.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK203722', '2020-12-27', 269.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK203723', '2021-09-30', 6794.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK203724', '2023-04-17', 3520.84);
@@ -3752,7 +3752,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK203750', '2023-05-05', 7344.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK203751', '2020-05-02', 8144.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK203752', '2022-08-13', 8003.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203753', '2021-06-26', 7624.22);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203753', '2021-06-26', 7624.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK203754', '2022-04-03', 8580.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK203755', '2023-07-16', 2516.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK203756', '2022-06-12', 9273.35);
@@ -3772,7 +3772,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK203770', '2023-08-31', 9643.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK203771', '2022-05-30', 859.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK203772', '2020-11-01', 9791.11);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203773', '2022-04-30', 3460.59);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203773', '2022-04-30', 3460.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK203774', '2022-10-25', 864.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK203775', '2020-08-31', 9768.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK203776', '2022-12-10', 4912.6);
@@ -3852,7 +3852,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK203850', '2023-01-19', 8324.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK203851', '2023-11-29', 3447.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK203852', '2022-09-24', 8056.83);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203853', '2023-02-12', 2998.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203853', '2023-02-12', 2998.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK203854', '2020-12-08', 1388.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK203855', '2021-11-13', 7657.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK203856', '2021-08-15', 8987.1);
@@ -3915,7 +3915,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK203913', '2023-06-02', 3239.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK203914', '2021-09-20', 5460.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK203915', '2020-09-08', 1366.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK203916', '2021-05-23', 5681.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK203916', '2021-05-23', 5681.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK203917', '2021-11-04', 202.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK203918', '2021-07-19', 5357.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK203919', '2020-12-02', 8787.52);
@@ -4055,7 +4055,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK204053', '2023-10-21', 2375.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK204054', '2022-01-01', 4152.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK204055', '2023-10-14', 7022.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204056', '2020-09-07', 3392.14);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204056', '2020-09-07', 3392.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK204057', '2022-06-06', 7980.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK204058', '2021-04-30', 1515.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK204059', '2022-02-20', 5002.62);
@@ -4108,7 +4108,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK204106', '2022-01-11', 8871.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK204107', '2020-02-04', 7582.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK204108', '2023-09-19', 5736.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204109', '2021-05-16', 9931.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204109', '2021-05-16', 9931.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK204110', '2020-05-13', 8410.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK204111', '2023-04-19', 3094.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK204112', '2020-03-06', 6772.01);
@@ -4298,7 +4298,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK204296', '2022-10-22', 1406.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK204297', '2023-05-16', 2983.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK204298', '2022-04-21', 4516.13);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204299', '2022-09-18', 8867.29);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204299', '2022-09-18', 8867.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK204300', '2021-01-13', 5183.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK204301', '2020-11-15', 775.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK204302', '2023-09-15', 4501.17);
@@ -4427,7 +4427,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK204425', '2021-01-06', 8267.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK204426', '2023-01-04', 7288.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK204427', '2023-11-09', 6280.7);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204428', '2020-12-05', 5650.81);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204428', '2020-12-05', 5650.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK204429', '2023-03-29', 6424.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK204430', '2020-06-01', 8032.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK204431', '2022-06-23', 6874.22);
@@ -4534,7 +4534,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK204532', '2020-09-09', 7224.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK204533', '2023-08-12', 7880.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK204534', '2021-04-25', 980.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204535', '2020-05-01', 6958.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204535', '2020-05-01', 6958.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK204536', '2022-08-13', 2074.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK204537', '2022-02-23', 7237.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK204538', '2021-04-10', 1790.69);
@@ -4720,7 +4720,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK204718', '2021-01-07', 6204.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK204719', '2022-04-25', 342.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK204720', '2022-04-01', 9006.16);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204721', '2020-02-12', 4317.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204721', '2020-02-12', 4317.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK204722', '2020-11-07', 9755.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK204723', '2021-08-30', 8433.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK204724', '2020-02-26', 208.45);
@@ -4794,7 +4794,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK204792', '2023-08-07', 6301.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK204793', '2021-12-06', 7151.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK204794', '2022-11-10', 7120.62);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204795', '2020-03-18', 3599.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204795', '2020-03-18', 3599.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK204796', '2021-08-05', 5319.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK204797', '2023-05-03', 9077.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK204798', '2021-05-02', 9210.47);
@@ -4858,7 +4858,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK204856', '2021-11-26', 2009.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK204857', '2023-03-21', 6039.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK204858', '2022-07-27', 4864.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204859', '2022-10-15', 5433.24);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204859', '2022-10-15', 5433.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK204860', '2022-02-26', 8245.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK204861', '2020-02-08', 4098.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK204862', '2020-10-14', 2086.27);
@@ -4872,7 +4872,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK204870', '2023-02-13', 4938.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK204871', '2022-01-12', 1186.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK204872', '2022-08-24', 7305.66);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204873', '2022-05-30', 6659.83);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204873', '2022-05-30', 6659.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK204874', '2023-01-20', 8190.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204875', '2022-08-31', 2270.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK204876', '2023-10-02', 7126.02);
@@ -4972,7 +4972,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK204970', '2022-09-03', 9468.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK204971', '2020-10-12', 3785.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK204972', '2021-04-15', 6183.96);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204973', '2021-04-26', 6456.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204973', '2021-04-26', 6456.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK204974', '2022-02-26', 2372.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK204975', '2023-12-15', 6026.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK204976', '2020-02-07', 5171.23);
@@ -4986,7 +4986,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK204984', '2022-05-09', 2553.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK204985', '2021-12-26', 4938.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204986', '2021-01-29', 5656.47);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK204987', '2021-02-06', 750.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK204987', '2021-02-06', 750.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK204988', '2020-11-01', 4645.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK204989', '2023-04-25', 7371.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK204990', '2023-03-29', 8734.58);
@@ -5055,7 +5055,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK205053', '2022-03-01', 6747.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK205054', '2022-10-05', 4169.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK205055', '2022-02-21', 1946.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK205056', '2021-05-04', 1592.42);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK205056', '2021-05-04', 1592.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK205057', '2021-01-24', 9931.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK205058', '2020-02-26', 4883.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK205059', '2023-06-09', 7116.29);
@@ -5158,14 +5158,14 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK205156', '2020-01-21', 3388.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK205157', '2020-12-29', 9301.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK205158', '2022-12-19', 9208.63);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK205159', '2022-11-04', 567.36);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK205159', '2022-11-04', 567.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK205160', '2021-11-22', 8582.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK205161', '2023-12-30', 9531.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK205162', '2021-08-22', 8548.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK205163', '2020-06-01', 9561.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK205164', '2022-06-28', 741.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK205165', '2020-09-19', 2873.11);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK205166', '2022-07-10', 8867.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK205166', '2022-07-10', 8867.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK205167', '2021-07-24', 2783.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK205168', '2022-10-30', 3673.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK205169', '2022-05-29', 6272.79);
@@ -5682,7 +5682,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK205680', '2020-01-08', 1614.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK205681', '2023-08-14', 8516.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK205682', '2021-10-19', 3788.43);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK205683', '2020-09-29', 4643.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK205683', '2020-09-29', 4643.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK205684', '2023-05-10', 5312.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK205685', '2023-05-19', 812.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK205686', '2020-09-13', 9711.23);
@@ -5696,7 +5696,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK205694', '2022-06-20', 3323.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK205695', '2021-07-28', 3941.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK205696', '2021-11-20', 6175.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK205697', '2023-02-08', 3900.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK205697', '2023-02-08', 3900.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK205698', '2023-10-24', 6282.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK205699', '2022-09-07', 3240.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK205700', '2023-09-22', 400.99);
@@ -5978,7 +5978,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK205976', '2021-06-27', 7361.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK205977', '2023-03-14', 5658.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK205978', '2020-03-27', 2983.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK205979', '2020-11-13', 2171.67);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK205979', '2020-11-13', 2171.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK205980', '2020-01-14', 105.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK205981', '2021-10-22', 3049.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK205982', '2021-01-11', 4055.36);
@@ -6133,7 +6133,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK206131', '2021-03-13', 2766.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK206132', '2022-08-18', 3839.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK206133', '2022-08-04', 5969.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK206134', '2020-03-13', 4132.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK206134', '2020-03-13', 4132.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK206135', '2023-03-22', 290.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK206136', '2020-11-10', 9334.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK206137', '2023-12-14', 8651.4);
@@ -6274,7 +6274,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK206272', '2023-06-24', 3801.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK206273', '2020-01-28', 935.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK206274', '2021-11-13', 1467.4);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK206275', '2020-07-16', 7325.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK206275', '2020-07-16', 7325.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK206276', '2020-06-02', 6968.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK206277', '2021-01-17', 7401.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK206278', '2021-03-07', 7082.27);
@@ -6363,7 +6363,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK206361', '2022-01-12', 6652.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK206362', '2021-05-01', 7115.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK206363', '2021-01-01', 4000.72);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK206364', '2021-06-10', 8061.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK206364', '2021-06-10', 8061.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK206365', '2020-03-11', 2859.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK206366', '2021-11-10', 4935.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK206367', '2020-02-26', 7228.22);
@@ -6539,7 +6539,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK206537', '2021-05-20', 1423.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK206538', '2022-01-10', 8360.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK206539', '2022-05-21', 2849.11);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK206540', '2023-11-28', 8091.5);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK206540', '2023-11-28', 8091.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK206541', '2023-03-22', 7762.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK206542', '2022-05-13', 2543.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK206543', '2020-01-26', 5949.36);
@@ -6612,7 +6612,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK206610', '2020-09-24', 3841.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK206611', '2022-09-24', 4922.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK206612', '2023-10-27', 2796.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK206613', '2020-06-07', 1672.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK206613', '2020-06-07', 1672.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK206614', '2022-06-09', 9567.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK206615', '2020-04-21', 2207.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK206616', '2021-05-06', 7276.37);
@@ -6889,7 +6889,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK206887', '2023-03-29', 8100.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK206888', '2020-06-08', 8618.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK206889', '2023-01-13', 3975.66);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK206890', '2023-05-30', 4154.6);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK206890', '2023-05-30', 4154.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK206891', '2021-06-07', 9819.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK206892', '2022-01-11', 6708.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK206893', '2020-03-08', 4378.86);
@@ -6926,7 +6926,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK206924', '2020-04-26', 2534.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK206925', '2020-05-09', 9519.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK206926', '2021-06-12', 7494.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK206927', '2021-09-12', 8596.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK206927', '2021-09-12', 8596.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK206928', '2022-08-04', 3118.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK206929', '2023-01-23', 9711.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK206930', '2020-05-11', 892.48);
@@ -7245,7 +7245,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK207243', '2023-02-09', 4082.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK207244', '2023-08-04', 3731.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK207245', '2021-01-21', 2421.96);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK207246', '2020-08-27', 2294.7);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK207246', '2020-08-27', 2294.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK207247', '2022-12-26', 3720.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK207248', '2020-02-11', 6391.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK207249', '2021-12-16', 3185.64);
@@ -7451,7 +7451,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK207449', '2022-04-11', 2691.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK207450', '2020-04-18', 5148.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK207451', '2020-02-17', 1800.39);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK207452', '2022-04-25', 3667.71);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK207452', '2022-04-25', 3667.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK207453', '2022-10-27', 7080.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK207454', '2020-04-22', 3878.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK207455', '2020-03-22', 9797.48);
@@ -7563,7 +7563,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK207561', '2021-09-08', 1772.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK207562', '2020-07-21', 274.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK207563', '2020-05-09', 6152.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK207564', '2020-04-27', 8762.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK207564', '2020-04-27', 8762.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK207565', '2022-10-09', 7067.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK207566', '2021-10-01', 8790.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK207567', '2021-12-14', 6780.39);
@@ -7610,7 +7610,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK207608', '2020-05-22', 3844.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK207609', '2020-12-08', 3814.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK207610', '2022-06-07', 9505.39);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK207611', '2022-01-02', 547.8);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK207611', '2022-01-02', 547.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK207612', '2022-12-17', 6996.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK207613', '2022-08-02', 9912.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK207614', '2020-05-27', 8027.86);
@@ -7648,7 +7648,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK207646', '2020-12-02', 2599.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK207647', '2022-02-10', 1083.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK207648', '2023-12-06', 8241.01);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK207649', '2021-09-28', 5633.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK207649', '2021-09-28', 5633.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK207650', '2020-04-11', 981.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK207651', '2022-12-18', 6909.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK207652', '2023-01-11', 9135.63);
@@ -7989,7 +7989,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK207987', '2020-07-06', 234.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK207988', '2021-10-06', 8630.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK207989', '2022-05-22', 9722.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK207990', '2022-06-30', 7543.85);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK207990', '2022-06-30', 7543.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK207991', '2023-11-12', 8146.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK207992', '2020-03-15', 557.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK207993', '2023-06-19', 919.18);
@@ -8209,7 +8209,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK208207', '2023-08-27', 1845.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK208208', '2022-05-06', 9592.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK208209', '2021-09-17', 4744.7);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK208210', '2021-05-18', 3110.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK208210', '2021-05-18', 3110.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK208211', '2023-10-24', 9542.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK208212', '2023-02-01', 5322.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK208213', '2023-05-21', 1596.28);
@@ -8284,7 +8284,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK208282', '2021-06-16', 954.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK208283', '2021-09-29', 2771.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK208284', '2020-10-27', 9891.34);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK208285', '2020-12-27', 8890.03);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK208285', '2020-12-27', 8890.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK208286', '2020-04-22', 7410.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK208287', '2021-05-04', 8608.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK208288', '2020-11-13', 1516.48);
@@ -8386,7 +8386,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK208384', '2020-11-25', 5156.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK208385', '2022-06-20', 7803.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK208386', '2020-12-31', 2324.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK208387', '2021-10-01', 9371.07);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK208387', '2021-10-01', 9371.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK208388', '2023-12-17', 5663.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK208389', '2020-09-15', 5522.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK208390', '2023-12-24', 9732.34);
@@ -8583,7 +8583,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK208581', '2020-02-06', 931.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK208582', '2021-06-24', 2704.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK208583', '2021-01-26', 2916.4);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK208584', '2022-09-14', 8284.76);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK208584', '2022-09-14', 8284.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK208585', '2021-01-03', 2210.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK208586', '2021-10-16', 1083.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK208587', '2023-12-12', 7225.73);
@@ -8635,7 +8635,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK208633', '2021-04-06', 3705.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK208634', '2021-10-30', 7402.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK208635', '2020-05-24', 4434.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK208636', '2020-12-27', 3645.26);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK208636', '2020-12-27', 3645.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK208637', '2021-09-12', 2495.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK208638', '2021-03-07', 5710.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK208639', '2023-07-16', 7956.52);
@@ -8877,7 +8877,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK208875', '2021-09-08', 6303.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK208876', '2021-03-07', 2641.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK208877', '2022-06-15', 8102.68);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK208878', '2023-01-17', 4415.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK208878', '2023-01-17', 4415.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK208879', '2020-02-18', 9986.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK208880', '2023-12-18', 6111.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK208881', '2021-07-31', 594.01);
@@ -8899,7 +8899,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK208897', '2021-06-20', 7716.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK208898', '2022-11-05', 7160.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK208899', '2023-02-03', 2901.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK208900', '2021-11-13', 7735.59);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK208900', '2021-11-13', 7735.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK208901', '2021-12-28', 6064.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK208902', '2020-06-04', 9083.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK208903', '2020-08-04', 9085.0);
@@ -8948,7 +8948,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK208946', '2022-03-18', 6970.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK208947', '2023-05-27', 839.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK208948', '2021-06-18', 4541.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK208949', '2022-05-22', 3205.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK208949', '2022-05-22', 3205.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK208950', '2020-01-14', 9068.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK208951', '2021-09-19', 671.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK208952', '2022-12-08', 2807.28);
@@ -9012,7 +9012,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK209010', '2022-06-27', 3465.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK209011', '2022-03-11', 2289.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK209012', '2021-10-30', 4539.96);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209013', '2022-01-26', 738.91);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209013', '2022-01-26', 738.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK209014', '2023-03-24', 8242.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK209015', '2020-01-19', 5190.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK209016', '2020-11-14', 8184.55);
@@ -9111,7 +9111,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK209109', '2023-02-17', 3899.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK209110', '2021-11-08', 9186.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK209111', '2020-10-08', 7234.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209112', '2021-08-10', 1363.44);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209112', '2021-08-10', 1363.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK209113', '2022-11-11', 6710.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK209114', '2020-04-17', 2706.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK209115', '2022-09-29', 1714.26);
@@ -9180,7 +9180,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK209178', '2020-06-05', 8989.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK209179', '2022-07-29', 1531.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK209180', '2020-05-26', 3424.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209181', '2021-08-09', 9647.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209181', '2021-08-09', 9647.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK209182', '2023-03-19', 781.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK209183', '2020-03-18', 3391.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK209184', '2022-02-01', 3220.66);
@@ -9226,7 +9226,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK209224', '2023-01-30', 9895.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK209225', '2022-08-27', 7861.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK209226', '2022-03-06', 7432.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209227', '2020-04-25', 2337.3);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209227', '2020-04-25', 2337.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK209228', '2021-05-18', 1714.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK209229', '2020-09-23', 3029.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK209230', '2021-05-16', 8024.76);
@@ -9275,7 +9275,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK209273', '2021-12-17', 6289.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK209274', '2022-09-04', 294.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK209275', '2022-01-20', 4483.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209276', '2023-12-26', 5969.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209276', '2023-12-26', 5969.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK209277', '2022-05-13', 7342.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK209278', '2021-10-19', 4568.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK209279', '2023-05-23', 8563.72);
@@ -9293,7 +9293,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK209291', '2020-01-29', 8427.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK209292', '2021-11-08', 6584.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK209293', '2022-07-08', 5065.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209294', '2020-01-21', 9600.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209294', '2020-01-21', 9600.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK209295', '2021-08-14', 5595.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK209296', '2020-07-20', 9472.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK209297', '2021-11-26', 8955.97);
@@ -9304,7 +9304,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK209302', '2022-06-29', 6351.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK209303', '2023-06-20', 2046.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK209304', '2021-02-18', 7421.43);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209305', '2020-01-25', 1095.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209305', '2020-01-25', 1095.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK209306', '2021-07-13', 4186.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK209307', '2021-02-12', 5327.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK209308', '2020-05-26', 8225.62);
@@ -9456,7 +9456,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK209454', '2020-07-25', 8633.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK209455', '2023-05-29', 8405.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK209456', '2020-06-25', 7366.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209457', '2023-01-28', 4281.37);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209457', '2023-01-28', 4281.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK209458', '2023-02-17', 6287.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK209459', '2020-10-04', 4080.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK209460', '2020-12-20', 5940.33);
@@ -9479,7 +9479,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK209477', '2022-10-18', 9240.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK209478', '2021-04-20', 8467.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK209479', '2020-07-14', 4898.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209480', '2021-10-29', 4214.25);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209480', '2021-10-29', 4214.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK209481', '2020-04-08', 5224.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK209482', '2023-12-27', 123.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK209483', '2022-10-05', 4110.69);
@@ -9585,7 +9585,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK209583', '2021-05-12', 3233.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK209584', '2021-06-23', 6406.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK209585', '2021-10-13', 905.84);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209586', '2023-10-18', 6502.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209586', '2023-10-18', 6502.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK209587', '2020-07-05', 7194.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK209588', '2023-04-06', 9005.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK209589', '2022-07-09', 5244.87);
@@ -9680,7 +9680,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK209678', '2023-08-12', 6662.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK209679', '2021-02-08', 5966.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK209680', '2023-01-11', 9096.34);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209681', '2022-03-07', 4759.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209681', '2022-03-07', 4759.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK209682', '2022-04-21', 7477.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK209683', '2022-08-03', 9245.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK209684', '2022-12-24', 2859.27);
@@ -9759,7 +9759,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK209757', '2021-01-03', 960.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK209758', '2023-11-25', 8573.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK209759', '2021-03-07', 9670.22);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209760', '2020-06-27', 3873.29);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209760', '2020-06-27', 3873.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK209761', '2022-02-08', 2347.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK209762', '2023-10-10', 5756.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK209763', '2023-12-13', 1235.07);
@@ -9910,7 +9910,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK209908', '2020-03-14', 9131.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK209909', '2020-02-28', 2116.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK209910', '2020-07-23', 2600.1);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK209911', '2023-04-18', 6216.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK209911', '2023-04-18', 6216.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK209912', '2021-11-21', 3512.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK209913', '2022-02-24', 1667.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK209914', '2023-08-09', 7293.73);
@@ -10016,7 +10016,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK210014', '2022-09-11', 8002.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK210015', '2022-11-15', 9620.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK210016', '2022-01-22', 9667.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK210017', '2020-07-19', 1326.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK210017', '2020-07-19', 1326.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK210018', '2023-09-07', 2490.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK210019', '2021-06-09', 5983.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK210020', '2020-06-14', 6310.08);
@@ -10564,9 +10564,9 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK210562', '2020-08-17', 9758.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK210563', '2023-07-22', 3179.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK210564', '2020-07-30', 3253.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK210565', '2020-10-24', 6901.08);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK210565', '2020-10-24', 6901.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK210566', '2020-08-20', 6542.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK210567', '2021-04-20', 5317.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK210567', '2021-04-20', 5317.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK210568', '2023-03-17', 1235.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK210569', '2020-12-16', 5449.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK210570', '2020-01-11', 7869.22);
@@ -10589,7 +10589,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK210587', '2023-01-15', 2886.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK210588', '2022-09-12', 9810.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK210589', '2020-08-04', 73.11);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK210590', '2023-11-04', 1818.97);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK210590', '2023-11-04', 1818.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK210591', '2022-02-15', 4057.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK210592', '2022-12-02', 5152.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK210593', '2020-08-14', 6557.54);
@@ -10865,12 +10865,12 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK210863', '2022-11-18', 6961.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK210864', '2022-12-02', 3582.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK210865', '2021-10-01', 3386.54);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK210866', '2020-05-27', 4995.92);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK210866', '2020-05-27', 4995.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK210867', '2021-03-10', 1100.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK210868', '2023-06-14', 5808.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK210869', '2021-07-23', 6827.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK210870', '2021-07-03', 3988.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK210871', '2022-08-08', 2651.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK210871', '2022-08-08', 2651.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK210872', '2023-12-14', 7427.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK210873', '2022-05-10', 192.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK210874', '2022-12-13', 7303.64);
@@ -10937,7 +10937,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK210935', '2023-09-18', 4856.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK210936', '2023-07-26', 7808.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK210937', '2021-12-10', 1773.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK210938', '2020-05-17', 7250.85);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK210938', '2020-05-17', 7250.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK210939', '2023-02-25', 702.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK210940', '2021-07-30', 4567.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK210941', '2020-07-08', 8611.84);
@@ -10988,7 +10988,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK210986', '2022-02-13', 9648.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK210987', '2023-08-03', 1873.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK210988', '2020-04-06', 302.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK210989', '2021-02-04', 2805.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK210989', '2021-02-04', 2805.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK210990', '2020-09-08', 4919.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK210991', '2022-07-12', 1630.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK210992', '2023-02-04', 1359.94);
@@ -11032,7 +11032,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK211030', '2020-09-18', 5219.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK211031', '2021-09-18', 8262.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK211032', '2020-06-11', 2062.44);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK211033', '2022-07-15', 5115.56);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK211033', '2022-07-15', 5115.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK211034', '2021-05-21', 4962.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK211035', '2021-08-28', 9291.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK211036', '2023-08-12', 5057.9);
@@ -11232,7 +11232,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK211230', '2022-10-23', 2509.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK211231', '2023-11-19', 9892.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK211232', '2020-06-21', 6727.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK211233', '2023-04-30', 1843.16);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK211233', '2023-04-30', 1843.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK211234', '2020-10-17', 1598.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK211235', '2023-11-16', 1423.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK211236', '2021-06-11', 63.36);
@@ -11331,7 +11331,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK211329', '2022-07-12', 3446.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK211330', '2022-08-26', 3657.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK211331', '2020-05-20', 2648.27);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK211332', '2020-12-22', 3916.4);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK211332', '2020-12-22', 3916.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK211333', '2020-02-17', 8974.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK211334', '2021-11-02', 9378.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK211335', '2021-09-22', 9617.74);
@@ -11599,7 +11599,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK211597', '2020-06-24', 8531.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK211598', '2021-07-27', 1249.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK211599', '2021-07-12', 2125.5);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK211600', '2021-06-01', 9626.34);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK211600', '2021-06-01', 9626.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK211601', '2022-03-14', 9552.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK211602', '2021-08-04', 6144.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK211603', '2020-06-18', 4341.01);
@@ -11716,7 +11716,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK211714', '2022-03-26', 4025.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK211715', '2021-09-05', 6283.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK211716', '2022-02-18', 9230.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK211717', '2021-09-27', 589.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK211717', '2021-09-27', 589.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK211718', '2022-10-01', 7812.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK211719', '2022-06-04', 9425.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK211720', '2022-03-21', 4159.63);
@@ -11888,7 +11888,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK211886', '2021-06-01', 6767.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK211887', '2021-12-20', 8489.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK211888', '2023-07-15', 8224.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK211889', '2023-11-17', 4103.42);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK211889', '2023-11-17', 4103.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK211890', '2021-11-01', 3172.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK211891', '2020-04-11', 177.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK211892', '2023-12-02', 8649.02);
@@ -11948,7 +11948,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK211946', '2022-05-17', 6910.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK211947', '2020-10-14', 6665.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK211948', '2020-08-24', 1033.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK211949', '2020-03-31', 5353.1);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK211949', '2020-03-31', 5353.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK211950', '2020-02-09', 4773.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK211951', '2020-12-22', 8087.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK211952', '2021-05-17', 7890.77);
@@ -12006,7 +12006,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK212004', '2022-05-23', 2850.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK212005', '2022-01-17', 6943.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK212006', '2023-06-04', 7030.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212007', '2021-11-23', 7588.7);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212007', '2021-11-23', 7588.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK212008', '2020-03-05', 3715.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK212009', '2021-02-07', 5723.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK212010', '2021-12-17', 8609.82);
@@ -12041,7 +12041,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK212039', '2021-02-25', 5003.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK212040', '2021-07-08', 3867.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK212041', '2022-09-16', 624.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212042', '2020-03-25', 2213.8);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212042', '2020-03-25', 2213.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK212043', '2023-10-18', 3601.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK212044', '2023-11-23', 7121.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK212045', '2021-09-29', 7122.82);
@@ -12081,7 +12081,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK212079', '2023-04-22', 8099.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK212080', '2021-05-16', 1056.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK212081', '2020-05-12', 4536.84);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212082', '2023-02-14', 8477.95);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212082', '2023-02-14', 8477.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK212083', '2020-07-21', 2338.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK212084', '2020-12-16', 80.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK212085', '2020-08-09', 6380.43);
@@ -12209,7 +12209,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK212207', '2022-11-25', 7483.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK212208', '2022-08-12', 5271.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK212209', '2022-02-01', 8573.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212210', '2023-09-24', 3920.92);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212210', '2023-09-24', 3920.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK212211', '2020-10-31', 5729.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK212212', '2021-05-20', 4245.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK212213', '2021-02-25', 4797.26);
@@ -12258,7 +12258,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK212256', '2022-05-12', 5680.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK212257', '2023-08-21', 2202.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK212258', '2021-10-13', 2382.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212259', '2022-07-18', 8771.64);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212259', '2022-07-18', 8771.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK212260', '2023-06-22', 1045.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK212261', '2023-01-18', 6379.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK212262', '2022-05-27', 8765.23);
@@ -12341,7 +12341,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK212339', '2022-05-13', 9646.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK212340', '2022-10-31', 8936.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK212341', '2022-06-21', 4940.88);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212342', '2023-03-23', 8857.58);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212342', '2023-03-23', 8857.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK212343', '2020-11-14', 7953.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK212344', '2023-11-03', 3509.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK212345', '2021-05-01', 5155.29);
@@ -12528,7 +12528,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK212526', '2022-07-23', 5817.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK212527', '2023-08-26', 7879.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK212528', '2023-08-29', 1017.53);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212529', '2022-08-08', 3876.61);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212529', '2022-08-08', 3876.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK212530', '2023-01-11', 5363.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK212531', '2022-10-17', 4973.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK212532', '2022-11-26', 7808.97);
@@ -12564,7 +12564,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK212562', '2023-10-25', 5692.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK212563', '2023-08-19', 1763.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK212564', '2023-01-05', 8342.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212565', '2023-08-16', 7656.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212565', '2023-08-16', 7656.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK212566', '2020-01-30', 4760.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK212567', '2022-09-10', 6065.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK212568', '2021-06-18', 3479.97);
@@ -12590,7 +12590,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK212588', '2020-06-01', 8061.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK212589', '2022-10-02', 4000.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK212590', '2020-12-06', 9302.0);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212591', '2022-11-09', 7590.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212591', '2022-11-09', 7590.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK212592', '2023-11-01', 9153.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK212593', '2021-06-26', 576.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK212594', '2023-12-10', 1403.39);
@@ -12747,7 +12747,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK212745', '2022-10-02', 7393.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK212746', '2020-10-23', 6294.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK212747', '2020-09-18', 8991.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212748', '2021-04-02', 1734.76);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212748', '2021-04-02', 1734.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK212749', '2020-03-20', 1690.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK212750', '2023-05-09', 6939.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK212751', '2022-05-31', 7333.09);
@@ -12762,7 +12762,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK212760', '2022-01-21', 8915.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK212761', '2023-07-23', 6733.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK212762', '2023-06-22', 6360.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212763', '2020-04-05', 7953.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212763', '2020-04-05', 7953.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK212764', '2021-12-24', 6941.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK212765', '2022-05-10', 1467.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK212766', '2023-10-06', 8747.56);
@@ -12920,7 +12920,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK212918', '2023-08-30', 7608.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK212919', '2021-12-02', 2532.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK212920', '2022-06-02', 8859.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK212921', '2023-01-16', 3167.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK212921', '2023-01-16', 3167.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK212922', '2020-01-01', 3496.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK212923', '2021-11-23', 1443.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK212924', '2023-03-20', 6505.72);
@@ -12999,7 +12999,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK212997', '2020-01-12', 4571.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK212998', '2022-08-02', 6683.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK212999', '2023-07-03', 2125.1);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213000', '2020-09-20', 5309.57);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213000', '2020-09-20', 5309.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK213001', '2020-03-18', 1797.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK213002', '2020-03-25', 355.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK213003', '2021-06-29', 8924.12);
@@ -13023,7 +13023,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK213021', '2020-12-03', 8794.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK213022', '2021-08-15', 7704.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK213023', '2022-07-30', 3525.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213024', '2022-08-25', 8458.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213024', '2022-08-25', 8458.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK213025', '2020-01-02', 3089.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK213026', '2020-06-20', 7201.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK213027', '2020-08-08', 5132.06);
@@ -13278,7 +13278,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK213276', '2020-12-21', 9287.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK213277', '2021-09-10', 5935.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK213278', '2022-03-28', 3657.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213279', '2023-12-01', 8172.07);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213279', '2023-12-01', 8172.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK213280', '2021-07-13', 5957.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK213281', '2021-02-14', 4115.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK213282', '2021-06-21', 1634.88);
@@ -13348,9 +13348,9 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK213346', '2021-06-30', 3207.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK213347', '2023-04-16', 9646.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK213348', '2020-01-31', 4492.87);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213349', '2023-03-05', 6200.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213349', '2023-03-05', 6200.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK213350', '2023-12-02', 9185.54);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213351', '2022-04-14', 7000.21);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213351', '2022-04-14', 7000.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK213352', '2022-06-28', 9162.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK213353', '2021-02-19', 2420.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK213354', '2022-02-18', 397.0);
@@ -13518,7 +13518,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK213516', '2020-01-15', 5181.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK213517', '2022-07-18', 1306.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK213518', '2023-11-15', 9702.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213519', '2023-03-15', 5070.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213519', '2023-03-15', 5070.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK213520', '2023-10-05', 6921.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK213521', '2023-03-27', 4214.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK213522', '2023-12-17', 7056.45);
@@ -13662,7 +13662,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK213660', '2022-09-29', 4066.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK213661', '2022-03-31', 6863.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK213662', '2023-08-07', 2598.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213663', '2022-04-28', 8027.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213663', '2022-04-28', 8027.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK213664', '2022-11-26', 1373.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK213665', '2022-04-10', 1635.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK213666', '2021-05-07', 2002.48);
@@ -13713,7 +13713,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK213711', '2022-05-25', 8061.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK213712', '2021-07-27', 8950.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK213713', '2020-05-13', 6827.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213714', '2020-05-25', 1305.47);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213714', '2020-05-25', 1305.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK213715', '2020-05-22', 6879.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK213716', '2020-07-24', 8841.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK213717', '2021-06-01', 4409.38);
@@ -13746,7 +13746,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK213744', '2022-07-23', 7246.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK213745', '2023-03-04', 4721.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK213746', '2023-07-14', 6342.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213747', '2020-10-09', 5758.24);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213747', '2020-10-09', 5758.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK213748', '2020-10-25', 2772.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK213749', '2021-05-21', 6349.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK213750', '2022-09-27', 9804.1);
@@ -13919,7 +13919,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK213917', '2022-09-10', 655.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK213918', '2021-09-04', 6069.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK213919', '2022-01-25', 1738.2);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213920', '2023-03-23', 1317.25);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213920', '2023-03-23', 1317.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK213921', '2021-12-31', 3322.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK213922', '2021-07-30', 612.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK213923', '2023-11-09', 683.71);
@@ -13947,7 +13947,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK213945', '2023-04-15', 8304.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK213946', '2020-03-06', 941.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK213947', '2021-09-16', 4899.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK213948', '2020-06-18', 3065.54);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK213948', '2020-06-18', 3065.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK213949', '2021-05-06', 3033.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK213950', '2022-11-04', 9806.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK213951', '2022-01-23', 2341.19);
@@ -14042,7 +14042,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK214040', '2022-03-23', 5108.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK214041', '2022-02-16', 6208.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK214042', '2020-01-19', 7373.06);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK214043', '2022-06-10', 3148.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK214043', '2022-06-10', 3148.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK214044', '2022-01-02', 2029.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK214045', '2022-12-03', 6703.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK214046', '2023-09-25', 8350.5);
@@ -14109,7 +14109,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK214107', '2021-07-13', 7349.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK214108', '2023-10-29', 9900.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK214109', '2022-06-19', 1394.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK214110', '2020-06-11', 135.47);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK214110', '2020-06-11', 135.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK214111', '2022-06-11', 1632.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK214112', '2020-10-09', 7161.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK214113', '2021-12-30', 9015.12);
@@ -14183,7 +14183,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK214181', '2023-04-16', 3193.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK214182', '2022-05-07', 586.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK214183', '2020-02-17', 7582.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK214184', '2020-11-14', 9867.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK214184', '2020-11-14', 9867.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK214185', '2023-09-24', 2756.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK214186', '2020-01-14', 3522.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK214187', '2020-02-28', 4005.0);
@@ -14194,7 +14194,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK214192', '2020-11-30', 4715.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK214193', '2021-07-06', 8341.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK214194', '2021-02-04', 8596.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK214195', '2021-06-06', 7629.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK214195', '2021-06-06', 7629.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK214196', '2020-10-26', 8104.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK214197', '2022-10-17', 9167.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK214198', '2022-07-14', 8620.86);
@@ -14236,7 +14236,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK214234', '2021-03-23', 1195.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK214235', '2023-03-14', 4071.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK214236', '2020-11-17', 5068.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK214237', '2020-09-09', 6374.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK214237', '2020-09-09', 6374.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK214238', '2020-02-11', 8518.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK214239', '2022-11-03', 9073.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK214240', '2023-12-15', 382.67);
@@ -14356,7 +14356,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK214354', '2023-01-29', 4037.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK214355', '2020-06-15', 8864.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK214356', '2021-05-01', 2956.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK214357', '2022-12-21', 8591.76);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK214357', '2022-12-21', 8591.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK214358', '2020-06-28', 1223.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK214359', '2020-02-02', 8606.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK214360', '2020-02-07', 6587.43);
@@ -14841,7 +14841,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK214839', '2020-01-12', 7304.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK214840', '2020-01-05', 3585.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK214841', '2023-10-24', 8503.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK214842', '2020-12-29', 7149.31);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK214842', '2020-12-29', 7149.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK214843', '2022-01-14', 7041.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK214844', '2022-05-05', 8639.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK214845', '2020-12-03', 9682.25);
@@ -15013,7 +15013,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK215011', '2022-04-22', 2912.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK215012', '2021-08-28', 7575.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK215013', '2022-08-15', 9727.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215014', '2023-09-29', 7494.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215014', '2023-09-29', 7494.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK215015', '2020-10-08', 4580.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK215016', '2020-08-27', 3965.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK215017', '2020-11-01', 6423.0);
@@ -15118,7 +15118,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK215116', '2021-12-07', 2501.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK215117', '2021-08-03', 8870.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK215118', '2021-01-31', 2267.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215119', '2020-06-05', 130.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215119', '2020-06-05', 130.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK215120', '2020-03-18', 2484.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK215121', '2022-10-24', 6397.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK215122', '2020-10-23', 2887.63);
@@ -15229,7 +15229,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK215227', '2022-01-22', 3703.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK215228', '2021-02-17', 8540.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK215229', '2020-07-17', 2365.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215230', '2022-03-10', 913.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215230', '2022-03-10', 913.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK215231', '2020-10-21', 6825.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK215232', '2020-03-01', 2315.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK215233', '2021-04-27', 8219.5);
@@ -15269,7 +15269,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK215267', '2023-07-27', 52.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK215268', '2021-03-01', 5160.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK215269', '2021-11-07', 7187.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215270', '2022-08-10', 2348.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215270', '2022-08-10', 2348.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK215271', '2023-09-21', 3158.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK215272', '2023-07-12', 9745.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK215273', '2023-03-30', 1664.9);
@@ -15539,11 +15539,11 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK215537', '2022-04-22', 2923.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK215538', '2022-04-29', 5353.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK215539', '2022-05-12', 4134.58);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215540', '2021-01-07', 8073.65);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215540', '2021-01-07', 8073.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK215541', '2023-06-26', 5545.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK215542', '2021-02-17', 3363.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK215543', '2023-07-22', 7738.54);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215544', '2020-04-19', 5000.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215544', '2020-04-19', 5000.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK215545', '2020-05-12', 8964.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK215546', '2022-03-09', 6843.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK215547', '2023-06-24', 9222.36);
@@ -15634,7 +15634,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK215632', '2022-02-09', 8351.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK215633', '2022-01-25', 6068.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK215634', '2020-08-28', 2272.06);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215635', '2021-04-06', 2262.81);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215635', '2021-04-06', 2262.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK215636', '2023-12-16', 5251.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK215637', '2023-01-22', 336.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK215638', '2021-02-09', 3054.05);
@@ -15752,7 +15752,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK215750', '2022-04-18', 6737.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK215751', '2020-07-14', 6476.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK215752', '2020-01-31', 6006.96);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215753', '2022-08-01', 9825.08);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215753', '2022-08-01', 9825.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK215754', '2020-11-06', 9271.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK215755', '2023-03-30', 3414.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK215756', '2023-04-18', 8251.02);
@@ -15982,7 +15982,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK215980', '2022-10-30', 6844.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK215981', '2023-05-20', 1240.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK215982', '2022-06-01', 5744.62);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK215983', '2022-05-14', 2007.31);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK215983', '2022-05-14', 2007.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK215984', '2021-02-06', 2765.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK215985', '2021-08-17', 7855.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK215986', '2020-12-28', 2959.62);
@@ -16082,7 +16082,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK216080', '2022-10-04', 6004.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK216081', '2021-09-17', 7252.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK216082', '2022-07-24', 1836.22);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK216083', '2021-06-28', 3902.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216083', '2021-06-28', 3902.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK216084', '2021-04-09', 1489.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK216085', '2021-06-18', 5229.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK216086', '2020-11-18', 3351.77);
@@ -16151,7 +16151,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK216149', '2020-06-03', 9873.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK216150', '2023-01-07', 6417.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK216151', '2022-01-24', 3201.48);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK216152', '2020-08-15', 275.61);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216152', '2020-08-15', 275.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216153', '2021-12-23', 9264.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK216154', '2020-02-04', 8745.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK216155', '2023-07-18', 6557.83);
@@ -16270,7 +16270,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK216268', '2023-12-03', 7586.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK216269', '2020-11-01', 9401.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK216270', '2021-07-16', 9512.36);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK216271', '2022-12-09', 63.8);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216271', '2022-12-09', 63.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK216272', '2020-08-13', 2270.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK216273', '2021-06-28', 653.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK216274', '2021-12-19', 2583.85);
@@ -16337,7 +16337,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK216335', '2022-11-04', 5215.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK216336', '2022-01-09', 8974.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK216337', '2022-08-06', 762.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK216338', '2020-05-03', 2916.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216338', '2020-05-03', 2916.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK216339', '2022-09-30', 2511.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK216340', '2020-05-25', 6474.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK216341', '2020-04-12', 7219.63);
@@ -16465,7 +16465,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK216463', '2021-11-25', 3246.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK216464', '2022-09-29', 9899.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK216465', '2020-01-09', 6991.4);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK216466', '2021-08-11', 6319.66);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216466', '2021-08-11', 6319.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK216467', '2022-08-26', 5925.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK216468', '2021-01-19', 3343.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK216469', '2023-04-12', 9051.93);
@@ -16881,7 +16881,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK216879', '2023-02-04', 6856.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK216880', '2022-02-09', 8468.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK216881', '2023-05-23', 8987.47);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK216882', '2021-10-20', 7107.95);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216882', '2021-10-20', 7107.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK216883', '2022-01-21', 8887.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK216884', '2021-03-23', 3744.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK216885', '2023-04-30', 2427.94);
@@ -16911,12 +16911,12 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK216909', '2023-08-04', 3592.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK216910', '2023-02-11', 9090.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK216911', '2022-09-10', 7974.77);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK216912', '2021-09-09', 7181.47);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216912', '2021-09-09', 7181.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK216913', '2021-10-07', 1944.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK216914', '2022-03-07', 8937.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK216915', '2023-05-30', 7843.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK216916', '2022-10-02', 2442.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK216917', '2021-02-12', 2000.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK216917', '2021-02-12', 2000.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK216918', '2023-08-17', 2922.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK216919', '2021-10-09', 2849.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK216920', '2022-01-27', 1476.77);
@@ -17119,7 +17119,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK217117', '2023-07-04', 8434.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK217118', '2022-11-28', 1765.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK217119', '2023-07-20', 3545.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217120', '2022-06-27', 8633.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217120', '2022-06-27', 8633.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK217121', '2022-08-18', 2387.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK217122', '2021-04-01', 5458.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK217123', '2020-08-12', 2576.97);
@@ -17147,7 +17147,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK217145', '2022-12-02', 9498.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK217146', '2021-06-09', 5896.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK217147', '2021-06-13', 5416.04);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217148', '2021-06-24', 6406.36);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217148', '2021-06-24', 6406.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK217149', '2023-01-19', 8952.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK217150', '2023-12-30', 9336.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK217151', '2020-03-24', 2287.03);
@@ -17159,7 +17159,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK217157', '2022-09-08', 4031.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK217158', '2023-08-18', 2827.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK217159', '2021-02-08', 5988.75);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217160', '2021-02-25', 8322.8);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217160', '2021-02-25', 8322.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK217161', '2022-10-31', 9493.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK217162', '2020-12-19', 9826.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK217163', '2021-12-31', 8242.75);
@@ -17365,10 +17365,10 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK217363', '2023-01-05', 8191.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK217364', '2021-07-12', 582.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK217365', '2022-07-06', 2848.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217366', '2021-08-03', 3744.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217366', '2021-08-03', 3744.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK217367', '2020-03-08', 200.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK217368', '2023-01-21', 8169.15);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217369', '2023-02-23', 1482.15);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217369', '2023-02-23', 1482.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK217370', '2021-05-20', 3329.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK217371', '2023-09-04', 5423.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK217372', '2023-12-28', 9000.39);
@@ -17541,7 +17541,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK217539', '2022-08-18', 6531.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK217540', '2021-12-14', 4830.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK217541', '2022-10-31', 5982.83);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217542', '2022-05-11', 6341.34);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217542', '2022-05-11', 6341.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK217543', '2022-08-20', 7943.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK217544', '2023-01-10', 224.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK217545', '2021-04-23', 6493.04);
@@ -17560,7 +17560,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK217558', '2023-02-20', 9742.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK217559', '2022-12-20', 7743.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK217560', '2022-01-08', 5204.22);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217561', '2020-04-12', 1085.1);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217561', '2020-04-12', 1085.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK217562', '2020-04-17', 9668.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK217563', '2022-08-07', 8137.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK217564', '2023-05-22', 7784.47);
@@ -17761,7 +17761,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK217759', '2020-01-04', 154.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK217760', '2021-04-27', 1490.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK217761', '2023-03-29', 4443.83);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217762', '2020-02-14', 4897.66);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217762', '2020-02-14', 4897.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK217763', '2020-07-10', 4712.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK217764', '2020-05-14', 3023.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK217765', '2023-09-30', 1750.99);
@@ -17814,7 +17814,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK217812', '2022-06-29', 9084.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK217813', '2023-09-10', 3199.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK217814', '2021-08-28', 5704.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK217815', '2021-09-30', 9512.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK217815', '2021-09-30', 9512.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK217816', '2022-06-10', 8611.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK217817', '2023-09-24', 8218.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK217818', '2023-06-20', 8296.76);
@@ -18020,7 +18020,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK218018', '2021-07-27', 2597.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK218019', '2021-04-27', 4338.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK218020', '2022-03-30', 7859.45);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218021', '2020-07-28', 5442.7);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218021', '2020-07-28', 5442.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK218022', '2020-09-27', 57.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK218023', '2021-03-17', 4584.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK218024', '2022-02-09', 7626.0);
@@ -18219,7 +18219,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK218217', '2023-03-06', 2329.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK218218', '2020-11-09', 8347.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK218219', '2020-04-07', 4596.61);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218220', '2021-09-10', 7408.35);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218220', '2021-09-10', 7408.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK218221', '2020-02-19', 1807.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK218222', '2021-03-25', 4196.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK218223', '2021-02-03', 4432.97);
@@ -18255,7 +18255,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK218253', '2023-06-06', 1200.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK218254', '2020-11-24', 9947.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK218255', '2020-02-08', 904.74);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218256', '2020-06-13', 4613.12);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218256', '2020-06-13', 4613.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK218257', '2020-10-22', 8368.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK218258', '2020-07-07', 6736.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK218259', '2021-09-03', 3635.21);
@@ -18424,7 +18424,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK218422', '2023-07-24', 2003.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK218423', '2023-05-15', 4096.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK218424', '2020-02-20', 6245.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218425', '2020-04-15', 2736.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218425', '2020-04-15', 2736.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK218426', '2023-11-24', 383.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK218427', '2022-02-07', 4515.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK218428', '2021-03-20', 2607.12);
@@ -18451,7 +18451,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK218449', '2020-02-18', 1882.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK218450', '2021-01-17', 5080.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK218451', '2023-12-29', 2203.06);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218452', '2023-09-03', 6366.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218452', '2023-09-03', 6366.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK218453', '2023-09-27', 7455.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK218454', '2020-12-08', 7234.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK218455', '2022-12-30', 2407.77);
@@ -18544,7 +18544,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK218542', '2022-10-31', 9941.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK218543', '2023-10-30', 6004.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK218544', '2023-05-28', 2230.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218545', '2023-01-10', 159.66);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218545', '2023-01-10', 159.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK218546', '2023-01-25', 9007.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK218547', '2022-12-17', 9870.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK218548', '2020-08-22', 2412.88);
@@ -18619,7 +18619,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK218617', '2021-01-09', 3115.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK218618', '2021-02-22', 3059.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK218619', '2022-11-29', 6875.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218620', '2023-01-23', 5326.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218620', '2023-01-23', 5326.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK218621', '2023-10-15', 9047.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK218622', '2021-05-07', 9552.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK218623', '2022-07-02', 9534.39);
@@ -18689,7 +18689,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK218687', '2020-10-31', 3291.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK218688', '2023-12-13', 1342.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK218689', '2020-06-15', 1863.09);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218690', '2021-03-23', 5443.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218690', '2021-03-23', 5443.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK218691', '2021-10-18', 976.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK218692', '2021-11-18', 9546.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK218693', '2022-01-05', 3358.22);
@@ -18812,7 +18812,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK218810', '2020-07-26', 9791.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK218811', '2023-07-07', 2778.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK218812', '2021-03-19', 7744.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218813', '2020-03-22', 4705.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218813', '2020-03-22', 4705.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK218814', '2023-03-14', 1553.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK218815', '2021-10-21', 1153.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK218816', '2022-01-22', 4515.61);
@@ -18955,7 +18955,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK218953', '2020-06-08', 4040.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK218954', '2022-06-18', 4717.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK218955', '2020-02-29', 135.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218956', '2022-05-22', 6684.67);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218956', '2022-05-22', 6684.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK218957', '2023-01-03', 2590.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK218958', '2022-01-08', 4963.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK218959', '2021-11-07', 2332.97);
@@ -18969,7 +18969,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218967', '2021-07-14', 1111.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK218968', '2020-06-26', 4398.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK218969', '2021-05-10', 6657.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK218970', '2021-02-28', 1591.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK218970', '2021-02-28', 1591.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK218971', '2020-06-22', 7472.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK218972', '2023-10-29', 1979.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK218973', '2022-04-02', 5502.49);
@@ -19162,7 +19162,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK219160', '2021-05-31', 6977.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK219161', '2023-04-30', 1532.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK219162', '2020-03-08', 5946.34);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK219163', '2021-05-12', 3672.22);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK219163', '2021-05-12', 3672.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK219164', '2023-11-14', 9543.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK219165', '2022-07-03', 4014.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK219166', '2022-09-06', 7673.28);
@@ -19176,7 +19176,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK219174', '2023-04-24', 7864.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK219175', '2023-09-27', 7260.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK219176', '2020-01-15', 691.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK219177', '2023-07-03', 323.67);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK219177', '2023-07-03', 323.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK219178', '2020-04-20', 5734.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK219179', '2022-04-06', 7381.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK219180', '2022-04-05', 4309.86);
@@ -19226,7 +19226,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK219224', '2020-11-17', 6895.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK219225', '2020-07-03', 8160.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK219226', '2021-10-10', 2789.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK219227', '2020-03-25', 9537.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK219227', '2020-03-25', 9537.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK219228', '2023-08-22', 3578.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK219229', '2020-02-11', 5393.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK219230', '2022-06-16', 3756.84);
@@ -19398,7 +19398,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK219396', '2021-01-08', 7051.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK219397', '2022-07-16', 586.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK219398', '2022-11-04', 6381.98);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK219399', '2020-10-29', 6466.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK219399', '2020-10-29', 6466.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK219400', '2023-05-24', 5511.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK219401', '2022-05-04', 7358.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK219402', '2021-06-22', 4577.27);
@@ -19523,7 +19523,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK219521', '2022-11-28', 1134.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK219522', '2020-10-11', 8090.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK219523', '2022-12-16', 7214.06);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK219524', '2023-02-19', 4645.24);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK219524', '2023-02-19', 4645.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK219525', '2020-06-20', 2651.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK219526', '2023-03-13', 5050.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK219527', '2022-01-31', 8408.24);
@@ -19648,7 +19648,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK219646', '2023-05-06', 8554.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK219647', '2021-06-03', 7865.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK219648', '2022-09-12', 440.99);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK219649', '2021-05-10', 5058.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK219649', '2021-05-10', 5058.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK219650', '2020-07-28', 271.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK219651', '2020-02-03', 1043.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK219652', '2022-02-26', 9948.46);
@@ -19793,7 +19793,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK219791', '2022-03-08', 2941.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK219792', '2021-12-26', 1295.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK219793', '2022-12-08', 2425.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK219794', '2021-02-08', 652.75);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK219794', '2021-02-08', 652.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK219795', '2023-04-01', 6232.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK219796', '2021-12-27', 2709.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK219797', '2020-01-13', 1884.9);
@@ -20193,7 +20193,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK220191', '2022-04-18', 4868.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK220192', '2020-03-17', 664.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK220193', '2023-01-26', 373.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220194', '2021-06-06', 1274.43);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220194', '2021-06-06', 1274.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK220195', '2023-04-10', 3818.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK220196', '2021-07-25', 7310.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK220197', '2022-02-03', 4647.36);
@@ -20203,7 +20203,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK220201', '2023-06-01', 891.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK220202', '2022-05-04', 5401.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK220203', '2023-05-23', 895.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220204', '2021-11-01', 9542.58);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220204', '2021-11-01', 9542.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK220205', '2020-03-25', 5772.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK220206', '2023-02-19', 2196.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK220207', '2022-08-05', 6733.1);
@@ -20386,13 +20386,13 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK220384', '2023-09-30', 1108.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK220385', '2023-03-15', 892.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK220386', '2022-04-26', 5452.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220387', '2021-10-07', 553.16);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220387', '2021-10-07', 553.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK220388', '2022-11-27', 9530.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK220389', '2022-04-08', 1780.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK220390', '2022-11-18', 5069.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK220391', '2021-08-06', 3767.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK220392', '2023-01-07', 4176.15);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220393', '2020-07-09', 9112.02);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220393', '2020-07-09', 9112.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK220394', '2023-12-02', 6095.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK220395', '2021-04-22', 1415.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK220396', '2022-09-19', 7043.66);
@@ -20485,7 +20485,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK220483', '2022-07-18', 4380.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK220484', '2020-02-27', 3340.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK220485', '2023-12-17', 3044.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220486', '2023-06-07', 6856.94);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220486', '2023-06-07', 6856.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK220487', '2022-09-12', 5818.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK220488', '2022-03-04', 4913.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK220489', '2021-10-11', 9519.75);
@@ -20671,7 +20671,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK220669', '2022-12-13', 2285.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK220670', '2023-07-16', 5263.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK220671', '2022-03-15', 4254.46);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220672', '2021-03-03', 8025.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220672', '2021-03-03', 8025.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK220673', '2022-12-16', 261.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK220674', '2022-12-12', 3421.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK220675', '2023-10-29', 3893.52);
@@ -20722,7 +20722,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK220720', '2021-04-17', 3298.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK220721', '2022-03-06', 7488.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK220722', '2022-01-11', 3340.14);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220723', '2020-07-11', 2980.71);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220723', '2020-07-11', 2980.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK220724', '2022-11-27', 716.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK220725', '2023-11-02', 9158.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK220726', '2021-06-28', 4199.74);
@@ -20770,7 +20770,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK220768', '2021-03-27', 8320.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK220769', '2021-04-04', 2618.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK220770', '2020-02-14', 9754.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220771', '2023-03-03', 2841.39);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220771', '2023-03-03', 2841.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK220772', '2023-08-12', 2682.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK220773', '2023-06-25', 3844.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK220774', '2020-07-27', 8565.24);
@@ -20827,7 +20827,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK220825', '2023-07-21', 3366.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK220826', '2023-03-22', 1874.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK220827', '2022-03-01', 3291.54);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220828', '2020-01-04', 3703.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220828', '2020-01-04', 3703.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK220829', '2023-01-31', 9200.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK220830', '2023-07-14', 6368.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK220831', '2023-10-12', 8984.67);
@@ -20852,7 +20852,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK220850', '2020-11-14', 7022.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK220851', '2023-03-08', 6743.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK220852', '2021-07-23', 8255.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220853', '2021-10-20', 5924.47);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220853', '2021-10-20', 5924.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK220854', '2022-11-01', 8592.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK220855', '2020-01-14', 9517.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK220856', '2021-06-18', 4795.37);
@@ -20947,7 +20947,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK220945', '2022-08-11', 2125.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK220946', '2023-04-21', 300.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK220947', '2022-04-12', 3697.76);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK220948', '2021-12-15', 2733.43);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK220948', '2021-12-15', 2733.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK220949', '2021-06-21', 1045.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK220950', '2020-01-13', 1864.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK220951', '2021-11-18', 8383.4);
@@ -21015,7 +21015,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK221013', '2022-09-10', 1121.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK221014', '2023-12-04', 9163.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK221015', '2020-09-22', 7755.83);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221016', '2020-01-10', 8526.16);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221016', '2020-01-10', 8526.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK221017', '2022-12-17', 4151.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK221018', '2023-09-19', 1175.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK221019', '2021-04-15', 2316.03);
@@ -21081,12 +21081,12 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK221079', '2020-04-18', 8435.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK221080', '2021-02-17', 7139.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK221081', '2021-05-22', 3098.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221082', '2022-10-01', 8291.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221082', '2022-10-01', 8291.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK221083', '2020-01-19', 3870.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK221084', '2023-01-15', 4978.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK221085', '2022-07-14', 2041.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK221086', '2022-05-28', 2215.79);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221087', '2023-09-12', 7875.35);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221087', '2023-09-12', 7875.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK221088', '2023-10-24', 9312.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK221089', '2022-05-30', 3456.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK221090', '2023-10-02', 7775.03);
@@ -21114,7 +21114,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK221112', '2021-02-07', 707.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK221113', '2023-09-05', 6971.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK221114', '2022-06-07', 7665.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221115', '2023-10-28', 943.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221115', '2023-10-28', 943.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221116', '2022-02-06', 7226.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK221117', '2020-09-06', 8517.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK221118', '2021-01-27', 9083.57);
@@ -21199,7 +21199,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK221197', '2021-11-19', 6952.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK221198', '2020-01-02', 698.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK221199', '2023-08-24', 8533.88);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221200', '2023-03-17', 5201.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221200', '2023-03-17', 5201.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK221201', '2020-03-08', 4828.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK221202', '2021-02-22', 7255.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221203', '2020-07-12', 6458.59);
@@ -21248,7 +21248,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK221246', '2020-03-28', 5794.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK221247', '2020-11-05', 2956.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK221248', '2023-05-03', 400.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221249', '2023-12-10', 4932.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221249', '2023-12-10', 4932.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK221250', '2020-04-10', 3958.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK221251', '2023-09-11', 6176.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK221252', '2023-01-18', 9172.72);
@@ -21332,7 +21332,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK221330', '2023-09-17', 9860.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK221331', '2022-03-26', 305.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK221332', '2022-03-21', 310.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221333', '2020-07-18', 8514.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221333', '2020-07-18', 8514.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK221334', '2020-07-19', 2290.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK221335', '2020-12-19', 813.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK221336', '2021-03-18', 4331.01);
@@ -21508,7 +21508,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK221506', '2023-11-21', 5521.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK221507', '2021-06-04', 1379.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK221508', '2021-12-01', 4847.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221509', '2021-11-09', 9688.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221509', '2021-11-09', 9688.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK221510', '2022-09-12', 2217.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK221511', '2021-07-14', 5773.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK221512', '2020-10-22', 7474.63);
@@ -21556,7 +21556,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK221554', '2021-02-18', 7689.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK221555', '2021-07-03', 2157.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK221556', '2021-07-17', 1884.61);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221557', '2022-09-07', 2963.67);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221557', '2022-09-07', 2963.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK221558', '2020-03-02', 1817.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK221559', '2021-02-23', 7493.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK221560', '2021-11-06', 8642.75);
@@ -21706,7 +21706,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK221704', '2022-10-18', 3679.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK221705', '2023-10-10', 4731.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK221706', '2023-05-11', 3401.57);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221707', '2022-04-10', 3191.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221707', '2022-04-10', 3191.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK221708', '2020-06-25', 5494.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK221709', '2020-04-26', 1151.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK221710', '2020-09-06', 9034.23);
@@ -21773,7 +21773,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK221771', '2020-09-30', 6314.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK221772', '2020-10-11', 3105.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK221773', '2022-10-03', 333.04);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221774', '2021-09-19', 3112.49);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221774', '2021-09-19', 3112.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK221775', '2021-03-24', 5102.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK221776', '2023-05-27', 6816.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK221777', '2021-05-08', 5075.81);
@@ -21971,7 +21971,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK221969', '2023-09-06', 8470.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK221970', '2020-11-01', 9172.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK221971', '2021-04-12', 7519.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221972', '2020-02-26', 9769.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221972', '2020-02-26', 9769.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK221973', '2020-07-04', 5379.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK221974', '2021-03-05', 6524.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK221975', '2020-05-01', 2187.12);
@@ -21987,7 +21987,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK221985', '2023-12-25', 5769.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK221986', '2020-01-21', 872.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK221987', '2021-12-02', 9505.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK221988', '2021-07-24', 6954.35);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK221988', '2021-07-24', 6954.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK221989', '2023-06-12', 6035.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK221990', '2020-12-25', 1519.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK221991', '2021-11-01', 5886.97);
@@ -22015,7 +22015,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK222013', '2020-02-02', 1510.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK222014', '2022-05-19', 8987.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK222015', '2021-06-28', 8715.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK222016', '2020-10-16', 4904.1);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222016', '2020-10-16', 4904.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK222017', '2021-05-23', 9727.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK222018', '2022-02-24', 7166.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK222019', '2023-09-02', 9283.18);
@@ -22037,7 +22037,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK222035', '2023-08-22', 4989.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK222036', '2020-06-05', 9827.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK222037', '2021-02-10', 1384.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK222038', '2020-07-28', 702.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222038', '2020-07-28', 702.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK222039', '2020-02-02', 4616.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK222040', '2020-12-03', 9416.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK222041', '2022-01-30', 482.47);
@@ -22128,7 +22128,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK222126', '2021-03-11', 6264.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK222127', '2020-11-19', 4201.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK222128', '2021-11-11', 6801.61);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK222129', '2022-11-06', 8143.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222129', '2022-11-06', 8143.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK222130', '2023-11-18', 6951.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK222131', '2022-10-21', 2819.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK222132', '2020-04-28', 5085.35);
@@ -22315,7 +22315,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK222313', '2023-04-23', 6933.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK222314', '2023-11-06', 3711.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK222315', '2022-07-07', 7517.29);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK222316', '2020-11-10', 9414.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222316', '2020-11-10', 9414.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK222317', '2023-12-10', 8343.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK222318', '2021-06-24', 2709.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK222319', '2021-04-22', 5582.99);
@@ -22811,7 +22811,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK222809', '2022-11-19', 216.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK222810', '2021-04-22', 8081.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK222811', '2022-02-12', 416.54);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK222812', '2022-09-02', 3094.76);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222812', '2022-09-02', 3094.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK222813', '2021-04-17', 7960.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK222814', '2022-05-23', 2899.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK222815', '2022-01-01', 7174.06);
@@ -22845,7 +22845,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK222843', '2022-12-19', 5802.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK222844', '2022-11-11', 4597.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222845', '2023-09-20', 2575.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK222846', '2020-05-17', 922.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222846', '2020-05-17', 922.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK222847', '2020-01-14', 181.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK222848', '2022-09-21', 5483.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK222849', '2021-07-05', 2960.7);
@@ -22862,7 +22862,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK222860', '2021-11-21', 2656.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK222861', '2022-07-07', 6997.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK222862', '2021-10-19', 6046.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK222863', '2020-10-11', 4490.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222863', '2020-10-11', 4490.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK222864', '2023-07-03', 9795.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK222865', '2023-08-30', 453.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK222866', '2023-04-05', 9618.94);
@@ -22970,7 +22970,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK222968', '2021-03-10', 2942.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK222969', '2021-03-25', 4077.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK222970', '2021-10-09', 1039.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK222971', '2023-10-19', 1520.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK222971', '2023-10-19', 1520.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK222972', '2021-10-24', 236.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK222973', '2021-07-16', 9642.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK222974', '2023-12-16', 6845.17);
@@ -23142,8 +23142,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK223140', '2021-06-01', 8638.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK223141', '2022-09-03', 7740.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK223142', '2022-12-14', 5502.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223143', '2023-01-06', 5383.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223144', '2021-08-20', 3596.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223143', '2023-01-06', 5383.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223144', '2021-08-20', 3596.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK223145', '2020-07-26', 8217.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK223146', '2022-02-01', 5206.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK223147', '2021-06-08', 2476.75);
@@ -23171,7 +23171,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK223169', '2020-09-11', 4540.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK223170', '2021-06-30', 3064.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK223171', '2022-05-31', 3890.72);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223172', '2020-10-03', 2176.92);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223172', '2020-10-03', 2176.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK223173', '2020-11-18', 2023.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK223174', '2020-02-18', 9317.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK223175', '2023-12-12', 1587.23);
@@ -23194,14 +23194,14 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK223192', '2022-08-22', 940.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK223193', '2022-09-16', 5414.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK223194', '2021-04-04', 6569.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223195', '2023-12-24', 8764.07);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223195', '2023-12-24', 8764.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK223196', '2020-04-18', 221.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK223197', '2021-05-28', 1802.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK223198', '2020-04-28', 1807.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK223199', '2023-10-30', 4952.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK223200', '2023-10-02', 4330.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK223201', '2021-01-02', 2409.22);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223202', '2021-04-30', 6339.13);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223202', '2021-04-30', 6339.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK223203', '2022-10-13', 8037.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK223204', '2023-01-14', 7866.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK223205', '2020-09-10', 4818.62);
@@ -23301,7 +23301,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK223299', '2023-08-16', 8991.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK223300', '2022-12-12', 392.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK223301', '2021-05-26', 6304.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223302', '2021-08-24', 7633.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223302', '2021-08-24', 7633.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK223303', '2021-09-09', 4670.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK223304', '2021-10-24', 5409.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK223305', '2022-05-23', 6112.8);
@@ -23379,7 +23379,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK223377', '2021-09-07', 2327.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK223378', '2020-12-21', 8062.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK223379', '2021-12-06', 7999.62);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223380', '2023-07-02', 7573.26);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223380', '2023-07-02', 7573.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK223381', '2021-04-16', 1286.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK223382', '2022-03-03', 2364.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK223383', '2021-08-10', 4365.27);
@@ -23447,7 +23447,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK223445', '2021-06-20', 9254.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK223446', '2020-06-23', 4516.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK223447', '2022-05-15', 7945.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223448', '2023-02-05', 699.67);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223448', '2023-02-05', 699.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK223449', '2023-06-18', 5866.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK223450', '2021-11-22', 9029.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK223451', '2022-04-22', 5395.13);
@@ -23705,7 +23705,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK223703', '2022-02-16', 3092.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK223704', '2022-06-07', 4016.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK223705', '2021-09-09', 1999.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223706', '2021-11-01', 1793.31);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223706', '2021-11-01', 1793.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK223707', '2020-05-03', 2208.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK223708', '2023-07-07', 7999.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK223709', '2022-07-14', 9230.8);
@@ -23731,7 +23731,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK223729', '2023-08-29', 4737.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK223730', '2023-09-03', 6879.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK223731', '2020-06-13', 9202.68);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223732', '2020-04-23', 2925.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223732', '2020-04-23', 2925.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK223733', '2020-01-02', 4099.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK223734', '2021-10-04', 1022.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK223735', '2022-01-06', 662.48);
@@ -23888,7 +23888,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK223886', '2022-11-28', 5208.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK223887', '2023-04-28', 1391.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK223888', '2022-05-19', 1100.1);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223889', '2022-04-17', 9758.95);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223889', '2022-04-17', 9758.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK223890', '2022-05-29', 2876.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK223891', '2023-02-11', 3222.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK223892', '2021-08-19', 570.91);
@@ -23916,7 +23916,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK223914', '2022-04-06', 4518.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK223915', '2021-04-23', 8818.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223916', '2020-10-14', 8554.48);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK223917', '2022-07-27', 1579.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK223917', '2022-07-27', 1579.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK223918', '2023-12-28', 4304.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK223919', '2022-10-24', 8768.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK223920', '2020-04-29', 3100.38);
@@ -24026,7 +24026,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK224024', '2022-06-25', 3930.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK224025', '2021-12-08', 1465.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK224026', '2023-02-21', 9127.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK224027', '2022-08-08', 2858.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK224027', '2022-08-08', 2858.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK224028', '2023-06-29', 5422.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK224029', '2023-02-18', 7915.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK224030', '2022-05-29', 1701.96);
@@ -24131,7 +24131,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK224129', '2023-12-25', 5490.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK224130', '2022-10-07', 6244.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK224131', '2020-02-08', 4197.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK224132', '2022-12-02', 3690.49);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK224132', '2022-12-02', 3690.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK224133', '2021-11-26', 8976.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK224134', '2021-02-16', 4641.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK224135', '2023-08-21', 3127.2);
@@ -24426,7 +24426,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK224424', '2021-11-06', 1049.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK224425', '2022-12-20', 7471.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK224426', '2020-07-03', 1569.38);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK224427', '2020-08-17', 7404.95);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK224427', '2020-08-17', 7404.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK224428', '2022-09-29', 4691.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK224429', '2020-11-07', 2973.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK224430', '2022-12-21', 4130.25);
@@ -24446,7 +24446,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK224444', '2020-03-11', 8146.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK224445', '2022-09-29', 8354.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK224446', '2020-02-05', 9805.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK224447', '2023-08-28', 4367.16);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK224447', '2023-08-28', 4367.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK224448', '2020-06-04', 3997.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK224449', '2020-03-07', 6626.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK224450', '2021-09-15', 7566.86);
@@ -24701,11 +24701,11 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK224699', '2020-10-10', 6346.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK224700', '2022-06-01', 1341.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK224701', '2021-01-22', 3743.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK224702', '2021-04-15', 7865.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK224702', '2021-04-15', 7865.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK224703', '2020-06-06', 1608.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK224704', '2020-04-19', 2489.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK224705', '2021-01-06', 346.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK224706', '2021-10-12', 4442.12);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK224706', '2021-10-12', 4442.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK224707', '2020-05-30', 9051.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK224708', '2020-04-06', 949.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK224709', '2022-10-05', 6949.61);
@@ -24876,7 +24876,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK224874', '2020-01-14', 7795.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK224875', '2023-05-24', 7149.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK224876', '2022-08-25', 9966.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK224877', '2021-12-31', 6931.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK224877', '2021-12-31', 6931.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK224878', '2021-01-15', 3914.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK224879', '2020-03-13', 8602.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK224880', '2020-02-05', 1993.82);
@@ -25282,7 +25282,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK225280', '2020-04-04', 2804.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK225281', '2020-12-28', 9140.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK225282', '2022-03-22', 9198.45);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK225283', '2020-01-13', 3322.64);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK225283', '2020-01-13', 3322.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK225284', '2023-08-26', 6471.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK225285', '2020-12-18', 2476.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK225286', '2023-06-17', 3503.02);
@@ -25479,7 +25479,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK225477', '2021-06-02', 1671.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK225478', '2023-05-22', 7377.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK225479', '2023-12-14', 2294.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK225480', '2023-05-18', 8536.89);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK225480', '2023-05-18', 8536.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK225481', '2022-10-20', 5983.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK225482', '2021-04-19', 726.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK225483', '2021-11-26', 2497.15);
@@ -25579,7 +25579,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK225577', '2023-04-11', 4760.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK225578', '2022-09-15', 3956.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK225579', '2020-06-02', 9813.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK225580', '2021-05-05', 6725.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK225580', '2021-05-05', 6725.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK225581', '2020-08-02', 2499.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK225582', '2023-01-26', 6361.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK225583', '2021-01-21', 8987.77);
@@ -25688,7 +25688,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK225686', '2021-04-03', 9081.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK225687', '2021-05-12', 6511.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK225688', '2023-12-27', 4135.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK225689', '2020-07-10', 4353.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK225689', '2020-07-10', 4353.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK225690', '2021-03-19', 2119.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK225691', '2023-07-27', 8701.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK225692', '2023-04-30', 1644.1);
@@ -25773,7 +25773,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK225771', '2021-11-30', 3918.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK225772', '2022-07-11', 861.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK225773', '2023-12-24', 5855.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK225774', '2022-06-19', 3161.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK225774', '2022-06-19', 3161.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK225775', '2023-07-04', 2180.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK225776', '2020-01-27', 4921.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK225777', '2023-11-09', 9228.5);
@@ -25848,7 +25848,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK225846', '2021-12-16', 8164.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK225847', '2023-04-24', 9811.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK225848', '2021-11-22', 9443.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK225849', '2020-08-01', 7108.91);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK225849', '2020-08-01', 7108.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK225850', '2022-11-18', 6689.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK225851', '2023-02-03', 2827.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK225852', '2023-11-25', 9111.91);
@@ -25911,7 +25911,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK225909', '2020-01-15', 7866.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK225910', '2021-02-06', 8033.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK225911', '2020-08-06', 1161.1);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK225912', '2022-02-14', 1961.97);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK225912', '2022-02-14', 1961.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK225913', '2020-03-09', 4279.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK225914', '2021-12-12', 7229.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK225915', '2023-10-13', 8434.35);
@@ -26031,7 +26031,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK226029', '2020-01-20', 3757.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK226030', '2022-01-09', 5783.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK226031', '2020-09-19', 7306.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226032', '2022-09-12', 283.11);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226032', '2022-09-12', 283.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK226033', '2020-08-06', 4609.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK226034', '2020-02-03', 4112.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK226035', '2023-12-29', 4971.87);
@@ -26058,7 +26058,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK226056', '2020-03-04', 3546.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK226057', '2020-12-28', 8460.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK226058', '2020-07-22', 8694.09);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226059', '2022-09-26', 9334.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226059', '2022-09-26', 9334.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK226060', '2020-10-18', 3254.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK226061', '2022-11-02', 3879.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK226062', '2020-04-09', 9289.88);
@@ -26165,7 +26165,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK226163', '2021-07-30', 748.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK226164', '2022-01-19', 2434.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK226165', '2023-12-10', 1433.78);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226166', '2021-09-03', 6845.03);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226166', '2021-09-03', 6845.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK226167', '2023-10-04', 2299.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK226168', '2021-09-04', 4660.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK226169', '2023-02-21', 7045.77);
@@ -26558,7 +26558,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK226556', '2020-08-11', 8448.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK226557', '2023-11-19', 8946.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK226558', '2022-05-25', 4149.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226559', '2023-01-09', 4739.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226559', '2023-01-09', 4739.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK226560', '2023-04-05', 3794.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK226561', '2023-06-12', 9150.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK226562', '2022-10-06', 4276.1);
@@ -26689,7 +26689,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK226687', '2020-08-13', 2139.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK226688', '2023-03-14', 2161.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK226689', '2021-09-18', 6690.27);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226690', '2022-09-05', 6100.68);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226690', '2022-09-05', 6100.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK226691', '2021-08-02', 9864.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK226692', '2022-02-26', 5673.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK226693', '2020-02-25', 1561.04);
@@ -26782,13 +26782,13 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK226780', '2023-12-16', 7811.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK226781', '2020-02-21', 7827.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK226782', '2023-12-31', 4776.34);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226783', '2023-01-06', 7259.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226783', '2023-01-06', 7259.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK226784', '2022-07-19', 8382.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK226785', '2020-04-21', 1706.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK226786', '2021-09-13', 1590.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK226787', '2023-05-08', 9089.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK226788', '2021-09-10', 5905.15);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226789', '2021-02-16', 774.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226789', '2021-02-16', 774.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK226790', '2022-04-13', 7535.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK226791', '2020-05-04', 387.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK226792', '2022-07-02', 5981.35);
@@ -26814,7 +26814,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK226812', '2020-04-15', 3368.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK226813', '2023-10-14', 977.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK226814', '2023-12-15', 3309.63);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226815', '2023-08-05', 8361.87);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226815', '2023-08-05', 8361.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK226816', '2023-06-03', 4722.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK226817', '2022-03-31', 617.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK226818', '2023-11-08', 355.28);
@@ -26911,7 +26911,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK226909', '2023-12-01', 1725.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK226910', '2021-10-14', 1295.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK226911', '2021-07-05', 6794.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226912', '2023-10-06', 2892.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226912', '2023-10-06', 2892.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK226913', '2020-03-28', 5709.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK226914', '2022-04-03', 5046.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK226915', '2022-04-30', 2121.0);
@@ -26936,7 +26936,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK226934', '2020-06-05', 3306.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK226935', '2022-04-22', 9183.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK226936', '2023-02-22', 6993.34);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK226937', '2021-12-25', 8852.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK226937', '2021-12-25', 8852.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK226938', '2023-07-27', 949.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK226939', '2022-12-21', 9469.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK226940', '2020-07-03', 854.97);
@@ -27207,7 +27207,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK227205', '2020-06-22', 6489.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK227206', '2022-04-10', 504.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK227207', '2021-03-03', 3089.38);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227208', '2023-05-15', 9728.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227208', '2023-05-15', 9728.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK227209', '2020-08-28', 5035.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK227210', '2020-05-09', 227.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK227211', '2023-08-06', 6167.22);
@@ -27423,7 +27423,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK227421', '2023-08-07', 5122.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK227422', '2022-03-01', 5596.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK227423', '2021-01-29', 9925.48);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227424', '2021-05-13', 64.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227424', '2021-05-13', 64.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK227425', '2020-05-16', 8765.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK227426', '2023-05-12', 9179.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK227427', '2021-02-16', 1269.48);
@@ -27444,7 +27444,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK227442', '2021-09-12', 522.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK227443', '2020-07-22', 9517.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK227444', '2022-05-19', 7671.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227445', '2022-08-15', 6349.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227445', '2022-08-15', 6349.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK227446', '2020-01-26', 8831.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK227447', '2021-06-13', 9173.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK227448', '2023-03-01', 8869.57);
@@ -27459,7 +27459,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK227457', '2022-08-14', 1575.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK227458', '2022-05-11', 6163.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK227459', '2021-02-16', 2502.48);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227460', '2020-11-05', 1775.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227460', '2020-11-05', 1775.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK227461', '2021-12-26', 9723.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK227462', '2020-03-24', 4268.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK227463', '2021-06-15', 806.6);
@@ -27535,7 +27535,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK227533', '2021-12-08', 5406.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK227534', '2023-07-04', 4685.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK227535', '2022-04-10', 3063.53);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227536', '2023-09-29', 185.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227536', '2023-09-29', 185.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK227537', '2022-04-29', 4723.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK227538', '2022-07-13', 5479.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK227539', '2021-02-03', 9923.52);
@@ -27546,7 +27546,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK227544', '2020-12-09', 6758.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK227545', '2021-07-27', 5573.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK227546', '2022-01-17', 7527.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227547', '2022-12-26', 4607.5);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227547', '2022-12-26', 4607.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK227548', '2020-06-11', 7905.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK227549', '2020-10-10', 2321.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK227550', '2020-03-08', 3381.14);
@@ -27593,7 +27593,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK227591', '2022-08-11', 5569.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK227592', '2023-03-21', 8391.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK227593', '2021-07-30', 6369.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227594', '2023-01-12', 9119.67);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227594', '2023-01-12', 9119.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK227595', '2022-08-25', 9312.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK227596', '2023-02-02', 2787.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK227597', '2023-09-25', 3132.17);
@@ -27673,7 +27673,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK227671', '2021-11-04', 2671.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227672', '2021-12-04', 1697.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK227673', '2021-02-05', 9859.98);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227674', '2020-02-13', 6134.34);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227674', '2020-02-13', 6134.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK227675', '2022-07-23', 4999.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK227676', '2021-08-10', 3578.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK227677', '2021-07-28', 9911.62);
@@ -27687,7 +27687,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK227685', '2023-04-15', 2509.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK227686', '2020-03-10', 3144.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK227687', '2023-11-30', 1151.49);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227688', '2020-05-10', 6879.26);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227688', '2020-05-10', 6879.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK227689', '2022-04-10', 2637.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK227690', '2020-09-28', 8878.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK227691', '2021-01-10', 8162.46);
@@ -27730,7 +27730,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK227728', '2020-01-16', 7013.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK227729', '2020-11-13', 5855.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK227730', '2021-05-25', 2686.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227731', '2021-12-15', 6097.08);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227731', '2021-12-15', 6097.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK227732', '2020-07-25', 2790.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK227733', '2021-11-16', 6368.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK227734', '2021-07-14', 3718.84);
@@ -27770,7 +27770,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK227768', '2020-11-22', 8592.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK227769', '2020-04-08', 7293.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK227770', '2021-06-08', 6562.1);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227771', '2021-01-07', 5003.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227771', '2021-01-07', 5003.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK227772', '2022-07-27', 8212.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK227773', '2020-05-05', 4068.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK227774', '2023-08-22', 9366.01);
@@ -27876,7 +27876,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK227874', '2020-06-26', 7877.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK227875', '2022-10-29', 8286.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK227876', '2021-01-07', 6501.66);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK227877', '2020-05-19', 2131.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK227877', '2020-05-19', 2131.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK227878', '2022-01-14', 6231.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK227879', '2022-08-30', 2906.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK227880', '2023-07-23', 5885.38);
@@ -28035,7 +28035,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK228033', '2023-06-15', 7068.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK228034', '2021-04-30', 5190.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK228035', '2021-05-11', 9203.87);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228036', '2022-06-19', 6500.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228036', '2022-06-19', 6500.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK228037', '2023-07-12', 20.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK228038', '2021-06-11', 7520.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK228039', '2022-01-25', 6166.47);
@@ -28074,7 +28074,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK228072', '2021-04-07', 2562.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK228073', '2021-07-08', 2034.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK228074', '2021-10-12', 7634.98);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228075', '2021-01-22', 9834.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228075', '2021-01-22', 9834.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK228076', '2020-05-23', 6061.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK228077', '2022-11-18', 143.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK228078', '2020-09-12', 3405.46);
@@ -28099,7 +28099,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK228097', '2023-09-10', 8679.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK228098', '2022-05-28', 4422.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK228099', '2020-05-18', 7913.29);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228100', '2022-03-01', 6442.6);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228100', '2022-03-01', 6442.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK228101', '2021-07-31', 4926.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK228102', '2021-12-08', 4604.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK228103', '2021-09-01', 6798.87);
@@ -28276,7 +28276,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK228274', '2022-03-15', 9538.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK228275', '2021-03-20', 6667.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK228276', '2021-01-19', 7545.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228277', '2021-04-13', 4636.66);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228277', '2021-04-13', 4636.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK228278', '2020-04-12', 5255.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK228279', '2022-03-26', 3277.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228280', '2022-03-24', 9146.42);
@@ -28317,7 +28317,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK228315', '2020-04-16', 9979.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK228316', '2020-08-04', 1580.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK228317', '2023-09-30', 3636.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228318', '2022-12-23', 4185.22);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228318', '2022-12-23', 4185.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK228319', '2023-07-29', 3801.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK228320', '2021-03-16', 1815.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK228321', '2020-09-14', 977.67);
@@ -28629,7 +28629,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK228627', '2021-03-24', 6743.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK228628', '2023-11-23', 7664.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK228629', '2021-12-19', 1636.75);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228630', '2020-03-15', 3783.5);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228630', '2020-03-15', 3783.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK228631', '2022-05-05', 4532.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK228632', '2023-06-02', 2003.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK228633', '2021-05-22', 5805.31);
@@ -28753,8 +28753,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK228751', '2021-06-07', 6515.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK228752', '2022-11-16', 838.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK228753', '2020-08-05', 657.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228754', '2021-02-06', 6141.93);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228755', '2021-04-18', 7652.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228754', '2021-02-06', 6141.93);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228755', '2021-04-18', 7652.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK228756', '2023-10-28', 2384.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK228757', '2020-11-07', 1363.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK228758', '2023-02-09', 8646.06);
@@ -28798,7 +28798,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK228796', '2020-10-25', 1272.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK228797', '2021-11-20', 2251.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK228798', '2021-11-11', 6202.41);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228799', '2021-01-17', 8944.81);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228799', '2021-01-17', 8944.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK228800', '2021-03-17', 2954.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK228801', '2022-01-07', 7786.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK228802', '2020-06-23', 562.63);
@@ -28842,7 +28842,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK228840', '2020-11-27', 9553.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK228841', '2020-06-17', 1931.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK228842', '2022-03-10', 4318.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228843', '2023-03-01', 7970.83);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228843', '2023-03-01', 7970.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK228844', '2022-10-07', 9878.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK228845', '2023-09-26', 7680.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK228846', '2022-12-05', 5336.27);
@@ -28908,7 +28908,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK228906', '2020-09-15', 9030.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK228907', '2023-08-09', 3880.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK228908', '2022-02-26', 2889.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK228909', '2023-01-17', 97.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK228909', '2023-01-17', 97.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK228910', '2020-01-05', 3292.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK228911', '2023-05-30', 4190.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK228912', '2023-10-30', 7525.69);
@@ -29016,7 +29016,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK229014', '2021-08-08', 6359.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK229015', '2021-09-11', 1751.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK229016', '2023-11-23', 5423.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229017', '2022-11-28', 3700.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229017', '2022-11-28', 3700.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK229018', '2020-06-17', 536.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK229019', '2022-09-18', 2761.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK229020', '2022-07-11', 1971.92);
@@ -29026,12 +29026,12 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK229024', '2021-03-15', 8149.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK229025', '2021-02-07', 8322.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK229026', '2023-04-30', 3352.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229027', '2020-07-11', 9261.7);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229027', '2020-07-11', 9261.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK229028', '2021-10-26', 4378.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK229029', '2020-11-22', 1513.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK229030', '2020-08-05', 1025.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK229031', '2021-02-10', 4954.51);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229032', '2020-03-07', 8452.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229032', '2020-03-07', 8452.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK229033', '2020-08-16', 9946.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK229034', '2021-03-17', 1865.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK229035', '2022-03-06', 7691.73);
@@ -29043,7 +29043,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK229041', '2022-11-17', 8736.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK229042', '2021-04-07', 9092.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229043', '2023-06-13', 3128.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229044', '2023-12-20', 9816.4);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229044', '2023-12-20', 9816.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK229045', '2021-04-03', 8020.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK229046', '2023-10-29', 685.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK229047', '2023-11-22', 182.87);
@@ -29230,7 +29230,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK229228', '2022-07-20', 4649.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK229229', '2021-07-04', 5111.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK229230', '2023-02-07', 4350.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229231', '2021-04-29', 5595.14);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229231', '2021-04-29', 5595.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK229232', '2020-09-21', 699.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK229233', '2021-07-13', 8489.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK229234', '2023-07-11', 3055.48);
@@ -29267,7 +29267,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK229265', '2022-02-19', 8367.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK229266', '2021-12-06', 6946.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK229267', '2021-07-28', 1552.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229268', '2020-03-16', 7996.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229268', '2020-03-16', 7996.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK229269', '2021-07-06', 9968.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK229270', '2020-04-07', 264.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK229271', '2020-01-28', 1870.01);
@@ -29313,10 +29313,10 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK229311', '2020-01-28', 2474.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK229312', '2023-04-01', 6098.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK229313', '2021-01-01', 3464.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229314', '2022-12-16', 8972.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229314', '2022-12-16', 8972.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK229315', '2022-04-10', 6362.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK229316', '2021-01-06', 9556.4);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229317', '2020-08-03', 7150.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229317', '2020-08-03', 7150.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK229318', '2023-08-30', 1260.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK229319', '2022-10-05', 2645.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK229320', '2020-01-22', 8356.74);
@@ -29567,7 +29567,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK229565', '2021-10-17', 9576.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK229566', '2023-04-26', 7512.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK229567', '2021-10-20', 5677.14);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229568', '2021-09-08', 7526.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229568', '2021-09-08', 7526.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK229569', '2021-05-26', 4518.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK229570', '2021-04-30', 7784.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK229571', '2023-05-25', 8300.46);
@@ -29606,7 +29606,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK229604', '2021-08-30', 4736.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK229605', '2020-10-22', 8537.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK229606', '2022-07-22', 1121.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229607', '2023-04-29', 9836.8);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229607', '2023-04-29', 9836.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK229608', '2020-07-04', 8180.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK229609', '2021-03-18', 3967.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK229610', '2020-05-19', 9276.75);
@@ -29617,14 +29617,14 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK229615', '2021-09-05', 5365.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK229616', '2021-05-13', 6617.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK229617', '2022-10-01', 2389.8);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229618', '2023-06-05', 5200.64);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229618', '2023-06-05', 5200.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK229619', '2020-10-10', 7694.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK229620', '2020-02-16', 4184.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK229621', '2023-02-03', 2014.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK229622', '2021-05-01', 2217.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK229623', '2020-01-02', 2568.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK229624', '2021-04-10', 2839.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229625', '2020-02-10', 321.52);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229625', '2020-02-10', 321.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK229626', '2022-04-30', 1312.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK229627', '2021-08-05', 2296.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK229628', '2022-04-22', 8842.34);
@@ -29702,7 +29702,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK229700', '2020-11-08', 7509.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK229701', '2022-11-11', 9207.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK229702', '2021-03-10', 4804.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229703', '2020-07-31', 1690.6);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229703', '2020-07-31', 1690.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK229704', '2023-10-07', 2582.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK229705', '2023-07-22', 2934.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK229706', '2020-03-23', 9690.18);
@@ -29849,7 +29849,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK229847', '2020-10-29', 9085.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK229848', '2020-01-17', 2331.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK229849', '2021-08-30', 5536.87);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229850', '2022-05-26', 4850.02);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229850', '2022-05-26', 4850.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK229851', '2023-07-27', 4822.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK229852', '2023-06-19', 5393.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK229853', '2023-03-21', 1688.48);
@@ -29890,7 +29890,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK229888', '2020-03-19', 96.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK229889', '2022-07-06', 5901.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK229890', '2020-05-16', 667.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229891', '2020-01-08', 2471.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229891', '2020-01-08', 2471.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK229892', '2023-01-12', 3595.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK229893', '2023-04-19', 9454.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK229894', '2021-02-09', 3704.68);
@@ -29909,7 +29909,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK229907', '2022-07-13', 4004.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK229908', '2022-07-21', 4804.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK229909', '2020-11-17', 9124.44);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK229910', '2022-01-06', 4272.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK229910', '2022-01-06', 4272.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK229911', '2023-04-13', 4947.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK229912', '2021-07-10', 1615.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK229913', '2020-12-23', 663.12);
@@ -30068,7 +30068,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK230066', '2022-01-21', 9754.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK230067', '2020-09-26', 165.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK230068', '2023-06-10', 8859.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK230069', '2022-11-06', 4353.43);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK230069', '2022-11-06', 4353.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK230070', '2023-08-06', 669.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK230071', '2020-11-12', 6729.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK230072', '2022-09-03', 6831.55);
@@ -30323,7 +30323,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK230321', '2022-01-18', 5482.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK230322', '2020-06-12', 288.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK230323', '2022-12-26', 8009.96);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK230324', '2020-03-24', 4804.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK230324', '2020-03-24', 4804.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK230325', '2023-09-29', 2743.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK230326', '2022-07-06', 7296.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK230327', '2020-05-22', 9422.75);
@@ -30707,7 +30707,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK230705', '2022-05-19', 6733.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK230706', '2021-08-18', 5266.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK230707', '2020-09-12', 6659.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK230708', '2022-11-13', 4612.44);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK230708', '2022-11-13', 4612.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK230709', '2023-09-24', 7997.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK230710', '2023-09-04', 9348.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK230711', '2022-10-14', 7839.3);
@@ -30764,7 +30764,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK230762', '2023-06-08', 9015.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK230763', '2023-07-27', 3629.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK230764', '2020-11-06', 9845.04);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK230765', '2023-07-18', 2336.34);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK230765', '2023-07-18', 2336.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK230766', '2021-05-24', 8827.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK230767', '2022-05-15', 1384.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK230768', '2020-08-11', 7316.52);
@@ -30826,8 +30826,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK230824', '2020-01-13', 4828.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK230825', '2021-05-25', 209.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK230826', '2023-03-06', 9218.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK230827', '2022-08-17', 6545.15);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK230828', '2023-03-08', 1895.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK230827', '2022-08-17', 6545.15);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK230828', '2023-03-08', 1895.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK230829', '2023-12-09', 8252.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK230830', '2020-02-21', 4406.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK230831', '2021-06-27', 8846.12);
@@ -30905,7 +30905,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK230903', '2022-10-10', 4975.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK230904', '2021-10-07', 8216.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK230905', '2021-04-05', 3947.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK230906', '2022-05-12', 4670.12);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK230906', '2022-05-12', 4670.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK230907', '2021-06-27', 492.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK230908', '2022-07-28', 1755.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK230909', '2022-07-30', 1720.34);
@@ -30979,7 +30979,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK230977', '2020-05-10', 1098.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK230978', '2023-05-27', 9397.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK230979', '2022-03-24', 7912.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK230980', '2021-06-21', 7576.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK230980', '2021-06-21', 7576.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK230981', '2021-11-08', 502.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK230982', '2023-06-17', 1771.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK230983', '2021-09-01', 8408.81);
@@ -31380,7 +31380,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK231378', '2020-07-09', 7343.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK231379', '2022-04-18', 3477.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK231380', '2020-03-07', 4091.99);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231381', '2020-06-27', 3497.65);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231381', '2020-06-27', 3497.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK231382', '2022-06-24', 9433.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK231383', '2022-05-26', 1364.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK231384', '2022-09-06', 4725.57);
@@ -31461,7 +31461,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK231459', '2023-04-16', 4016.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK231460', '2022-04-22', 3679.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK231461', '2020-01-17', 8802.44);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231462', '2020-04-28', 9512.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231462', '2020-04-28', 9512.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK231463', '2022-08-07', 6308.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK231464', '2023-10-24', 5421.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK231465', '2022-08-01', 7437.24);
@@ -31510,7 +31510,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK231508', '2023-11-13', 4110.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK231509', '2020-12-11', 5178.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK231510', '2022-02-11', 8931.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231511', '2022-06-19', 4639.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231511', '2022-06-19', 4639.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK231512', '2021-08-05', 6884.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK231513', '2021-01-03', 1923.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK231514', '2022-07-15', 7510.87);
@@ -31536,7 +31536,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK231534', '2020-10-12', 2561.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK231535', '2021-08-05', 4176.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK231536', '2023-08-22', 8585.46);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231537', '2023-04-03', 9807.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231537', '2023-04-03', 9807.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK231538', '2020-01-09', 465.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK231539', '2020-04-12', 7480.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK231540', '2023-11-02', 3913.46);
@@ -31544,7 +31544,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK231542', '2021-04-08', 9448.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK231543', '2020-02-03', 6801.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK231544', '2021-09-30', 8893.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231545', '2020-08-01', 2119.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231545', '2020-08-01', 2119.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK231546', '2023-09-18', 3112.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK231547', '2022-10-09', 7282.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK231548', '2023-06-15', 3843.65);
@@ -31597,7 +31597,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK231595', '2021-04-15', 481.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK231596', '2021-02-04', 8090.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK231597', '2023-10-14', 1031.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231598', '2023-10-16', 5521.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231598', '2023-10-16', 5521.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK231599', '2022-09-23', 6631.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK231600', '2021-06-03', 8120.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK231601', '2022-12-29', 3186.89);
@@ -31608,7 +31608,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK231606', '2021-07-31', 858.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK231607', '2020-10-13', 3016.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK231608', '2021-07-24', 1559.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231609', '2020-03-19', 791.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231609', '2020-03-19', 791.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK231610', '2020-10-30', 7760.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK231611', '2022-04-15', 2816.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK231612', '2022-05-12', 2186.75);
@@ -31740,7 +31740,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK231738', '2023-03-13', 6438.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK231739', '2022-07-01', 2974.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK231740', '2021-12-07', 3589.79);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231741', '2020-01-30', 9334.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231741', '2020-01-30', 9334.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK231742', '2020-01-26', 292.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK231743', '2021-09-08', 1767.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK231744', '2020-06-02', 2411.37);
@@ -31787,7 +31787,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK231785', '2023-12-25', 137.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK231786', '2023-02-25', 5269.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK231787', '2020-03-25', 6812.27);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231788', '2020-12-16', 6668.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231788', '2020-12-16', 6668.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK231789', '2023-10-12', 3628.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK231790', '2022-12-04', 6666.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK231791', '2021-03-03', 1331.63);
@@ -31856,7 +31856,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK231854', '2023-10-12', 7299.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK231855', '2022-05-29', 3447.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK231856', '2021-01-23', 9646.39);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231857', '2022-12-02', 5652.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231857', '2022-12-02', 5652.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK231858', '2023-09-14', 3071.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK231859', '2020-07-26', 3112.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK231860', '2020-05-16', 8744.35);
@@ -31929,7 +31929,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK231927', '2021-08-17', 979.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK231928', '2022-10-29', 9879.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK231929', '2021-05-24', 1915.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK231930', '2022-12-08', 2293.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK231930', '2022-12-08', 2293.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK231931', '2021-03-18', 2749.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK231932', '2021-10-27', 6390.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK231933', '2022-05-19', 3027.19);
@@ -32030,7 +32030,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK232028', '2020-09-14', 4147.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK232029', '2022-12-23', 570.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK232030', '2023-04-06', 1928.68);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232031', '2022-08-22', 8352.08);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232031', '2022-08-22', 8352.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK232032', '2021-01-18', 7243.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK232033', '2020-04-04', 7143.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK232034', '2020-07-11', 7107.91);
@@ -32079,7 +32079,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK232077', '2021-02-08', 8915.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK232078', '2021-07-25', 3299.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK232079', '2020-12-17', 9937.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232080', '2022-12-07', 998.96);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232080', '2022-12-07', 998.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK232081', '2021-11-25', 3395.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK232082', '2023-07-18', 363.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK232083', '2021-12-21', 106.38);
@@ -32136,7 +32136,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK232134', '2020-07-15', 4354.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK232135', '2020-06-28', 1655.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK232136', '2022-02-10', 9126.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232137', '2021-10-30', 9484.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232137', '2021-10-30', 9484.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK232138', '2021-09-07', 4024.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK232139', '2022-09-22', 2278.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK232140', '2022-10-10', 6436.25);
@@ -32178,13 +32178,13 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK232176', '2021-09-20', 6427.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK232177', '2021-01-13', 7724.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK232178', '2022-04-13', 6950.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232179', '2020-03-16', 8059.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232179', '2020-03-16', 8059.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK232180', '2022-05-01', 8689.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK232181', '2022-11-03', 7173.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK232182', '2020-04-03', 2354.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK232183', '2022-04-03', 1042.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK232184', '2021-11-09', 9391.79);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232185', '2021-01-12', 4796.92);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232185', '2021-01-12', 4796.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK232186', '2023-07-28', 5985.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK232187', '2021-02-23', 3548.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK232188', '2022-08-07', 9275.49);
@@ -32296,7 +32296,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK232294', '2021-04-20', 194.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK232295', '2020-11-21', 563.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK232296', '2023-07-08', 3563.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232297', '2022-03-01', 8646.37);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232297', '2022-03-01', 8646.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK232298', '2023-05-31', 8175.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK232299', '2022-08-06', 7142.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK232300', '2022-04-12', 8982.53);
@@ -32528,7 +32528,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK232526', '2022-12-05', 9209.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK232527', '2020-08-12', 8314.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK232528', '2020-08-27', 6454.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232529', '2023-01-09', 1883.75);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232529', '2023-01-09', 1883.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK232530', '2023-10-29', 2988.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK232531', '2021-10-14', 3845.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK232532', '2020-02-25', 8350.35);
@@ -32661,7 +32661,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK232659', '2020-01-24', 9697.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK232660', '2022-01-05', 9424.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK232661', '2023-05-31', 2153.39);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232662', '2020-04-16', 9019.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232662', '2020-04-16', 9019.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK232663', '2022-07-26', 9044.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK232664', '2022-01-12', 479.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK232665', '2021-02-03', 493.68);
@@ -32708,7 +32708,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK232706', '2020-09-07', 9009.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK232707', '2022-08-10', 558.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK232708', '2020-01-02', 2284.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232709', '2020-01-19', 6397.94);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232709', '2020-01-19', 6397.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK232710', '2021-02-12', 1519.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK232711', '2020-11-07', 8786.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK232712', '2020-05-14', 2212.32);
@@ -32795,7 +32795,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK232793', '2021-06-22', 3349.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK232794', '2022-11-23', 8164.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK232795', '2022-04-09', 5072.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232796', '2022-04-21', 2085.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232796', '2022-04-21', 2085.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK232797', '2022-10-09', 8891.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK232798', '2022-07-04', 3836.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK232799', '2022-09-14', 8647.17);
@@ -32910,7 +32910,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK232908', '2023-04-03', 4878.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK232909', '2022-06-22', 8440.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK232910', '2020-04-08', 805.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232911', '2023-12-30', 8633.97);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232911', '2023-12-30', 8633.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK232912', '2020-11-04', 6739.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK232913', '2021-07-13', 4620.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK232914', '2022-12-29', 2142.22);
@@ -32967,7 +32967,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK232965', '2023-08-23', 4715.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK232966', '2023-06-11', 1315.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK232967', '2022-08-31', 5227.41);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK232968', '2022-12-08', 8899.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK232968', '2022-12-08', 8899.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK232969', '2021-08-09', 3460.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK232970', '2023-03-20', 3443.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK232971', '2022-03-08', 3701.05);
@@ -33012,7 +33012,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK233010', '2020-05-04', 7472.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK233011', '2020-11-19', 4305.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK233012', '2021-05-21', 9061.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK233013', '2021-09-18', 9845.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK233013', '2021-09-18', 9845.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK233014', '2023-02-17', 4254.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK233015', '2020-10-26', 8681.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK233016', '2021-08-12', 3823.81);
@@ -33258,7 +33258,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK233256', '2023-06-23', 9523.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK233257', '2020-09-20', 6257.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK233258', '2022-05-19', 4205.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK233259', '2023-11-10', 644.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK233259', '2023-11-10', 644.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK233260', '2021-03-17', 5206.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK233261', '2020-10-20', 2338.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK233262', '2023-04-04', 3144.39);
@@ -33364,7 +33364,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK233362', '2022-02-06', 2986.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK233363', '2023-08-30', 8649.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK233364', '2022-06-03', 6946.16);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK233365', '2021-02-22', 7782.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK233365', '2021-02-22', 7782.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK233366', '2022-06-05', 6520.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK233367', '2021-03-06', 2441.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK233368', '2021-01-28', 1695.48);
@@ -33471,7 +33471,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK233469', '2022-10-13', 7793.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK233470', '2022-08-15', 4172.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK233471', '2020-03-04', 7971.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK233472', '2020-05-21', 4827.71);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK233472', '2020-05-21', 4827.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK233473', '2020-05-27', 741.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK233474', '2022-05-21', 1882.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK233475', '2023-02-13', 3739.88);
@@ -33483,7 +33483,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK233481', '2022-03-29', 4410.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK233482', '2023-08-10', 4570.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK233483', '2020-10-19', 5775.0);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK233484', '2022-11-23', 9266.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK233484', '2022-11-23', 9266.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK233485', '2020-12-14', 8838.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK233486', '2022-09-22', 2082.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK233487', '2021-01-05', 3359.27);
@@ -33667,7 +33667,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK233665', '2022-08-19', 3256.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK233666', '2023-12-09', 5050.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK233667', '2021-07-23', 6287.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK233668', '2022-05-05', 4352.87);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK233668', '2022-05-05', 4352.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK233669', '2021-01-27', 7235.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK233670', '2020-09-12', 7360.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK233671', '2023-05-14', 8014.42);
@@ -33867,7 +33867,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK233865', '2021-04-09', 1608.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK233866', '2022-06-16', 1789.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK233867', '2022-09-15', 154.87);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK233868', '2020-08-03', 123.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK233868', '2020-08-03', 123.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK233869', '2021-05-12', 1007.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK233870', '2021-03-29', 3609.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK233871', '2021-09-15', 1830.67);
@@ -33906,7 +33906,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK233904', '2021-09-04', 3638.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK233905', '2020-12-23', 1131.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK233906', '2021-08-02', 7083.84);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK233907', '2021-07-02', 2299.47);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK233907', '2021-07-02', 2299.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK233908', '2020-07-16', 3150.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK233909', '2021-03-09', 6964.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK233910', '2023-11-12', 4320.59);
@@ -33999,7 +33999,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK233997', '2023-04-18', 3146.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK233998', '2022-04-16', 3326.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK233999', '2021-02-27', 9778.63);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK234000', '2022-07-29', 9927.35);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234000', '2022-07-29', 9927.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK234001', '2021-10-05', 8389.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK234002', '2020-10-29', 6721.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK234003', '2021-01-05', 1190.1);
@@ -34093,7 +34093,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK234091', '2020-03-07', 547.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK234092', '2021-11-17', 1616.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK234093', '2023-08-06', 6021.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK234094', '2023-06-19', 1590.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234094', '2023-06-19', 1590.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK234095', '2021-02-23', 7035.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK234096', '2021-07-22', 4572.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK234097', '2021-04-17', 123.24);
@@ -34338,7 +34338,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK234336', '2020-03-21', 6987.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK234337', '2022-07-24', 1235.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK234338', '2021-03-20', 5301.76);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK234339', '2022-08-17', 1620.65);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234339', '2022-08-17', 1620.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK234340', '2021-10-07', 7756.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK234341', '2020-05-08', 9179.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK234342', '2021-03-26', 1277.74);
@@ -34449,7 +34449,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK234447', '2021-01-25', 3042.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK234448', '2020-02-27', 686.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK234449', '2023-08-07', 1530.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK234450', '2023-12-22', 6698.44);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234450', '2023-12-22', 6698.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK234451', '2020-06-15', 358.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK234452', '2023-03-14', 3015.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK234453', '2023-01-23', 5918.28);
@@ -34523,7 +34523,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK234521', '2022-08-01', 7178.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK234522', '2023-09-12', 3357.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK234523', '2023-04-19', 1609.88);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK234524', '2021-05-21', 5773.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234524', '2021-05-21', 5773.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK234525', '2023-04-07', 9149.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK234526', '2021-07-31', 5356.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK234527', '2020-11-13', 3903.15);
@@ -34753,7 +34753,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK234751', '2023-11-08', 7559.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK234752', '2020-11-04', 4319.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK234753', '2021-05-19', 1398.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK234754', '2023-08-24', 5209.76);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234754', '2023-08-24', 5209.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK234755', '2021-02-09', 8171.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK234756', '2020-12-07', 6661.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK234757', '2020-05-21', 9667.23);
@@ -34772,7 +34772,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK234770', '2023-11-12', 7832.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK234771', '2023-04-24', 4975.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK234772', '2020-01-29', 1125.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK234773', '2021-08-21', 3537.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234773', '2021-08-21', 3537.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK234774', '2023-09-26', 5686.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK234775', '2020-05-20', 3975.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK234776', '2020-09-23', 3217.61);
@@ -34913,7 +34913,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK234911', '2022-03-03', 6844.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK234912', '2023-07-05', 4015.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK234913', '2020-05-16', 643.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK234914', '2022-10-13', 3910.12);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234914', '2022-10-13', 3910.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK234915', '2021-03-31', 4685.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK234916', '2023-05-05', 9411.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK234917', '2021-03-20', 2292.47);
@@ -35310,7 +35310,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK235308', '2022-05-19', 4966.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK235309', '2022-01-17', 7701.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK235310', '2023-05-15', 4919.89);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235311', '2020-01-06', 5383.11);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235311', '2020-01-06', 5383.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK235312', '2021-04-22', 866.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK235313', '2023-11-19', 2026.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK235314', '2021-10-14', 1117.6);
@@ -35365,7 +35365,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK235363', '2020-08-17', 6212.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK235364', '2020-03-14', 7072.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK235365', '2020-07-28', 6562.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235366', '2021-09-24', 3743.64);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235366', '2021-09-24', 3743.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK235367', '2021-02-27', 7815.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK235368', '2022-05-28', 1929.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK235369', '2023-09-16', 9792.56);
@@ -35486,7 +35486,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK235484', '2021-02-19', 7291.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK235485', '2020-08-22', 5034.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK235486', '2021-09-13', 2769.74);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235487', '2020-08-24', 7206.21);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235487', '2020-08-24', 7206.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK235488', '2021-06-29', 8337.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK235489', '2022-01-13', 9560.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK235490', '2020-04-02', 9903.0);
@@ -35571,10 +35571,10 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK235569', '2021-09-11', 9732.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK235570', '2021-10-09', 7100.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK235571', '2022-10-05', 7733.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235572', '2022-04-18', 3151.87);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235572', '2022-04-18', 3151.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK235573', '2021-05-25', 6573.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK235574', '2020-04-16', 4937.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235575', '2023-05-09', 4508.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235575', '2023-05-09', 4508.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK235576', '2020-12-07', 5765.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK235577', '2021-05-17', 8600.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK235578', '2023-07-20', 7570.91);
@@ -35590,7 +35590,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK235588', '2023-12-06', 5969.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK235589', '2021-09-26', 3427.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK235590', '2023-08-23', 3234.11);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235591', '2023-07-12', 1134.46);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235591', '2023-07-12', 1134.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK235592', '2022-04-03', 3921.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK235593', '2021-07-04', 3852.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK235594', '2023-03-09', 8285.45);
@@ -35629,7 +35629,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK235627', '2021-07-24', 6080.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK235628', '2020-10-21', 1913.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK235629', '2021-10-12', 857.53);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235630', '2021-09-23', 752.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235630', '2021-09-23', 752.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK235631', '2023-06-16', 8837.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK235632', '2023-08-25', 3871.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK235633', '2020-03-14', 6285.21);
@@ -35764,7 +35764,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK235762', '2023-07-10', 3803.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK235763', '2023-06-09', 3942.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK235764', '2023-09-03', 4641.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235765', '2022-03-06', 7111.36);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235765', '2022-03-06', 7111.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK235766', '2022-07-26', 5863.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK235767', '2022-06-16', 6771.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK235768', '2020-01-29', 1764.39);
@@ -35860,7 +35860,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK235858', '2020-11-02', 6927.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK235859', '2021-08-10', 4027.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK235860', '2020-08-03', 1705.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235861', '2022-04-01', 9309.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235861', '2022-04-01', 9309.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK235862', '2021-06-12', 1132.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK235863', '2020-04-03', 1437.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK235864', '2022-08-17', 7372.75);
@@ -35913,7 +35913,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK235911', '2021-07-27', 5669.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK235912', '2021-02-09', 4489.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK235913', '2022-09-18', 5437.93);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK235914', '2020-06-21', 3255.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK235914', '2020-06-21', 3255.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK235915', '2023-12-04', 9559.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK235916', '2023-02-18', 8876.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK235917', '2020-05-13', 3266.39);
@@ -36088,7 +36088,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK236086', '2021-08-05', 8389.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK236087', '2020-09-15', 8882.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK236088', '2021-03-12', 4233.68);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236089', '2022-08-24', 971.56);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236089', '2022-08-24', 971.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK236090', '2021-04-14', 5977.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK236091', '2023-02-13', 5696.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK236092', '2020-08-31', 9385.09);
@@ -36141,7 +36141,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK236139', '2020-08-31', 3404.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK236140', '2023-01-01', 3291.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK236141', '2021-08-03', 118.95);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236142', '2020-12-22', 8225.95);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236142', '2020-12-22', 8225.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK236143', '2021-03-25', 1808.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK236144', '2023-02-08', 4468.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK236145', '2020-09-23', 799.9);
@@ -36165,7 +36165,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK236163', '2021-04-22', 3606.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK236164', '2021-08-20', 5559.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK236165', '2020-09-02', 8002.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236166', '2022-12-14', 250.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236166', '2022-12-14', 250.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK236167', '2023-07-03', 6094.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK236168', '2020-08-25', 1509.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK236169', '2023-03-03', 2483.76);
@@ -36175,7 +36175,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK236173', '2021-12-18', 6183.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK236174', '2022-05-06', 5597.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK236175', '2020-07-12', 1322.58);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236176', '2020-12-06', 4676.44);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236176', '2020-12-06', 4676.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK236177', '2023-12-30', 988.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK236178', '2022-06-15', 1690.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK236179', '2022-03-17', 699.08);
@@ -36326,7 +36326,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK236324', '2021-05-05', 5322.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK236325', '2023-04-07', 9544.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK236326', '2022-10-23', 4204.43);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236327', '2023-06-20', 952.93);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236327', '2023-06-20', 952.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK236328', '2023-11-27', 7681.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK236329', '2022-06-08', 8808.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK236330', '2023-02-04', 5717.9);
@@ -36546,7 +36546,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK236544', '2022-12-22', 9641.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK236545', '2021-11-16', 3354.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK236546', '2023-08-08', 5575.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236547', '2020-07-22', 8857.02);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236547', '2020-07-22', 8857.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK236548', '2022-03-07', 9507.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK236549', '2023-03-30', 5932.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK236550', '2020-09-19', 5677.0);
@@ -36647,7 +36647,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK236645', '2020-09-10', 933.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK236646', '2021-08-09', 2603.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK236647', '2023-06-13', 9043.7);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236648', '2023-09-21', 7047.12);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236648', '2023-09-21', 7047.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK236649', '2023-09-27', 9692.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK236650', '2023-11-29', 2179.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK236651', '2022-01-02', 9030.41);
@@ -36754,7 +36754,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK236752', '2023-02-08', 9455.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK236753', '2022-09-23', 980.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK236754', '2020-01-13', 6507.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236755', '2020-08-11', 6169.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236755', '2020-08-11', 6169.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK236756', '2022-12-11', 2386.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK236757', '2021-09-03', 8579.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK236758', '2022-05-03', 8151.4);
@@ -36783,7 +36783,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK236781', '2021-04-24', 7009.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK236782', '2022-08-28', 9502.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK236783', '2022-08-27', 7716.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236784', '2021-06-01', 4325.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236784', '2021-06-01', 4325.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK236785', '2022-05-04', 7517.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK236786', '2020-04-09', 2932.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK236787', '2023-12-28', 3410.84);
@@ -36963,7 +36963,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK236961', '2020-02-15', 5444.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK236962', '2021-12-31', 39.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK236963', '2022-08-20', 3454.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK236964', '2023-12-04', 6195.3);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK236964', '2023-12-04', 6195.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK236965', '2022-03-31', 6406.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK236966', '2020-01-07', 6543.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK236967', '2023-05-10', 2415.02);
@@ -37079,7 +37079,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK237077', '2020-02-27', 432.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK237078', '2023-05-19', 5875.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK237079', '2020-10-03', 4428.44);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237080', '2023-03-18', 7517.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237080', '2023-03-18', 7517.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK237081', '2021-07-18', 1978.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK237082', '2023-08-20', 9150.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK237083', '2022-10-31', 7039.88);
@@ -37255,7 +37255,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK237253', '2020-04-25', 1228.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK237254', '2022-11-29', 5515.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK237255', '2020-06-24', 4321.16);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237256', '2021-10-16', 6053.11);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237256', '2021-10-16', 6053.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK237257', '2022-05-10', 2356.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK237258', '2020-07-13', 4749.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK237259', '2023-09-29', 9441.28);
@@ -37403,7 +37403,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK237401', '2023-09-28', 6418.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK237402', '2021-05-25', 7184.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK237403', '2021-02-28', 7161.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237404', '2020-05-11', 6879.08);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237404', '2020-05-11', 6879.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK237405', '2022-04-05', 2692.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK237406', '2020-02-15', 9671.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK237407', '2021-06-24', 2479.92);
@@ -37435,7 +37435,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK237433', '2022-06-29', 9008.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK237434', '2020-09-19', 8366.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK237435', '2023-01-01', 3020.51);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237436', '2020-12-04', 7511.92);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237436', '2020-12-04', 7511.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK237437', '2020-11-27', 7087.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK237438', '2023-12-17', 9590.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK237439', '2021-05-08', 9062.05);
@@ -37545,7 +37545,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK237543', '2022-07-20', 8775.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK237544', '2021-11-28', 7486.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK237545', '2020-07-13', 2214.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237546', '2021-08-29', 8004.92);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237546', '2021-08-29', 8004.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK237547', '2021-04-10', 3753.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK237548', '2021-09-21', 7061.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK237549', '2023-11-03', 3815.44);
@@ -37579,7 +37579,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK237577', '2022-04-29', 6196.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK237578', '2022-10-13', 183.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK237579', '2020-02-25', 1843.27);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237580', '2022-02-15', 889.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237580', '2022-02-15', 889.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK237581', '2023-04-25', 3092.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK237582', '2021-10-13', 1305.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK237583', '2022-05-09', 912.42);
@@ -37674,7 +37674,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK237672', '2023-04-13', 7282.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK237673', '2022-10-27', 9563.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK237674', '2023-06-30', 2415.78);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237675', '2023-01-04', 3396.61);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237675', '2023-01-04', 3396.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK237676', '2021-12-28', 7541.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK237677', '2021-12-26', 8191.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK237678', '2022-08-02', 1606.94);
@@ -37738,8 +37738,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK237736', '2021-06-07', 8122.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK237737', '2021-08-31', 6771.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK237738', '2021-10-15', 1659.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237739', '2021-11-19', 1380.2);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK237740', '2023-02-18', 4168.75);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237739', '2021-11-19', 1380.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK237740', '2023-02-18', 4168.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK237741', '2022-10-01', 2489.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK237742', '2020-06-01', 5233.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK237743', '2023-04-01', 4480.47);
@@ -38202,7 +38202,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK238200', '2020-11-19', 91.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK238201', '2020-03-21', 8644.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK238202', '2020-11-17', 9364.51);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238203', '2023-11-03', 7650.48);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238203', '2023-11-03', 7650.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK238204', '2022-11-20', 854.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK238205', '2020-04-30', 43.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK238206', '2021-06-19', 1136.62);
@@ -38233,7 +38233,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK238231', '2021-09-27', 6547.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK238232', '2022-01-28', 2148.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK238233', '2021-12-02', 974.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238234', '2020-06-12', 9196.48);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238234', '2020-06-12', 9196.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK238235', '2020-12-12', 4280.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK238236', '2021-05-15', 4269.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK238237', '2020-08-02', 2025.88);
@@ -38463,7 +38463,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK238461', '2023-12-17', 1454.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK238462', '2023-03-06', 5048.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK238463', '2020-09-26', 6406.77);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238464', '2023-05-09', 9347.65);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238464', '2023-05-09', 9347.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK238465', '2021-08-21', 6936.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK238466', '2021-03-27', 726.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK238467', '2021-06-05', 893.77);
@@ -38519,7 +38519,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK238517', '2021-09-03', 7245.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK238518', '2022-07-31', 2885.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK238519', '2023-05-31', 879.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238520', '2021-09-23', 2451.07);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238520', '2021-09-23', 2451.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238521', '2023-06-10', 2473.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK238522', '2021-11-07', 337.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK238523', '2020-04-13', 7718.53);
@@ -38587,7 +38587,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK238585', '2022-12-23', 7955.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK238586', '2021-03-30', 9452.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK238587', '2023-09-17', 8345.49);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238588', '2020-03-22', 3404.43);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238588', '2020-03-22', 3404.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK238589', '2022-01-19', 3128.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK238590', '2020-10-27', 7915.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK238591', '2022-06-22', 7346.99);
@@ -38661,7 +38661,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK238659', '2023-11-19', 7335.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK238660', '2021-10-18', 5053.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK238661', '2022-08-14', 6668.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238662', '2022-09-08', 7854.48);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238662', '2022-09-08', 7854.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK238663', '2023-02-10', 3946.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK238664', '2023-07-09', 1612.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK238665', '2023-08-07', 2729.52);
@@ -38759,7 +38759,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK238757', '2023-05-20', 4288.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK238758', '2023-11-16', 414.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK238759', '2021-02-07', 7768.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238760', '2021-12-28', 3434.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238760', '2021-12-28', 3434.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK238761', '2022-06-27', 5880.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK238762', '2023-11-26', 9115.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK238763', '2021-11-26', 8913.72);
@@ -38975,14 +38975,14 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK238973', '2023-08-05', 9628.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK238974', '2022-09-19', 5235.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK238975', '2023-11-20', 699.39);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238976', '2021-03-13', 6786.46);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238976', '2021-03-13', 6786.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK238977', '2021-04-16', 9444.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK238978', '2020-02-04', 886.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK238979', '2023-01-16', 9852.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK238980', '2022-09-20', 8800.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK238981', '2023-05-03', 3910.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK238982', '2021-08-16', 2975.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK238983', '2020-08-16', 7980.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK238983', '2020-08-16', 7980.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK238984', '2021-10-13', 6404.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK238985', '2022-10-29', 9597.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK238986', '2023-06-21', 6563.32);
@@ -39005,7 +39005,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK239003', '2023-02-06', 1538.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK239004', '2023-12-27', 3400.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK239005', '2020-01-03', 419.44);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK239006', '2023-01-19', 5144.76);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK239006', '2023-01-19', 5144.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK239007', '2020-10-03', 744.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK239008', '2022-05-09', 2359.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK239009', '2021-10-26', 3728.03);
@@ -39080,7 +39080,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK239078', '2023-09-18', 2615.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK239079', '2021-05-11', 6793.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK239080', '2023-02-13', 2897.11);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK239081', '2021-04-12', 7426.7);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK239081', '2021-04-12', 7426.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK239082', '2022-10-27', 1352.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK239083', '2023-08-13', 5042.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK239084', '2021-11-24', 2629.65);
@@ -39262,7 +39262,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK239260', '2022-11-18', 6964.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK239261', '2020-04-09', 6676.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK239262', '2023-08-07', 5763.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK239263', '2022-03-10', 842.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK239263', '2022-03-10', 842.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK239264', '2023-06-23', 5948.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK239265', '2020-07-06', 7623.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK239266', '2020-01-21', 2939.91);
@@ -39415,7 +39415,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK239413', '2021-12-21', 4427.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK239414', '2020-04-19', 1861.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK239415', '2022-08-21', 4591.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK239416', '2020-08-21', 79.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK239416', '2020-08-21', 79.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK239417', '2021-12-12', 9203.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK239418', '2023-07-29', 5862.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK239419', '2021-04-12', 9531.75);
@@ -39424,7 +39424,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK239422', '2023-08-26', 2155.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK239423', '2021-09-04', 2663.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK239424', '2021-09-17', 8292.93);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK239425', '2022-07-31', 3294.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK239425', '2022-07-31', 3294.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK239426', '2022-01-26', 1422.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK239427', '2020-05-10', 3846.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK239428', '2022-09-29', 403.63);
@@ -39440,7 +39440,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK239438', '2022-05-29', 1806.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK239439', '2023-06-06', 6229.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK239440', '2021-04-19', 8798.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK239441', '2022-08-24', 6911.64);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK239441', '2022-08-24', 6911.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK239442', '2023-12-10', 9885.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK239443', '2021-12-03', 1607.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK239444', '2023-10-02', 3825.71);
@@ -39698,7 +39698,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK239696', '2023-03-06', 1573.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK239697', '2022-03-30', 3324.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK239698', '2020-07-10', 3813.65);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK239699', '2020-08-16', 8670.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK239699', '2020-08-16', 8670.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK239700', '2021-10-09', 1251.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK239701', '2022-10-16', 4540.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK239702', '2021-06-29', 7028.29);
@@ -40139,7 +40139,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK240137', '2022-06-24', 9656.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK240138', '2021-01-15', 2397.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK240139', '2020-02-24', 2604.15);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240140', '2022-12-22', 5873.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240140', '2022-12-22', 5873.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK240141', '2023-01-11', 862.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK240142', '2021-08-20', 9822.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK240143', '2023-01-24', 8709.56);
@@ -40310,11 +40310,11 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK240308', '2023-03-09', 8649.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK240309', '2023-10-10', 3189.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK240310', '2020-02-27', 7868.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240311', '2021-12-24', 8223.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240311', '2021-12-24', 8223.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK240312', '2023-08-23', 9551.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK240313', '2021-10-09', 9831.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK240314', '2022-04-20', 3523.72);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240315', '2020-03-02', 4402.64);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240315', '2020-03-02', 4402.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK240316', '2021-04-18', 6282.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK240317', '2022-03-30', 4627.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK240318', '2022-02-07', 9918.94);
@@ -40430,7 +40430,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK240428', '2022-02-01', 7698.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK240429', '2023-04-01', 4023.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK240430', '2021-11-02', 6973.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240431', '2021-03-29', 8224.59);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240431', '2021-03-29', 8224.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK240432', '2022-10-04', 5839.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK240433', '2021-04-09', 2035.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK240434', '2021-03-03', 756.81);
@@ -40455,7 +40455,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK240453', '2021-05-26', 1422.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK240454', '2023-11-04', 2297.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK240455', '2020-09-21', 5479.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240456', '2023-09-11', 810.65);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240456', '2023-09-11', 810.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK240457', '2020-07-31', 5849.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK240458', '2020-09-02', 6069.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK240459', '2020-03-03', 3084.31);
@@ -40490,7 +40490,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK240488', '2022-02-28', 8620.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK240489', '2023-02-09', 8685.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK240490', '2020-11-24', 7411.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240491', '2023-08-04', 169.71);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240491', '2023-08-04', 169.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK240492', '2020-09-08', 7901.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK240493', '2020-08-08', 2584.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK240494', '2022-12-09', 6640.9);
@@ -40570,7 +40570,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK240568', '2023-08-09', 5985.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK240569', '2022-07-10', 2227.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK240570', '2023-01-11', 4694.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240571', '2022-10-29', 4549.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240571', '2022-10-29', 4549.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK240572', '2021-02-17', 6936.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK240573', '2023-05-31', 8253.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK240574', '2021-12-27', 5025.22);
@@ -40731,7 +40731,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK240729', '2023-04-04', 3014.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK240730', '2023-07-29', 5076.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK240731', '2020-02-16', 9407.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240732', '2021-04-13', 5539.36);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240732', '2021-04-13', 5539.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK240733', '2020-11-26', 2506.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK240734', '2020-10-04', 4854.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK240735', '2022-04-12', 2228.02);
@@ -40931,7 +40931,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK240929', '2020-09-05', 7544.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK240930', '2023-08-29', 5109.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK240931', '2021-11-12', 3265.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240932', '2020-01-18', 7967.03);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240932', '2020-01-18', 7967.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK240933', '2023-02-24', 2785.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK240934', '2023-10-23', 8561.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK240935', '2022-12-03', 3459.94);
@@ -40974,7 +40974,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK240972', '2023-01-15', 1358.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK240973', '2020-05-20', 7639.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK240974', '2023-05-16', 6553.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK240975', '2020-05-29', 9338.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK240975', '2020-05-29', 9338.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK240976', '2021-12-11', 7344.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK240977', '2022-03-28', 4189.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK240978', '2020-01-30', 7312.91);
@@ -41193,7 +41193,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK241191', '2023-10-25', 2352.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK241192', '2022-06-04', 4588.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK241193', '2020-08-02', 3440.39);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK241194', '2020-04-17', 685.21);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK241194', '2020-04-17', 685.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK241195', '2022-02-06', 1896.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK241196', '2021-10-12', 7777.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK241197', '2021-12-18', 7359.15);
@@ -41489,9 +41489,9 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK241487', '2022-06-06', 1825.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK241488', '2022-04-22', 301.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK241489', '2023-02-11', 7203.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK241490', '2021-10-05', 8530.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK241490', '2021-10-05', 8530.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK241491', '2022-07-02', 169.62);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK241492', '2022-08-04', 5699.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK241492', '2022-08-04', 5699.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK241493', '2022-12-01', 3305.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK241494', '2023-06-02', 6433.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK241495', '2020-03-09', 5466.44);
@@ -41503,7 +41503,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK241501', '2020-12-24', 1597.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK241502', '2020-07-18', 9630.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK241503', '2023-07-24', 4267.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK241504', '2020-10-27', 6289.34);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK241504', '2020-10-27', 6289.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK241505', '2021-08-30', 1461.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK241506', '2021-05-25', 2962.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK241507', '2023-05-08', 5036.02);
@@ -41666,7 +41666,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK241664', '2020-02-07', 7402.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK241665', '2021-03-07', 8306.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK241666', '2020-11-21', 4575.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK241667', '2022-06-07', 2876.08);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK241667', '2022-06-07', 2876.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK241668', '2023-09-25', 7942.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK241669', '2022-02-21', 6329.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK241670', '2020-08-27', 2627.17);
@@ -41741,7 +41741,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK241739', '2021-03-28', 8001.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK241740', '2023-08-23', 3140.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK241741', '2021-11-07', 1440.75);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK241742', '2020-11-29', 3505.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK241742', '2020-11-29', 3505.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK241743', '2022-06-12', 3845.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK241744', '2023-03-28', 3702.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK241745', '2021-11-13', 7917.75);
@@ -42019,7 +42019,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK242017', '2021-01-14', 8400.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK242018', '2020-04-27', 8077.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK242019', '2021-07-22', 1011.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242020', '2020-12-29', 8490.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242020', '2020-12-29', 8490.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK242021', '2022-12-23', 2725.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK242022', '2020-03-28', 9669.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK242023', '2023-04-06', 9807.72);
@@ -42061,7 +42061,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK242059', '2020-12-29', 8630.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK242060', '2021-12-15', 8207.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK242061', '2022-05-10', 3945.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242062', '2020-01-23', 3336.42);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242062', '2020-01-23', 3336.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK242063', '2022-01-01', 2375.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK242064', '2023-07-24', 8635.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK242065', '2023-01-25', 3803.91);
@@ -42140,7 +42140,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK242138', '2023-04-27', 1047.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK242139', '2021-07-07', 190.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242140', '2021-11-08', 9447.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242141', '2020-04-07', 2234.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242141', '2020-04-07', 2234.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK242142', '2022-06-19', 8408.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK242143', '2023-06-19', 9664.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK242144', '2020-07-12', 99.26);
@@ -42226,7 +42226,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK242224', '2023-07-10', 9521.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK242225', '2021-01-19', 1313.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK242226', '2020-01-11', 1689.54);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242227', '2022-03-05', 1739.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242227', '2022-03-05', 1739.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK242228', '2023-09-13', 5225.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK242229', '2022-10-30', 7252.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK242230', '2022-06-23', 9161.2);
@@ -42294,8 +42294,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK242292', '2023-07-09', 9209.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK242293', '2022-08-31', 4345.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK242294', '2022-06-26', 4296.15);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242295', '2022-05-23', 4129.78);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242296', '2022-05-06', 2636.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242295', '2022-05-23', 4129.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242296', '2022-05-06', 2636.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK242297', '2021-04-29', 9790.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK242298', '2023-01-20', 6437.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK242299', '2023-08-29', 5051.58);
@@ -42372,7 +42372,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK242370', '2020-11-04', 960.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK242371', '2022-05-18', 9606.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK242372', '2023-08-03', 417.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242373', '2021-11-20', 3845.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242373', '2021-11-20', 3845.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK242374', '2023-08-14', 5844.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK242375', '2022-03-08', 2631.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK242376', '2021-08-10', 4981.02);
@@ -42485,7 +42485,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK242483', '2022-06-24', 4211.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK242484', '2021-03-30', 8686.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK242485', '2020-01-07', 8957.73);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242486', '2020-08-04', 1530.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242486', '2020-08-04', 1530.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK242487', '2021-09-29', 9244.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK242488', '2021-09-01', 1234.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK242489', '2023-02-02', 6429.63);
@@ -42675,7 +42675,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK242673', '2021-10-25', 9887.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK242674', '2022-07-07', 6747.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK242675', '2021-10-11', 3905.34);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242676', '2022-07-09', 2821.07);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242676', '2022-07-09', 2821.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK242677', '2021-05-24', 789.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK242678', '2022-08-02', 9160.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK242679', '2021-08-01', 8245.48);
@@ -42831,7 +42831,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK242829', '2021-11-12', 3884.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK242830', '2023-11-14', 9196.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK242831', '2023-12-30', 6241.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242832', '2021-11-03', 2364.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242832', '2021-11-03', 2364.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK242833', '2020-08-20', 9032.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK242834', '2021-09-01', 4265.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK242835', '2023-07-19', 7783.91);
@@ -42910,7 +42910,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK242908', '2023-05-06', 7930.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK242909', '2023-05-21', 1279.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK242910', '2021-08-14', 9498.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242911', '2020-10-20', 7090.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242911', '2020-10-20', 7090.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK242912', '2021-11-13', 6600.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK242913', '2022-12-24', 1418.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK242914', '2020-10-17', 3536.92);
@@ -42938,7 +42938,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK242936', '2023-09-16', 7844.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK242937', '2020-08-10', 6935.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK242938', '2020-06-18', 996.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242939', '2023-09-03', 7927.68);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242939', '2023-09-03', 7927.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242940', '2023-01-11', 252.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK242941', '2021-11-17', 567.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK242942', '2022-12-29', 6066.5);
@@ -42959,9 +42959,9 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK242957', '2023-07-20', 1672.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK242958', '2023-01-12', 2793.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK242959', '2021-08-19', 726.48);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242960', '2021-11-16', 6430.94);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242960', '2021-11-16', 6430.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK242961', '2022-05-16', 6482.66);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242962', '2022-06-15', 3502.42);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242962', '2022-06-15', 3502.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK242963', '2021-10-19', 5257.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK242964', '2021-11-17', 4190.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK242965', '2021-02-17', 448.96);
@@ -42975,7 +42975,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK242973', '2020-10-29', 3241.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK242974', '2020-03-10', 5845.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK242975', '2020-08-05', 9638.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242976', '2021-12-27', 8359.84);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242976', '2021-12-27', 8359.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK242977', '2023-07-01', 5491.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK242978', '2020-06-13', 7187.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK242979', '2021-01-26', 2076.97);
@@ -42992,7 +42992,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK242990', '2020-12-06', 7583.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK242991', '2023-05-17', 5165.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK242992', '2022-12-02', 1165.16);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK242993', '2023-01-27', 8781.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK242993', '2023-01-27', 8781.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK242994', '2020-07-11', 3769.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK242995', '2022-04-06', 9432.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK242996', '2023-11-01', 2305.56);
@@ -43010,7 +43010,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK243008', '2023-08-03', 2172.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK243009', '2023-12-23', 2656.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK243010', '2020-12-27', 6001.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243011', '2020-11-08', 5846.34);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243011', '2020-11-08', 5846.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK243012', '2020-03-11', 9568.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK243013', '2023-12-28', 6194.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK243014', '2023-04-20', 4400.7);
@@ -43039,7 +43039,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK243037', '2022-12-14', 8874.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK243038', '2020-05-03', 5605.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK243039', '2020-02-19', 3156.78);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243040', '2022-07-28', 6881.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243040', '2022-07-28', 6881.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK243041', '2020-01-22', 6330.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK243042', '2020-06-01', 9116.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK243043', '2020-02-06', 6157.21);
@@ -43121,7 +43121,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK243119', '2022-11-23', 9628.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK243120', '2020-08-21', 8966.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK243121', '2021-05-16', 6138.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243122', '2023-11-07', 6398.81);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243122', '2023-11-07', 6398.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK243123', '2020-10-27', 6347.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK243124', '2022-06-26', 7984.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK243125', '2020-07-24', 899.64);
@@ -43263,7 +43263,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK243261', '2020-03-16', 4363.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK243262', '2022-04-13', 9226.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK243263', '2020-05-23', 3634.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243264', '2023-09-14', 1713.93);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243264', '2023-09-14', 1713.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK243265', '2020-08-31', 992.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK243266', '2023-09-30', 5025.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK243267', '2022-08-15', 98.74);
@@ -43392,7 +43392,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK243390', '2020-11-20', 2434.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK243391', '2020-04-07', 8146.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK243392', '2022-12-05', 7317.2);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243393', '2022-07-31', 5293.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243393', '2022-07-31', 5293.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK243394', '2023-01-09', 2004.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK243395', '2020-01-29', 6301.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK243396', '2021-03-17', 4987.08);
@@ -43488,7 +43488,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK243486', '2021-03-20', 168.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK243487', '2023-02-01', 5353.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK243488', '2023-07-30', 4931.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243489', '2021-08-01', 6768.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243489', '2021-08-01', 6768.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK243490', '2021-10-22', 9960.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK243491', '2021-06-05', 337.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK243492', '2022-04-25', 5432.77);
@@ -43523,7 +43523,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK243521', '2020-05-25', 2022.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK243522', '2021-08-25', 141.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK243523', '2020-05-15', 9676.68);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243524', '2023-09-08', 8304.48);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243524', '2023-09-08', 8304.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK243525', '2021-03-11', 7667.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK243526', '2022-12-07', 4255.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK243527', '2023-04-09', 4554.6);
@@ -43539,7 +43539,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK243537', '2021-11-18', 7312.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243538', '2020-12-11', 9337.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK243539', '2020-03-01', 7536.83);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243540', '2022-12-23', 5943.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243540', '2022-12-23', 5943.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK243541', '2023-10-27', 4320.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK243542', '2022-09-29', 6384.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK243543', '2023-12-31', 8743.97);
@@ -43680,7 +43680,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK243678', '2020-11-29', 9552.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK243679', '2023-04-03', 5135.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK243680', '2023-02-04', 3467.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243681', '2020-06-07', 3873.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243681', '2020-06-07', 3873.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK243682', '2020-09-09', 7355.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK243683', '2021-03-17', 546.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK243684', '2023-12-17', 9237.63);
@@ -43700,7 +43700,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK243698', '2022-11-04', 6329.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK243699', '2021-07-24', 3448.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK243700', '2020-01-19', 699.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243701', '2020-05-27', 137.15);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243701', '2020-05-27', 137.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK243702', '2020-11-29', 4348.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK243703', '2020-08-31', 7181.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK243704', '2020-06-05', 1533.71);
@@ -43709,7 +43709,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK243707', '2022-10-13', 4211.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK243708', '2022-11-18', 9824.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK243709', '2023-10-02', 5432.88);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK243710', '2023-12-31', 1218.5);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK243710', '2023-12-31', 1218.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK243711', '2023-11-17', 6062.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK243712', '2021-01-11', 2992.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK243713', '2023-08-26', 9929.95);
@@ -44044,10 +44044,10 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK244042', '2021-05-20', 9748.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK244043', '2021-07-24', 6797.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK244044', '2021-11-01', 3894.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244045', '2023-01-15', 1612.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244045', '2023-01-15', 1612.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK244046', '2023-01-06', 7090.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK244047', '2022-07-03', 5784.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244048', '2020-09-13', 8713.85);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244048', '2020-09-13', 8713.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK244049', '2021-11-12', 3351.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK244050', '2021-03-08', 7505.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK244051', '2023-01-11', 6601.03);
@@ -44079,7 +44079,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK244077', '2020-04-21', 5924.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK244078', '2022-03-16', 698.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK244079', '2022-01-12', 5591.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244080', '2020-02-20', 9557.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244080', '2020-02-20', 9557.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK244081', '2022-08-09', 8788.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK244082', '2021-05-23', 5911.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK244083', '2023-03-08', 2633.9);
@@ -44333,7 +44333,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK244331', '2021-01-16', 4786.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK244332', '2022-10-23', 4306.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK244333', '2020-11-02', 3766.04);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244334', '2023-07-22', 689.59);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244334', '2023-07-22', 689.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK244335', '2023-01-03', 6892.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK244336', '2022-03-21', 1145.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK244337', '2022-04-29', 5901.13);
@@ -44350,7 +44350,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK244348', '2021-06-12', 6425.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK244349', '2023-02-12', 1530.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK244350', '2021-11-25', 1819.54);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244351', '2023-08-09', 1923.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244351', '2023-08-09', 1923.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK244352', '2020-03-24', 1328.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK244353', '2022-08-10', 6125.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244354', '2022-10-06', 7904.71);
@@ -44383,7 +44383,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK244381', '2020-12-06', 6030.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK244382', '2020-09-20', 270.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK244383', '2023-07-23', 2995.98);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244384', '2023-12-17', 7386.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244384', '2023-12-17', 7386.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK244385', '2020-12-22', 6216.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK244386', '2021-06-06', 2016.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK244387', '2021-11-06', 2419.62);
@@ -44521,7 +44521,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK244519', '2023-08-02', 105.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK244520', '2021-07-05', 2176.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK244521', '2021-05-10', 4923.75);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244522', '2021-11-16', 1118.54);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244522', '2021-11-16', 1118.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK244523', '2022-06-14', 6598.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK244524', '2021-03-23', 7582.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK244525', '2020-07-13', 9410.26);
@@ -44634,7 +44634,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK244632', '2021-01-30', 208.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK244633', '2021-10-18', 4081.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK244634', '2023-03-18', 985.93);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244635', '2020-05-08', 6802.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244635', '2020-05-08', 6802.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK244636', '2022-02-11', 9480.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244637', '2020-12-10', 139.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK244638', '2020-03-19', 4020.65);
@@ -44748,7 +44748,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK244746', '2023-05-07', 560.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK244747', '2020-12-30', 3327.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK244748', '2020-03-09', 7924.47);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244749', '2022-11-07', 8901.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244749', '2022-11-07', 8901.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK244750', '2023-07-26', 4748.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK244751', '2022-05-02', 2916.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK244752', '2022-06-25', 9716.35);
@@ -44918,7 +44918,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK244916', '2020-10-27', 1412.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK244917', '2021-02-16', 4214.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK244918', '2021-12-07', 328.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK244919', '2020-08-18', 4636.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK244919', '2020-08-18', 4636.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK244920', '2020-04-16', 466.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK244921', '2021-12-30', 1507.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK244922', '2023-07-16', 5260.74);
@@ -45110,7 +45110,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK245108', '2020-03-28', 8641.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK245109', '2022-01-22', 579.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK245110', '2022-11-17', 8445.74);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK245111', '2021-07-09', 9214.6);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK245111', '2021-07-09', 9214.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK245112', '2023-07-19', 1428.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK245113', '2022-12-12', 6575.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK245114', '2020-05-08', 2546.88);
@@ -45226,7 +45226,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK245224', '2020-02-24', 6073.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK245225', '2023-03-18', 3594.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK245226', '2020-07-20', 9399.72);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK245227', '2021-09-17', 9395.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK245227', '2021-09-17', 9395.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK245228', '2021-11-10', 2431.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK245229', '2023-11-27', 4517.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK245230', '2020-09-22', 3321.01);
@@ -45338,7 +45338,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK245336', '2021-03-05', 2634.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK245337', '2021-03-04', 2777.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK245338', '2023-01-15', 7159.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK245339', '2023-10-24', 9038.96);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK245339', '2023-10-24', 9038.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK245340', '2023-07-25', 1148.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK245341', '2021-03-17', 3512.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK245342', '2023-03-30', 1516.15);
@@ -45436,7 +45436,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK245434', '2021-01-14', 2864.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK245435', '2023-08-18', 6712.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK245436', '2021-04-27', 4152.57);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK245437', '2022-03-31', 4093.8);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK245437', '2022-03-31', 4093.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK245438', '2020-11-14', 8504.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK245439', '2020-12-15', 6155.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK245440', '2023-05-15', 3783.87);
@@ -45525,7 +45525,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK245523', '2021-02-02', 3832.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK245524', '2022-05-10', 655.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK245525', '2023-04-03', 9912.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK245526', '2021-04-04', 4678.02);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK245526', '2021-04-04', 4678.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK245527', '2022-04-18', 1771.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK245528', '2022-03-15', 3264.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK245529', '2023-03-16', 1483.0);
@@ -45712,7 +45712,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK245710', '2023-03-27', 7349.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK245711', '2023-06-02', 275.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK245712', '2021-02-28', 8644.76);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK245713', '2020-01-18', 2088.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK245713', '2020-01-18', 2088.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK245714', '2023-01-09', 7286.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK245715', '2021-03-29', 1578.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK245716', '2022-03-25', 1551.72);
@@ -45883,7 +45883,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK245881', '2021-02-25', 9680.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK245882', '2022-12-10', 2591.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK245883', '2020-08-13', 6875.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK245884', '2023-11-04', 6404.34);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK245884', '2023-11-04', 6404.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK245885', '2022-09-08', 3852.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK245886', '2021-01-25', 8854.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK245887', '2023-12-19', 4640.71);
@@ -46026,7 +46026,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK246024', '2021-03-21', 2068.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK246025', '2020-12-29', 9703.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK246026', '2022-02-08', 3104.77);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246027', '2023-07-01', 5802.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246027', '2023-07-01', 5802.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK246028', '2023-05-15', 1274.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK246029', '2023-07-21', 3396.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK246030', '2020-04-16', 2993.73);
@@ -46058,7 +46058,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK246056', '2020-09-18', 9459.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK246057', '2023-05-28', 5207.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK246058', '2020-05-23', 5102.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246059', '2023-11-21', 6546.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246059', '2023-11-21', 6546.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK246060', '2021-12-06', 6246.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK246061', '2021-06-14', 4114.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK246062', '2023-07-07', 2770.37);
@@ -46098,7 +46098,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK246096', '2023-09-24', 9063.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK246097', '2023-01-29', 7722.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK246098', '2022-06-10', 3403.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246099', '2021-01-18', 8866.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246099', '2021-01-18', 8866.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK246100', '2020-12-24', 6258.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK246101', '2021-05-13', 1363.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK246102', '2022-06-27', 4248.19);
@@ -46117,7 +46117,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK246115', '2020-09-04', 5019.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK246116', '2021-03-19', 919.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK246117', '2020-03-04', 8655.04);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246118', '2022-05-08', 6005.65);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246118', '2022-05-08', 6005.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK246119', '2021-11-13', 2661.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246120', '2021-01-13', 361.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK246121', '2021-11-03', 8807.55);
@@ -46336,7 +46336,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK246334', '2023-05-02', 814.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK246335', '2021-10-17', 7493.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK246336', '2021-01-16', 7804.76);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246337', '2022-09-18', 6686.76);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246337', '2022-09-18', 6686.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK246338', '2023-12-19', 1534.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK246339', '2021-09-05', 9009.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK246340', '2023-02-27', 5229.19);
@@ -46568,7 +46568,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK246566', '2023-08-08', 2724.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK246567', '2021-05-23', 7190.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK246568', '2022-02-13', 8390.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246569', '2022-08-10', 3640.67);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246569', '2022-08-10', 3640.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK246570', '2022-05-05', 3981.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK246571', '2020-10-22', 594.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK246572', '2023-05-21', 5751.78);
@@ -46632,7 +46632,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK246630', '2021-03-26', 7196.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK246631', '2023-06-11', 3492.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK246632', '2023-04-09', 4960.2);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246633', '2022-02-15', 547.35);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246633', '2022-02-15', 547.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK246634', '2023-07-22', 6742.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK246635', '2022-10-22', 2188.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK246636', '2023-11-05', 6768.63);
@@ -46653,7 +46653,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK246651', '2020-11-24', 1327.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK246652', '2022-10-01', 7592.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK246653', '2023-10-21', 8729.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246654', '2020-03-26', 9164.96);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246654', '2020-03-26', 9164.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK246655', '2022-03-03', 8172.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK246656', '2022-11-19', 8993.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK246657', '2021-01-03', 8889.68);
@@ -46669,7 +46669,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK246667', '2020-03-17', 3399.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK246668', '2023-03-22', 3089.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK246669', '2021-01-13', 4260.98);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246670', '2021-08-12', 740.99);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246670', '2021-08-12', 740.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK246671', '2022-10-29', 5588.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK246672', '2021-12-16', 3185.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK246673', '2023-11-05', 1758.99);
@@ -46739,7 +46739,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK246737', '2023-07-08', 3628.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK246738', '2021-01-03', 8212.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK246739', '2020-07-01', 4143.72);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK246740', '2020-05-18', 8111.29);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK246740', '2020-05-18', 8111.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK246741', '2023-09-26', 540.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK246742', '2021-05-22', 2684.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK246743', '2021-02-03', 5164.77);
@@ -47277,7 +47277,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK247275', '2021-03-04', 7038.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK247276', '2020-11-16', 5441.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK247277', '2021-02-13', 185.45);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247278', '2022-04-29', 8537.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247278', '2022-04-29', 8537.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK247279', '2020-10-22', 4340.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK247280', '2023-05-20', 2051.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK247281', '2023-11-08', 8083.81);
@@ -47333,12 +47333,12 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK247331', '2023-09-04', 6485.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK247332', '2023-08-28', 2854.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK247333', '2022-08-13', 3436.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247334', '2021-08-06', 6277.84);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247334', '2021-08-06', 6277.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK247335', '2020-08-27', 6108.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK247336', '2022-04-06', 9095.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK247337', '2023-12-24', 3396.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK247338', '2021-02-18', 3871.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247339', '2022-11-19', 6016.61);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247339', '2022-11-19', 6016.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK247340', '2021-11-04', 3205.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK247341', '2021-05-08', 7398.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK247342', '2021-02-26', 9832.86);
@@ -47443,7 +47443,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK247441', '2020-10-05', 8057.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK247442', '2023-08-23', 6625.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247443', '2023-08-30', 2305.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247444', '2022-07-16', 9853.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247444', '2022-07-16', 9853.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK247445', '2021-03-30', 8460.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK247446', '2023-12-01', 6143.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK247447', '2023-05-23', 3715.08);
@@ -47532,13 +47532,13 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK247530', '2021-09-04', 1130.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK247531', '2021-05-15', 3015.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK247532', '2020-12-12', 7539.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247533', '2020-09-27', 2068.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247533', '2020-09-27', 2068.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK247534', '2021-08-17', 802.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK247535', '2021-08-02', 283.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK247536', '2020-12-18', 2117.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK247537', '2022-01-17', 2858.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK247538', '2022-04-02', 6010.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247539', '2022-01-19', 3848.59);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247539', '2022-01-19', 3848.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK247540', '2022-11-28', 1331.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK247541', '2022-10-25', 7285.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK247542', '2023-12-05', 714.76);
@@ -47564,12 +47564,12 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK247562', '2022-10-31', 6911.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK247563', '2021-05-22', 3037.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK247564', '2022-12-17', 3566.64);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247565', '2021-05-03', 6193.7);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247565', '2021-05-03', 6193.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK247566', '2022-05-02', 6002.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK247567', '2023-09-12', 3610.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK247568', '2023-07-27', 905.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK247569', '2023-07-01', 8552.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247570', '2020-03-17', 8406.87);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247570', '2020-03-17', 8406.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK247571', '2021-11-01', 2357.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK247572', '2023-03-27', 4673.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK247573', '2020-04-24', 66.49);
@@ -47763,14 +47763,14 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK247761', '2020-06-19', 472.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK247762', '2023-03-22', 1390.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK247763', '2020-12-31', 3868.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247764', '2023-04-18', 9551.39);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247764', '2023-04-18', 9551.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK247765', '2021-12-13', 9346.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK247766', '2020-02-05', 7411.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK247767', '2021-06-17', 831.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247768', '2020-12-13', 7451.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK247769', '2022-10-28', 5697.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK247770', '2022-08-25', 9967.89);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247771', '2021-01-19', 5824.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247771', '2021-01-19', 5824.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK247772', '2023-09-14', 8823.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK247773', '2021-01-22', 359.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK247774', '2022-07-04', 523.18);
@@ -47838,7 +47838,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK247836', '2023-12-22', 261.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK247837', '2023-12-01', 517.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK247838', '2022-06-03', 7311.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK247839', '2022-09-13', 4166.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK247839', '2022-09-13', 4166.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK247840', '2020-03-29', 5291.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK247841', '2020-11-18', 4826.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK247842', '2020-01-04', 3107.45);
@@ -48028,7 +48028,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK248026', '2023-04-18', 8699.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK248027', '2021-12-27', 9021.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK248028', '2023-09-12', 5511.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK248029', '2023-10-02', 9457.08);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK248029', '2023-10-02', 9457.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK248030', '2023-02-14', 302.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK248031', '2020-06-30', 9445.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK248032', '2023-01-02', 6002.16);
@@ -48098,7 +48098,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK248096', '2022-03-10', 2076.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK248097', '2022-02-16', 7354.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK248098', '2022-08-09', 6176.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK248099', '2022-08-13', 3390.07);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK248099', '2022-08-13', 3390.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK248100', '2021-05-21', 9171.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK248101', '2022-09-02', 5966.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK248102', '2021-04-26', 7790.42);
@@ -48149,7 +48149,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK248147', '2023-08-28', 6761.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK248148', '2020-08-05', 4331.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK248149', '2023-07-04', 4341.64);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK248150', '2023-04-20', 8654.93);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK248150', '2023-04-20', 8654.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK248151', '2022-07-06', 8519.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK248152', '2021-01-04', 2475.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK248153', '2022-10-26', 1770.28);
@@ -48392,7 +48392,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK248390', '2022-11-19', 8538.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK248391', '2023-02-11', 362.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK248392', '2020-10-12', 412.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK248393', '2020-09-28', 4234.85);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK248393', '2020-09-28', 4234.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK248394', '2021-10-24', 9935.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK248395', '2022-09-07', 2549.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK248396', '2021-04-19', 7283.94);
@@ -48544,7 +48544,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK248542', '2020-05-27', 7720.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK248543', '2020-01-07', 6204.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK248544', '2020-08-01', 3223.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK248545', '2021-09-30', 5652.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK248545', '2021-09-30', 5652.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK248546', '2021-07-14', 3129.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK248547', '2021-12-09', 7422.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK248548', '2021-05-04', 2101.2);
@@ -48630,7 +48630,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK248628', '2020-09-30', 8466.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK248629', '2022-04-02', 4280.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK248630', '2022-01-31', 9152.76);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK248631', '2021-01-13', 397.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK248631', '2021-01-13', 397.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK248632', '2020-02-11', 2451.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK248633', '2022-10-18', 2126.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK248634', '2020-04-29', 9067.23);
@@ -48647,7 +48647,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK248645', '2021-03-15', 2713.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK248646', '2020-12-05', 1187.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK248647', '2022-10-07', 1784.81);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK248648', '2023-04-26', 9174.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK248648', '2023-04-26', 9174.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK248649', '2020-09-12', 5432.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK248650', '2023-05-29', 2186.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK248651', '2020-03-14', 1094.01);
@@ -48813,7 +48813,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK248811', '2023-10-22', 6452.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK248812', '2021-11-19', 6393.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK248813', '2020-11-23', 6211.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK248814', '2023-05-27', 7726.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK248814', '2023-05-27', 7726.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK248815', '2020-02-08', 7073.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK248816', '2020-07-07', 5389.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK248817', '2021-11-09', 8182.68);
@@ -49060,7 +49060,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK249058', '2023-01-01', 3282.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK249059', '2023-06-19', 9641.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK249060', '2022-12-31', 1741.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK249061', '2022-04-12', 8387.66);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK249061', '2022-04-12', 8387.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK249062', '2023-06-13', 936.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK249063', '2021-06-24', 9694.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK249064', '2021-08-16', 2729.65);
@@ -49541,7 +49541,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK249539', '2021-07-25', 9099.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK249540', '2023-02-06', 6751.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK249541', '2020-12-21', 4999.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK249542', '2022-07-10', 8749.93);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK249542', '2022-07-10', 8749.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK249543', '2020-10-26', 8402.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK249544', '2020-04-12', 4898.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK249545', '2021-05-11', 9079.04);
@@ -49660,7 +49660,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK249658', '2023-02-05', 4510.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK249659', '2022-02-20', 6125.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK249660', '2020-07-27', 3185.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK249661', '2022-07-25', 6846.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK249661', '2022-07-25', 6846.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK249662', '2022-05-02', 2575.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK249663', '2020-12-09', 6734.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK249664', '2020-02-08', 4495.22);
@@ -49681,7 +49681,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK249679', '2021-11-03', 3345.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK249680', '2023-01-28', 1954.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK249681', '2022-10-08', 2968.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK249682', '2021-05-20', 3350.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK249682', '2021-05-20', 3350.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK249683', '2023-11-26', 4002.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK249684', '2023-02-23', 2678.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK249685', '2022-09-04', 4722.16);
@@ -49797,7 +49797,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK249795', '2022-10-11', 1718.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK249796', '2020-01-08', 7767.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK249797', '2023-01-28', 5810.4);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK249798', '2023-10-07', 6659.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK249798', '2023-10-07', 6659.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK249799', '2020-06-26', 3192.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK249800', '2023-03-09', 9145.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK249801', '2023-07-15', 6196.85);
@@ -49948,7 +49948,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK249946', '2021-12-11', 9959.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK249947', '2022-01-22', 5952.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK249948', '2023-01-20', 3813.31);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK249949', '2020-05-18', 3375.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK249949', '2020-05-18', 3375.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK249950', '2020-01-05', 5875.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK249951', '2020-05-07', 7750.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK249952', '2023-12-19', 5981.85);
@@ -49994,7 +49994,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK249992', '2021-09-06', 2038.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK249993', '2023-07-04', 7165.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK249994', '2021-09-10', 3287.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK249995', '2022-10-03', 6637.83);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK249995', '2022-10-03', 6637.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK249996', '2023-12-06', 725.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK249997', '2021-08-16', 1833.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK249998', '2022-03-13', 4698.88);
@@ -50126,7 +50126,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK250124', '2021-01-28', 8835.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK250125', '2022-08-15', 6123.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK250126', '2021-04-11', 6818.72);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250127', '2023-09-02', 3563.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250127', '2023-09-02', 3563.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK250128', '2023-12-22', 7894.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK250129', '2022-08-24', 2965.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK250130', '2023-06-29', 3150.11);
@@ -50173,7 +50173,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK250171', '2020-07-26', 4343.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK250172', '2022-06-30', 2930.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK250173', '2021-05-26', 4580.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250174', '2022-04-04', 9391.25);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250174', '2022-04-04', 9391.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK250175', '2022-09-28', 826.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK250176', '2020-10-23', 6362.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK250177', '2020-12-28', 678.29);
@@ -50271,7 +50271,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK250269', '2023-03-15', 4052.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK250270', '2022-07-02', 6696.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK250271', '2023-05-06', 8803.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250272', '2020-05-13', 4044.25);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250272', '2020-05-13', 4044.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK250273', '2021-07-29', 7389.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK250274', '2021-05-23', 4020.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK250275', '2021-11-16', 2860.83);
@@ -50280,7 +50280,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK250278', '2021-06-27', 9850.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK250279', '2022-08-10', 5409.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK250280', '2020-06-29', 5674.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250281', '2020-08-12', 417.36);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250281', '2020-08-12', 417.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK250282', '2023-06-22', 1306.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK250283', '2022-01-05', 31.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK250284', '2022-07-06', 2336.24);
@@ -50556,7 +50556,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK250554', '2022-02-25', 8566.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK250555', '2021-02-03', 5817.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK250556', '2020-10-02', 9408.51);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250557', '2021-01-28', 8343.6);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250557', '2021-01-28', 8343.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK250558', '2022-06-30', 2131.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK250559', '2022-01-18', 8316.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK250560', '2020-02-09', 3765.11);
@@ -50580,7 +50580,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK250578', '2022-07-18', 9511.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK250579', '2020-12-22', 332.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK250580', '2023-04-25', 8216.47);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250581', '2022-04-20', 6163.68);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250581', '2022-04-20', 6163.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK250582', '2023-10-16', 8948.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK250583', '2021-11-19', 6403.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK250584', '2020-02-21', 9503.97);
@@ -50606,7 +50606,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK250604', '2023-07-19', 7943.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK250605', '2022-09-30', 2704.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK250606', '2022-11-07', 8369.54);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250607', '2020-09-02', 9855.52);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250607', '2020-09-02', 9855.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK250608', '2022-08-12', 4943.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK250609', '2021-10-13', 4538.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK250610', '2022-05-26', 3916.64);
@@ -50841,7 +50841,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK250839', '2020-06-11', 5048.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK250840', '2020-11-25', 2842.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK250841', '2022-08-10', 7269.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250842', '2022-03-10', 6341.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250842', '2022-03-10', 6341.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK250843', '2022-10-18', 5377.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK250844', '2023-12-12', 2558.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK250845', '2022-03-29', 4684.24);
@@ -50872,7 +50872,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK250870', '2023-07-26', 3944.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK250871', '2021-04-22', 392.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK250872', '2020-03-29', 7565.29);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250873', '2022-03-17', 49.57);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250873', '2022-03-17', 49.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK250874', '2023-01-10', 3892.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK250875', '2021-08-07', 1802.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK250876', '2022-10-18', 3780.38);
@@ -50949,7 +50949,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK250947', '2021-11-27', 7170.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK250948', '2022-09-02', 8537.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK250949', '2022-08-18', 753.01);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK250950', '2020-11-27', 4408.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK250950', '2020-11-27', 4408.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK250951', '2023-06-04', 4684.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK250952', '2021-09-15', 5615.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK250953', '2020-11-26', 8092.82);
@@ -51085,7 +51085,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK251083', '2022-06-11', 9364.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK251084', '2021-09-26', 368.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK251085', '2023-11-17', 5854.16);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251086', '2022-11-07', 6298.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251086', '2022-11-07', 6298.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK251087', '2021-05-24', 4345.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK251088', '2023-05-29', 6172.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK251089', '2022-02-27', 124.83);
@@ -51222,7 +51222,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK251220', '2021-02-28', 4015.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK251221', '2021-03-15', 5255.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK251222', '2020-03-20', 8315.09);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251223', '2023-01-30', 3017.68);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251223', '2023-01-30', 3017.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK251224', '2023-10-25', 8083.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK251225', '2022-07-05', 3387.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK251226', '2023-09-10', 7206.69);
@@ -51418,7 +51418,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK251416', '2023-08-31', 5345.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251417', '2022-02-10', 9137.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK251418', '2022-07-02', 5613.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251419', '2023-11-09', 7238.91);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251419', '2023-11-09', 7238.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK251420', '2020-08-04', 4836.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK251421', '2021-12-31', 6162.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK251422', '2022-08-19', 292.8);
@@ -51522,7 +51522,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK251520', '2021-02-08', 1872.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK251521', '2020-10-31', 9951.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK251522', '2022-04-06', 1242.09);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251523', '2020-04-17', 7435.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251523', '2020-04-17', 7435.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK251524', '2021-12-19', 2961.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK251525', '2020-12-22', 6937.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK251526', '2020-12-21', 465.42);
@@ -51596,7 +51596,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK251594', '2020-05-26', 329.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK251595', '2022-05-21', 5913.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK251596', '2021-07-08', 3478.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251597', '2022-05-26', 4764.95);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251597', '2022-05-26', 4764.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK251598', '2023-12-05', 4052.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK251599', '2021-06-20', 2437.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK251600', '2020-06-19', 3538.19);
@@ -51638,7 +51638,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK251636', '2023-10-23', 8613.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK251637', '2020-10-05', 1396.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK251638', '2022-12-29', 8028.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251639', '2020-02-03', 3233.22);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251639', '2020-02-03', 3233.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK251640', '2022-08-07', 8395.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK251641', '2021-11-30', 7764.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK251642', '2023-11-10', 8093.17);
@@ -51672,7 +51672,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK251670', '2021-07-26', 1000.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK251671', '2022-01-21', 8430.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK251672', '2023-12-31', 2138.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251673', '2022-12-09', 2052.49);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251673', '2022-12-09', 2052.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK251674', '2022-01-18', 1999.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK251675', '2020-03-25', 6550.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK251676', '2022-07-26', 1760.65);
@@ -51776,7 +51776,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK251774', '2020-09-03', 3867.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK251775', '2023-09-29', 1000.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK251776', '2022-02-16', 1171.5);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251777', '2020-10-27', 9620.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251777', '2020-10-27', 9620.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK251778', '2021-06-19', 5693.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK251779', '2023-01-11', 7933.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK251780', '2021-11-05', 4948.25);
@@ -51863,7 +51863,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK251861', '2021-06-17', 1683.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK251862', '2023-10-08', 5735.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK251863', '2020-07-11', 3838.01);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK251864', '2022-02-13', 2063.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK251864', '2022-02-13', 2063.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK251865', '2023-08-13', 2732.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK251866', '2020-09-11', 8764.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK251867', '2022-11-01', 8839.77);
@@ -51999,7 +51999,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK251997', '2023-03-19', 235.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK251998', '2023-09-03', 2474.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK251999', '2022-03-26', 6780.8);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252000', '2020-06-10', 5203.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252000', '2020-06-10', 5203.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK252001', '2021-05-04', 4728.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK252002', '2021-08-01', 6994.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK252003', '2020-07-07', 5381.32);
@@ -52022,11 +52022,11 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK252020', '2022-05-29', 1655.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK252021', '2022-05-02', 6657.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK252022', '2020-05-21', 8424.62);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252023', '2021-05-03', 8288.02);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252023', '2021-05-03', 8288.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK252024', '2021-11-19', 2316.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK252025', '2022-07-03', 3430.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK252026', '2021-06-25', 7394.57);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252027', '2020-11-28', 8343.24);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252027', '2020-11-28', 8343.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK252028', '2022-06-14', 8217.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK252029', '2023-11-25', 7761.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK252030', '2023-11-19', 2216.19);
@@ -52085,7 +52085,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK252083', '2023-10-22', 6650.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK252084', '2020-01-13', 6917.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK252085', '2022-10-24', 93.76);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252086', '2022-01-31', 9807.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252086', '2022-01-31', 9807.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK252087', '2023-09-07', 2571.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK252088', '2020-04-01', 9519.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK252089', '2020-12-23', 6089.91);
@@ -52237,7 +52237,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK252235', '2021-12-28', 6733.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK252236', '2021-04-15', 3475.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK252237', '2022-03-28', 9920.58);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252238', '2022-04-22', 1271.26);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252238', '2022-04-22', 1271.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK252239', '2022-10-21', 7894.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK252240', '2021-01-30', 3975.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK252241', '2020-11-08', 560.69);
@@ -52349,7 +52349,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK252347', '2023-06-05', 7700.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK252348', '2021-02-03', 9782.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK252349', '2022-12-15', 7761.78);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252350', '2023-07-29', 6457.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252350', '2023-07-29', 6457.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK252351', '2023-03-26', 4734.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK252352', '2022-04-04', 6278.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252353', '2022-10-29', 556.51);
@@ -52513,7 +52513,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK252511', '2023-02-18', 4365.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK252512', '2020-04-25', 3621.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK252513', '2020-07-31', 7920.88);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252514', '2023-01-30', 152.16);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252514', '2023-01-30', 152.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK252515', '2023-10-23', 110.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252516', '2022-07-02', 5894.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK252517', '2020-02-17', 4678.22);
@@ -52522,7 +52522,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK252520', '2021-04-17', 9792.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK252521', '2022-04-22', 3935.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK252522', '2020-03-28', 42.47);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252523', '2021-10-31', 8444.21);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252523', '2021-10-31', 8444.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK252524', '2021-03-07', 5813.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK252525', '2023-07-28', 8425.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK252526', '2020-09-24', 5168.5);
@@ -52749,7 +52749,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK252747', '2020-03-26', 2151.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK252748', '2020-08-23', 6070.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK252749', '2020-09-12', 4929.65);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252750', '2020-12-02', 1996.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252750', '2020-12-02', 1996.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK252751', '2023-08-17', 5501.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK252752', '2021-09-04', 6809.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK252753', '2022-02-28', 5655.86);
@@ -52791,7 +52791,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK252789', '2021-03-20', 7104.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK252790', '2021-11-09', 3065.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK252791', '2021-04-01', 2011.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252792', '2020-04-14', 9644.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252792', '2020-04-14', 9644.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK252793', '2023-08-12', 8705.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK252794', '2021-04-28', 9308.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK252795', '2023-08-01', 9359.4);
@@ -52970,7 +52970,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK252968', '2023-01-18', 735.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK252969', '2022-05-10', 9206.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK252970', '2020-02-16', 8363.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252971', '2022-07-28', 1309.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252971', '2022-07-28', 1309.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK252972', '2022-05-16', 9294.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK252973', '2023-08-03', 4134.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK252974', '2020-05-09', 8575.95);
@@ -52987,7 +52987,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK252985', '2020-01-10', 2637.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK252986', '2023-07-27', 6345.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK252987', '2023-06-30', 7409.2);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK252988', '2020-01-06', 8020.54);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK252988', '2020-01-06', 8020.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK252989', '2021-03-03', 4298.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK252990', '2021-09-10', 9924.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK252991', '2021-06-15', 9745.97);
@@ -53021,7 +53021,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK253019', '2022-07-09', 8820.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK253020', '2022-02-16', 9974.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK253021', '2022-12-31', 3495.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253022', '2023-08-07', 8341.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253022', '2023-08-07', 8341.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK253023', '2020-08-31', 8308.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK253024', '2023-01-06', 105.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK253025', '2021-03-26', 7150.98);
@@ -53053,7 +53053,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK253051', '2023-02-20', 4405.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK253052', '2021-06-23', 3277.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK253053', '2022-04-26', 3901.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253054', '2020-06-02', 8233.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253054', '2020-06-02', 8233.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK253055', '2021-03-27', 171.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK253056', '2020-10-10', 685.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK253057', '2022-06-08', 7248.61);
@@ -53076,7 +53076,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK253074', '2021-02-02', 4897.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK253075', '2021-09-26', 6351.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK253076', '2020-05-30', 2816.9);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253077', '2022-01-30', 7427.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253077', '2022-01-30', 7427.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK253078', '2020-06-11', 318.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK253079', '2023-12-28', 5079.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK253080', '2020-09-07', 6997.67);
@@ -53144,7 +53144,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK253142', '2020-03-22', 1037.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK253143', '2020-02-04', 4905.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK253144', '2021-06-27', 7701.88);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253145', '2023-09-04', 3249.57);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253145', '2023-09-04', 3249.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK253146', '2022-06-14', 9119.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK253147', '2022-10-30', 4943.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK253148', '2022-12-06', 320.98);
@@ -53167,9 +53167,9 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK253165', '2022-03-12', 1603.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK253166', '2020-09-03', 5390.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK253167', '2022-08-22', 639.63);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253168', '2020-10-02', 9878.39);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253168', '2020-10-02', 9878.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK253169', '2022-03-10', 9917.8);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253170', '2022-08-30', 4243.71);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253170', '2022-08-30', 4243.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK253171', '2022-09-25', 6102.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK253172', '2021-10-07', 4544.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK253173', '2022-05-03', 4418.17);
@@ -53305,7 +53305,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK253303', '2022-12-30', 3733.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK253304', '2023-02-08', 3609.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK253305', '2021-07-31', 8636.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253306', '2022-03-25', 5138.99);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253306', '2022-03-25', 5138.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK253307', '2021-01-27', 8004.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK253308', '2021-02-17', 6515.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK253309', '2021-01-24', 586.63);
@@ -53347,7 +53347,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK253345', '2021-09-26', 4289.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK253346', '2023-12-07', 404.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK253347', '2020-01-06', 5740.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253348', '2021-05-01', 5755.56);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253348', '2021-05-01', 5755.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK253349', '2022-05-08', 2648.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK253350', '2021-06-25', 1561.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK253351', '2022-02-25', 5060.63);
@@ -53712,7 +53712,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK253710', '2021-10-18', 7456.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK253711', '2020-11-15', 8095.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK253712', '2020-01-20', 4134.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253713', '2023-05-06', 7379.4);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253713', '2023-05-06', 7379.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK253714', '2020-01-15', 8858.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK253715', '2020-12-28', 8152.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK253716', '2020-05-23', 2003.22);
@@ -53955,7 +53955,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK253953', '2023-05-09', 1118.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK253954', '2022-01-30', 9212.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK253955', '2021-03-10', 7247.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK253956', '2022-02-11', 1980.48);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK253956', '2022-02-11', 1980.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK253957', '2022-05-12', 860.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK253958', '2022-02-21', 556.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK253959', '2022-07-31', 9466.69);
@@ -54004,7 +54004,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK254002', '2023-01-22', 3471.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK254003', '2021-01-27', 494.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK254004', '2022-07-19', 7609.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254005', '2020-02-17', 6225.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254005', '2020-02-17', 6225.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK254006', '2022-06-14', 5989.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK254007', '2021-08-31', 3796.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK254008', '2021-07-27', 1712.38);
@@ -54344,7 +54344,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK254342', '2022-12-23', 7109.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK254343', '2023-09-16', 1713.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK254344', '2022-11-10', 3910.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254345', '2022-06-17', 4077.92);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254345', '2022-06-17', 4077.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK254346', '2021-09-08', 309.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK254347', '2022-04-08', 2065.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK254348', '2022-05-14', 163.18);
@@ -54401,7 +54401,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK254399', '2022-06-28', 7147.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK254400', '2020-08-30', 9330.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK254401', '2020-05-31', 9151.06);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254402', '2020-10-29', 5512.02);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254402', '2020-10-29', 5512.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK254403', '2021-11-18', 3049.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK254404', '2021-09-03', 1683.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK254405', '2022-09-27', 9227.24);
@@ -54542,7 +54542,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK254540', '2022-08-11', 1256.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK254541', '2020-02-02', 1586.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK254542', '2023-05-06', 9521.58);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254543', '2021-11-02', 1472.25);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254543', '2021-11-02', 1472.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK254544', '2020-07-31', 7381.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK254545', '2021-12-14', 2961.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK254546', '2023-11-24', 6037.05);
@@ -54663,7 +54663,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK254661', '2023-01-17', 8857.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK254662', '2020-10-16', 4001.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK254663', '2020-07-21', 4714.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254664', '2021-08-22', 5027.11);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254664', '2021-08-22', 5027.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK254665', '2020-09-07', 1369.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK254666', '2023-11-05', 2439.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK254667', '2020-06-30', 5338.39);
@@ -54676,7 +54676,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK254674', '2022-12-03', 7900.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK254675', '2021-11-19', 9920.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK254676', '2023-04-08', 3207.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254677', '2023-04-22', 171.3);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254677', '2023-04-22', 171.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK254678', '2023-04-30', 924.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK254679', '2023-01-31', 3205.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK254680', '2023-05-25', 3788.63);
@@ -54712,7 +54712,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK254710', '2020-10-18', 2871.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK254711', '2020-07-30', 2750.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK254712', '2022-01-12', 3122.36);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254713', '2022-01-02', 8441.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254713', '2022-01-02', 8441.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK254714', '2021-07-12', 8203.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK254715', '2022-12-08', 5707.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK254716', '2020-08-19', 9221.79);
@@ -54776,7 +54776,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK254774', '2022-09-17', 4002.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK254775', '2020-11-01', 4706.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK254776', '2022-03-10', 7768.43);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254777', '2022-06-10', 9339.34);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254777', '2022-06-10', 9339.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK254778', '2022-06-21', 6062.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK254779', '2023-08-26', 4381.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK254780', '2021-05-21', 6126.9);
@@ -54820,7 +54820,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK254818', '2022-08-21', 9861.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK254819', '2022-01-11', 6338.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK254820', '2023-05-01', 7033.29);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254821', '2020-11-04', 5873.14);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254821', '2020-11-04', 5873.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK254822', '2022-12-08', 2205.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK254823', '2021-03-05', 6776.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK254824', '2022-11-14', 7238.96);
@@ -54850,7 +54850,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK254848', '2020-12-23', 2388.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK254849', '2022-01-27', 9151.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK254850', '2020-05-22', 6434.9);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254851', '2023-11-25', 156.68);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254851', '2023-11-25', 156.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK254852', '2022-06-09', 856.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK254853', '2020-07-22', 9698.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK254854', '2023-01-21', 4438.98);
@@ -54887,7 +54887,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK254885', '2021-09-17', 6333.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK254886', '2022-01-07', 7560.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK254887', '2020-06-29', 7838.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK254888', '2022-12-16', 7614.52);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK254888', '2022-12-16', 7614.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK254889', '2021-07-06', 9550.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK254890', '2020-10-13', 3197.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK254891', '2020-05-24', 8887.65);
@@ -55038,7 +55038,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK255036', '2022-05-24', 48.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK255037', '2021-09-09', 8461.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK255038', '2023-02-15', 606.46);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255039', '2020-07-06', 8167.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255039', '2020-07-06', 8167.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK255040', '2023-02-06', 9274.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK255041', '2021-12-22', 7547.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK255042', '2020-12-20', 2849.83);
@@ -55047,7 +55047,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK255045', '2022-12-01', 209.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK255046', '2020-04-06', 4303.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK255047', '2022-05-13', 900.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255048', '2022-06-09', 6225.13);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255048', '2022-06-09', 6225.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK255049', '2022-06-02', 4727.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK255050', '2023-08-04', 669.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK255051', '2022-09-25', 5421.21);
@@ -55323,7 +55323,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK255321', '2023-04-30', 5348.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK255322', '2021-09-27', 3369.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK255323', '2020-03-25', 1834.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255324', '2022-04-21', 1542.13);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255324', '2022-04-21', 1542.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK255325', '2020-07-16', 5565.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK255326', '2023-07-18', 7338.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK255327', '2023-03-18', 3869.47);
@@ -55467,7 +55467,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK255465', '2023-03-17', 712.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK255466', '2021-06-20', 3719.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK255467', '2023-08-13', 7285.64);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255468', '2022-09-29', 2683.1);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255468', '2022-09-29', 2683.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK255469', '2023-01-05', 3862.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK255470', '2023-05-14', 7024.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK255471', '2022-05-15', 3308.02);
@@ -55555,7 +55555,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK255553', '2020-06-10', 8548.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK255554', '2022-06-01', 2097.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK255555', '2023-04-28', 3307.83);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255556', '2022-01-01', 7966.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255556', '2022-01-01', 7966.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK255557', '2023-12-31', 2521.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK255558', '2021-09-02', 9285.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK255559', '2020-06-16', 4490.08);
@@ -55635,7 +55635,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK255633', '2021-09-30', 3025.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK255634', '2022-11-09', 9928.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK255635', '2023-06-13', 2740.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255636', '2020-07-29', 1253.44);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255636', '2020-07-29', 1253.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK255637', '2020-03-05', 2135.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK255638', '2021-05-21', 6581.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK255639', '2020-02-14', 5480.48);
@@ -55658,7 +55658,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK255656', '2022-07-25', 1484.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255657', '2022-01-08', 7860.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK255658', '2023-12-21', 7593.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255659', '2020-07-17', 3848.31);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255659', '2020-07-17', 3848.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK255660', '2023-05-29', 2064.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK255661', '2021-04-24', 7862.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK255662', '2020-04-13', 8504.3);
@@ -55860,7 +55860,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK255858', '2021-01-12', 2304.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK255859', '2023-04-28', 3986.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK255860', '2021-01-04', 981.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255861', '2020-12-10', 3273.75);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255861', '2020-12-10', 3273.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK255862', '2023-10-07', 746.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK255863', '2020-12-19', 8891.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK255864', '2020-02-02', 5186.57);
@@ -55903,7 +55903,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK255901', '2020-04-19', 7197.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK255902', '2020-01-29', 4373.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK255903', '2021-08-09', 4241.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255904', '2022-03-14', 8208.1);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255904', '2022-03-14', 8208.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK255905', '2023-08-02', 9353.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK255906', '2020-05-07', 4464.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK255907', '2021-09-30', 4044.06);
@@ -55977,7 +55977,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK255975', '2022-07-08', 3810.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK255976', '2021-02-11', 3145.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK255977', '2023-04-03', 9365.87);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK255978', '2021-11-26', 8237.16);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK255978', '2021-11-26', 8237.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK255979', '2023-10-30', 5344.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK255980', '2023-02-04', 7666.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK255981', '2021-12-22', 8255.94);
@@ -56004,7 +56004,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK256002', '2021-09-05', 3690.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK256003', '2021-09-14', 2973.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK256004', '2020-06-02', 7870.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256005', '2020-06-06', 5951.8);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256005', '2020-06-06', 5951.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK256006', '2021-04-14', 7635.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK256007', '2022-10-16', 9262.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK256008', '2021-04-18', 7846.54);
@@ -56153,7 +56153,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK256151', '2023-05-25', 8546.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK256152', '2022-10-15', 5360.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK256153', '2020-11-23', 1651.8);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256154', '2021-11-07', 557.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256154', '2021-11-07', 557.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK256155', '2023-02-03', 6909.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK256156', '2022-08-15', 254.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK256157', '2022-09-19', 6849.85);
@@ -56196,7 +56196,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK256194', '2021-11-05', 1483.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK256195', '2020-01-28', 390.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK256196', '2021-09-18', 5070.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256197', '2022-11-28', 7946.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256197', '2022-11-28', 7946.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK256198', '2022-06-14', 5787.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK256199', '2022-11-26', 2850.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK256200', '2023-03-02', 5627.58);
@@ -56224,7 +56224,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK256222', '2022-07-16', 624.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK256223', '2023-06-27', 8301.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK256224', '2022-06-20', 975.64);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256225', '2021-04-24', 6830.83);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256225', '2021-04-24', 6830.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK256226', '2021-03-08', 4495.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK256227', '2022-03-06', 9991.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK256228', '2020-11-20', 3733.05);
@@ -56336,7 +56336,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK256334', '2020-07-13', 5155.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK256335', '2023-08-08', 7891.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK256336', '2023-03-23', 9768.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256337', '2022-09-18', 3317.31);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256337', '2022-09-18', 3317.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK256338', '2022-01-04', 4909.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK256339', '2020-01-02', 9522.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK256340', '2023-08-10', 885.95);
@@ -56477,13 +56477,13 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK256475', '2022-01-29', 7906.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK256476', '2022-12-30', 1453.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK256477', '2023-09-08', 2743.7);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256478', '2020-10-07', 4087.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256478', '2020-10-07', 4087.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK256479', '2022-03-12', 5488.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK256480', '2020-11-30', 8389.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK256481', '2022-06-18', 1434.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK256482', '2021-12-26', 1934.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK256483', '2023-09-24', 4110.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256484', '2020-07-23', 8989.3);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256484', '2020-07-23', 8989.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK256485', '2022-11-20', 4699.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK256486', '2022-09-25', 242.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK256487', '2022-05-17', 5414.51);
@@ -56518,7 +56518,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK256516', '2020-02-24', 832.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK256517', '2021-08-10', 3691.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK256518', '2022-07-22', 8288.06);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256519', '2023-06-24', 7148.56);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256519', '2023-06-24', 7148.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK256520', '2020-04-27', 5351.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK256521', '2020-09-30', 8868.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK256522', '2020-09-30', 779.08);
@@ -56551,7 +56551,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK256549', '2022-10-16', 3005.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256550', '2020-02-23', 3581.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK256551', '2022-08-24', 1505.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256552', '2021-11-27', 6354.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256552', '2021-11-27', 6354.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK256553', '2022-11-07', 4806.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK256554', '2020-05-07', 3650.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK256555', '2023-05-09', 1326.11);
@@ -56565,7 +56565,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK256563', '2023-04-23', 5830.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK256564', '2021-11-21', 2116.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK256565', '2023-01-07', 3423.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256566', '2021-10-02', 2757.24);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256566', '2021-10-02', 2757.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK256567', '2020-08-07', 7192.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK256568', '2022-08-15', 6218.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK256569', '2020-01-01', 152.82);
@@ -56626,7 +56626,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK256624', '2022-08-31', 2732.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK256625', '2020-04-29', 332.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK256626', '2020-07-28', 4620.61);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256627', '2023-03-13', 996.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256627', '2023-03-13', 996.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK256628', '2021-02-01', 4414.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK256629', '2021-10-31', 9517.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK256630', '2023-02-15', 7442.39);
@@ -56674,8 +56674,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK256672', '2021-05-06', 8582.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK256673', '2023-05-08', 277.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK256674', '2022-11-01', 6471.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256675', '2021-02-21', 9541.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256676', '2022-08-09', 5268.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256675', '2021-02-21', 9541.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256676', '2022-08-09', 5268.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK256677', '2021-12-02', 7611.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK256678', '2020-02-21', 6332.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK256679', '2021-08-17', 9877.62);
@@ -56691,14 +56691,14 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK256689', '2023-07-29', 2193.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK256690', '2023-08-17', 5546.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK256691', '2022-09-19', 9717.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256692', '2022-01-07', 6049.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256692', '2022-01-07', 6049.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK256693', '2022-12-23', 5025.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK256694', '2020-11-20', 3559.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK256695', '2023-10-13', 4715.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK256696', '2020-08-16', 1512.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK256697', '2021-05-28', 183.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK256698', '2020-09-15', 6211.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK256699', '2020-02-01', 7066.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK256699', '2020-02-01', 7066.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK256700', '2023-05-23', 1580.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK256701', '2021-01-18', 2843.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK256702', '2023-11-11', 4860.03);
@@ -57054,7 +57054,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK257052', '2020-08-06', 4895.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK257053', '2020-08-24', 5363.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK257054', '2022-07-08', 2855.09);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK257055', '2022-07-11', 6527.46);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK257055', '2022-07-11', 6527.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK257056', '2022-06-26', 3041.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK257057', '2023-08-17', 7645.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK257058', '2020-01-23', 8480.61);
@@ -57148,7 +57148,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK257146', '2020-04-25', 9421.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK257147', '2021-03-29', 8220.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK257148', '2022-06-30', 3376.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK257149', '2022-12-30', 2811.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK257149', '2022-12-30', 2811.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK257150', '2023-04-15', 3938.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK257151', '2020-10-15', 3055.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK257152', '2020-02-11', 2424.47);
@@ -57234,7 +57234,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK257232', '2022-10-06', 3492.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK257233', '2020-07-01', 1402.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK257234', '2020-05-09', 6244.96);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK257235', '2021-09-19', 6574.46);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK257235', '2021-09-19', 6574.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK257236', '2020-05-19', 7372.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK257237', '2020-01-29', 439.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK257238', '2021-02-02', 4690.35);
@@ -57408,7 +57408,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK257406', '2023-06-06', 5639.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK257407', '2023-10-13', 249.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK257408', '2023-08-29', 2324.16);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK257409', '2020-10-17', 2666.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK257409', '2020-10-17', 2666.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK257410', '2022-01-01', 410.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK257411', '2020-11-28', 8390.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK257412', '2022-02-23', 8210.05);
@@ -57625,7 +57625,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK257623', '2023-01-24', 1274.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK257624', '2020-03-04', 7343.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK257625', '2020-05-28', 4926.53);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK257626', '2023-09-15', 306.15);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK257626', '2023-09-15', 306.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK257627', '2022-09-12', 1182.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK257628', '2020-03-10', 5204.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK257629', '2022-11-09', 5280.67);
@@ -57768,7 +57768,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK257766', '2021-11-15', 9775.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK257767', '2021-11-08', 7939.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK257768', '2020-11-22', 4673.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK257769', '2023-11-21', 5534.83);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK257769', '2023-11-21', 5534.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK257770', '2022-05-08', 6471.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK257771', '2021-04-24', 6920.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK257772', '2022-03-10', 6480.56);
@@ -57923,7 +57923,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK257921', '2022-05-23', 8232.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK257922', '2023-09-26', 2011.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK257923', '2022-09-06', 7010.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK257924', '2023-08-24', 9304.24);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK257924', '2023-08-24', 9304.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK257925', '2020-03-29', 9891.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK257926', '2023-09-28', 9104.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK257927', '2020-07-23', 6773.83);
@@ -57950,7 +57950,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK257948', '2022-08-18', 9356.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK257949', '2023-06-06', 1362.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK257950', '2023-02-06', 4062.95);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK257951', '2020-03-22', 2809.4);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK257951', '2020-03-22', 2809.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK257952', '2020-09-19', 1274.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK257953', '2023-08-13', 7046.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK257954', '2022-03-31', 3113.6);
@@ -58204,7 +58204,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK258202', '2020-04-16', 8536.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK258203', '2022-11-03', 3486.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK258204', '2020-06-27', 6918.36);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK258205', '2023-03-10', 625.37);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK258205', '2023-03-10', 625.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK258206', '2022-11-30', 2695.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK258207', '2021-02-22', 5607.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK258208', '2021-10-14', 2198.11);
@@ -58577,7 +58577,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK258575', '2023-02-25', 7876.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK258576', '2021-08-07', 4232.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK258577', '2023-08-17', 8916.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK258578', '2021-05-13', 2543.38);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK258578', '2021-05-13', 2543.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK258579', '2023-04-28', 8513.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK258580', '2023-03-17', 8411.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK258581', '2020-08-06', 1617.67);
@@ -58798,7 +58798,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK258796', '2021-07-31', 3129.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK258797', '2022-03-30', 3409.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK258798', '2021-06-05', 360.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK258799', '2022-08-12', 8276.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK258799', '2022-08-12', 8276.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK258800', '2021-11-14', 1525.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK258801', '2020-03-29', 4385.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK258802', '2020-06-07', 5403.32);
@@ -58812,7 +58812,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK258810', '2021-03-26', 3559.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK258811', '2022-11-01', 6763.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK258812', '2020-03-23', 8666.29);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK258813', '2023-10-20', 1676.3);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK258813', '2023-10-20', 1676.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK258814', '2020-12-24', 1209.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK258815', '2020-12-05', 4650.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK258816', '2020-05-09', 3420.52);
@@ -58873,7 +58873,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK258871', '2020-04-22', 6185.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK258872', '2022-04-16', 7462.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK258873', '2022-03-10', 1299.48);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK258874', '2023-01-31', 3052.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK258874', '2023-01-31', 3052.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK258875', '2021-06-30', 2315.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK258876', '2020-04-22', 2458.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK258877', '2020-12-31', 6726.92);
@@ -58978,7 +58978,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK258976', '2022-06-30', 2231.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK258977', '2022-09-16', 6836.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK258978', '2021-04-22', 5871.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK258979', '2020-03-22', 1936.14);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK258979', '2020-03-22', 1936.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK258980', '2022-01-27', 996.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK258981', '2023-01-27', 4633.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK258982', '2022-09-05', 2284.05);
@@ -59059,7 +59059,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK259057', '2020-10-24', 926.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK259058', '2020-08-12', 1142.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK259059', '2020-05-23', 7127.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259060', '2022-11-30', 7994.52);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259060', '2022-11-30', 7994.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK259061', '2022-08-16', 611.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK259062', '2020-04-07', 6147.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK259063', '2021-01-13', 1164.73);
@@ -59203,7 +59203,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK259201', '2021-06-16', 6369.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK259202', '2020-06-26', 2007.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK259203', '2023-09-07', 3271.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259204', '2022-11-26', 5307.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259204', '2022-11-26', 5307.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK259205', '2023-06-08', 413.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK259206', '2021-09-17', 4059.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK259207', '2020-02-08', 1034.48);
@@ -59396,7 +59396,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK259394', '2023-09-08', 3235.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK259395', '2022-02-11', 924.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK259396', '2022-06-23', 267.53);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259397', '2023-08-09', 6373.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259397', '2023-08-09', 6373.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK259398', '2022-04-18', 2906.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK259399', '2023-07-01', 3539.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK259400', '2021-03-26', 8975.16);
@@ -59414,7 +59414,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK259412', '2022-03-13', 7404.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK259413', '2020-12-08', 7813.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK259414', '2022-01-19', 294.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259415', '2021-07-12', 8847.07);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259415', '2021-07-12', 8847.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK259416', '2023-07-12', 1376.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK259417', '2021-11-18', 2799.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK259418', '2023-08-22', 885.69);
@@ -59518,7 +59518,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK259516', '2023-12-02', 7111.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK259517', '2023-02-28', 3870.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK259518', '2022-05-10', 7108.72);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259519', '2023-07-23', 1938.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259519', '2023-07-23', 1938.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK259520', '2022-07-10', 5784.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK259521', '2020-02-29', 3237.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK259522', '2021-08-23', 6040.54);
@@ -59811,7 +59811,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK259809', '2023-08-06', 5503.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK259810', '2023-04-28', 5038.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK259811', '2023-10-12', 8941.1);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259812', '2021-08-21', 7203.49);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259812', '2021-08-21', 7203.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK259813', '2022-08-18', 1816.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK259814', '2023-10-05', 6323.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK259815', '2023-11-05', 7673.92);
@@ -59850,7 +59850,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK259848', '2020-11-24', 3369.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK259849', '2020-11-12', 7536.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK259850', '2021-04-03', 6962.41);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259851', '2023-04-01', 6519.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259851', '2023-04-01', 6519.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK259852', '2023-05-22', 5900.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK259853', '2023-01-11', 2632.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK259854', '2020-12-20', 8084.16);
@@ -59877,7 +59877,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK259875', '2023-01-24', 2922.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK259876', '2023-10-05', 1470.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK259877', '2020-08-26', 7236.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259878', '2023-01-19', 1943.8);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259878', '2023-01-19', 1943.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK259879', '2022-05-02', 677.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK259880', '2023-06-09', 3120.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK259881', '2022-01-23', 6315.9);
@@ -59926,7 +59926,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK259924', '2023-09-03', 2977.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK259925', '2022-01-16', 6829.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK259926', '2021-11-13', 6724.65);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259927', '2021-03-28', 5962.42);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259927', '2021-03-28', 5962.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK259928', '2020-03-07', 2374.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK259929', '2020-03-27', 3704.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK259930', '2022-12-28', 8154.1);
@@ -59950,7 +59950,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK259948', '2022-01-21', 2558.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK259949', '2021-11-01', 6735.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK259950', '2023-03-10', 9684.04);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK259951', '2022-06-18', 8267.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK259951', '2022-06-18', 8267.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK259952', '2021-05-08', 6003.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK259953', '2023-05-04', 1272.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK259954', '2022-01-03', 2465.77);
@@ -60094,7 +60094,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK260092', '2021-02-07', 7615.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK260093', '2022-01-05', 1385.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK260094', '2023-10-05', 7689.79);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK260095', '2023-01-24', 7239.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK260095', '2023-01-24', 7239.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK260096', '2022-05-28', 1864.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK260097', '2021-12-01', 72.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK260098', '2023-01-06', 2946.82);
@@ -60223,7 +60223,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK260221', '2023-05-08', 4238.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK260222', '2021-04-01', 1576.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK260223', '2023-07-16', 5990.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK260224', '2020-10-09', 623.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK260224', '2020-10-09', 623.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK260225', '2020-02-24', 1906.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK260226', '2020-10-26', 2999.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK260227', '2022-12-15', 1453.57);
@@ -60311,7 +60311,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK260309', '2022-03-26', 4684.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK260310', '2020-08-08', 4431.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK260311', '2022-08-09', 5233.06);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK260312', '2022-01-02', 87.93);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK260312', '2022-01-02', 87.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK260313', '2023-08-31', 9319.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK260314', '2022-01-23', 1154.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK260315', '2022-04-02', 9245.01);
@@ -60542,7 +60542,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK260540', '2022-08-09', 7010.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK260541', '2021-09-01', 5314.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK260542', '2021-09-21', 3915.5);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK260543', '2021-10-10', 9943.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK260543', '2021-10-10', 9943.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK260544', '2022-04-30', 3630.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK260545', '2021-08-26', 6174.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK260546', '2022-04-22', 803.34);
@@ -60793,7 +60793,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK260791', '2023-01-02', 3083.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK260792', '2021-02-25', 3315.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK260793', '2022-04-01', 3038.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK260794', '2023-06-09', 5524.91);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK260794', '2023-06-09', 5524.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK260795', '2023-12-08', 1392.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK260796', '2020-02-17', 2662.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK260797', '2023-09-17', 327.77);
@@ -61023,7 +61023,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK261021', '2021-02-13', 3769.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK261022', '2020-02-26', 3217.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK261023', '2022-01-29', 7189.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK261024', '2020-08-04', 6696.36);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK261024', '2020-08-04', 6696.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK261025', '2021-01-22', 9659.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK261026', '2021-08-26', 9323.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK261027', '2023-02-10', 9597.93);
@@ -61276,7 +61276,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK261274', '2022-09-23', 1228.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK261275', '2020-11-15', 2200.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK261276', '2021-03-20', 6356.16);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK261277', '2021-02-19', 6783.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK261277', '2021-02-19', 6783.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK261278', '2023-03-19', 46.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK261279', '2021-07-09', 4866.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK261280', '2020-12-30', 7648.11);
@@ -61289,7 +61289,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK261287', '2022-01-08', 2482.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK261288', '2023-07-11', 8108.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK261289', '2020-04-16', 8308.66);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK261290', '2023-11-24', 3231.58);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK261290', '2023-11-24', 3231.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK261291', '2022-07-17', 2439.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK261292', '2022-12-27', 8171.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK261293', '2022-10-30', 4776.81);
@@ -61427,7 +61427,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK261425', '2023-08-29', 4336.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK261426', '2022-05-03', 7798.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK261427', '2023-05-07', 3136.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK261428', '2020-07-04', 5294.31);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK261428', '2020-07-04', 5294.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK261429', '2021-02-20', 7767.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK261430', '2021-12-31', 8407.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK261431', '2020-03-31', 4934.73);
@@ -61526,7 +61526,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK261524', '2023-02-26', 1698.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK261525', '2022-03-01', 5677.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK261526', '2021-12-17', 2868.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK261527', '2023-11-11', 2606.02);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK261527', '2023-11-11', 2606.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK261528', '2023-12-19', 5157.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK261529', '2020-12-01', 2671.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK261530', '2021-12-01', 5078.34);
@@ -61719,7 +61719,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK261717', '2023-09-20', 3570.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK261718', '2021-12-27', 8076.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK261719', '2022-10-18', 5951.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK261720', '2022-09-28', 9645.25);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK261720', '2022-09-28', 9645.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK261721', '2021-06-06', 8626.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK261722', '2020-07-20', 4128.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK261723', '2022-05-31', 3303.0);
@@ -62122,8 +62122,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK262120', '2022-08-23', 5200.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK262121', '2022-12-02', 5124.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK262122', '2020-04-22', 4527.43);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262123', '2021-05-03', 7623.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262124', '2020-07-18', 5743.99);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262123', '2021-05-03', 7623.24);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262124', '2020-07-18', 5743.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK262125', '2023-05-17', 3836.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK262126', '2021-12-23', 8726.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK262127', '2020-01-07', 172.81);
@@ -62159,7 +62159,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK262157', '2022-05-28', 7809.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK262158', '2020-08-27', 4923.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK262159', '2023-01-04', 317.5);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262160', '2023-10-27', 2443.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262160', '2023-10-27', 2443.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK262161', '2022-06-23', 4579.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK262162', '2021-03-27', 8145.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK262163', '2023-04-06', 8378.11);
@@ -62238,7 +62238,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK262236', '2021-09-30', 1858.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK262237', '2022-04-12', 3756.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK262238', '2023-04-12', 3642.46);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262239', '2020-12-01', 2234.91);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262239', '2020-12-01', 2234.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK262240', '2023-08-06', 6092.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK262241', '2022-06-22', 3911.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK262242', '2023-04-29', 7491.46);
@@ -62264,7 +62264,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK262262', '2023-09-07', 2013.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK262263', '2021-12-26', 4822.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK262264', '2023-08-23', 8081.01);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262265', '2023-05-08', 4852.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262265', '2023-05-08', 4852.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK262266', '2020-09-02', 6328.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK262267', '2023-03-30', 4125.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK262268', '2020-10-03', 6704.49);
@@ -62360,7 +62360,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK262358', '2023-03-18', 6749.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK262359', '2022-11-28', 1587.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK262360', '2022-05-29', 9058.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262361', '2021-10-14', 4661.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262361', '2021-10-14', 4661.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK262362', '2022-03-17', 6915.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK262363', '2022-08-14', 7039.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK262364', '2022-09-09', 4555.31);
@@ -62407,7 +62407,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK262405', '2022-09-17', 3821.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK262406', '2020-12-11', 5083.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK262407', '2021-07-27', 3554.32);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262408', '2022-05-18', 6305.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262408', '2022-05-18', 6305.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK262409', '2023-10-03', 7124.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK262410', '2023-12-02', 8354.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK262411', '2021-04-09', 6341.71);
@@ -62425,7 +62425,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK262423', '2020-09-23', 2644.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262424', '2023-06-12', 4047.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK262425', '2020-12-25', 9058.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262426', '2023-01-07', 913.59);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262426', '2023-01-07', 913.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK262427', '2021-11-10', 1824.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK262428', '2022-02-22', 4154.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK262429', '2022-04-15', 4588.91);
@@ -62506,7 +62506,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK262504', '2022-01-13', 3814.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK262505', '2022-09-13', 5589.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK262506', '2023-10-19', 6956.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262507', '2023-06-22', 4344.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262507', '2023-06-22', 4344.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK262508', '2020-10-03', 7040.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK262509', '2021-10-08', 5658.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK262510', '2023-09-14', 4038.5);
@@ -62634,7 +62634,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK262632', '2021-02-26', 3109.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK262633', '2023-03-12', 3325.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262634', '2020-10-01', 1097.48);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262635', '2021-06-05', 515.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262635', '2021-06-05', 515.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK262636', '2022-10-13', 3487.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK262637', '2022-08-31', 373.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK262638', '2023-03-24', 3143.52);
@@ -62654,7 +62654,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK262652', '2022-10-18', 711.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK262653', '2021-05-03', 3506.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK262654', '2021-12-13', 9030.89);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262655', '2020-09-06', 377.02);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262655', '2020-09-06', 377.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK262656', '2021-01-28', 8173.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK262657', '2020-08-26', 241.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK262658', '2021-04-12', 8184.9);
@@ -62692,7 +62692,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK262690', '2021-06-18', 6592.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK262691', '2020-05-05', 8807.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK262692', '2022-05-11', 3536.99);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262693', '2022-11-08', 7240.99);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262693', '2022-11-08', 7240.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK262694', '2021-03-11', 120.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK262695', '2021-03-27', 7897.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK262696', '2022-02-18', 2971.1);
@@ -62781,7 +62781,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK262779', '2023-08-14', 6238.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK262780', '2023-01-14', 1343.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK262781', '2023-07-05', 7776.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262782', '2021-03-08', 8984.09);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262782', '2021-03-08', 8984.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK262783', '2021-09-29', 3999.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK262784', '2020-06-01', 7681.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK262785', '2021-04-19', 678.86);
@@ -62835,7 +62835,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK262833', '2020-06-27', 2792.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK262834', '2020-01-03', 477.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK262835', '2022-08-25', 1755.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK262836', '2021-05-06', 2086.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262836', '2021-05-06', 2086.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK262837', '2021-03-22', 5034.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK262838', '2020-06-29', 5419.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK262839', '2023-10-03', 4069.79);
@@ -63172,7 +63172,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK263170', '2021-09-08', 6658.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK263171', '2020-12-05', 8427.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK263172', '2023-06-10', 2672.93);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK263173', '2022-06-12', 1733.86);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK263173', '2022-06-12', 1733.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK263174', '2021-07-07', 4957.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK263175', '2021-10-29', 6062.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK263176', '2020-02-20', 4054.72);
@@ -63215,7 +63215,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK263213', '2021-05-18', 459.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK263214', '2021-02-09', 9307.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK263215', '2022-10-23', 594.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK263216', '2023-02-21', 7464.78);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK263216', '2023-02-21', 7464.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK263217', '2021-05-27', 3735.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK263218', '2023-11-15', 9710.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK263219', '2022-03-17', 2740.15);
@@ -63376,7 +63376,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK263374', '2020-08-07', 4716.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK263375', '2020-07-05', 4339.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK263376', '2023-08-16', 7077.92);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK263377', '2023-05-31', 2349.7);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK263377', '2023-05-31', 2349.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK263378', '2020-01-06', 3331.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK263379', '2020-05-13', 6854.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK263380', '2020-04-28', 4275.19);
@@ -63647,7 +63647,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK263645', '2022-08-11', 5778.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK263646', '2022-12-11', 7473.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK263647', '2020-08-20', 2390.78);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK263648', '2022-06-23', 4905.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK263648', '2022-06-23', 4905.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK263649', '2022-12-22', 4492.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK263650', '2023-07-04', 6291.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK263651', '2023-05-18', 5989.6);
@@ -63723,7 +63723,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK263721', '2023-07-27', 7481.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK263722', '2020-10-31', 827.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK263723', '2023-10-11', 4762.16);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK263724', '2020-06-19', 1770.16);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK263724', '2020-06-19', 1770.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK263725', '2022-10-12', 2889.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK263726', '2021-10-06', 2545.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK263727', '2023-12-21', 1663.4);
@@ -63844,7 +63844,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK263842', '2022-01-15', 7759.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK263843', '2022-10-26', 6657.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK263844', '2022-02-24', 4323.98);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK263845', '2020-11-11', 2026.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK263845', '2020-11-11', 2026.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK263846', '2021-09-08', 9043.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK263847', '2023-03-28', 2454.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK263848', '2020-10-03', 1810.94);
@@ -63872,7 +63872,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK263870', '2020-10-29', 7344.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK263871', '2022-09-19', 6570.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK263872', '2022-02-26', 1613.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK263873', '2020-03-16', 7633.67);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK263873', '2020-03-16', 7633.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK263874', '2023-01-13', 178.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK263875', '2022-09-23', 7987.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK263876', '2020-11-25', 6713.32);
@@ -64023,7 +64023,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK264021', '2022-11-20', 9737.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK264022', '2020-12-26', 1990.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK264023', '2023-11-14', 6349.51);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK264024', '2023-09-02', 3719.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK264024', '2023-09-02', 3719.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK264025', '2022-06-16', 4560.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK264026', '2022-09-26', 9620.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK264027', '2020-12-03', 5690.6);
@@ -64272,7 +64272,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK264270', '2023-12-18', 8821.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK264271', '2022-01-16', 657.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK264272', '2021-11-01', 8979.99);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK264273', '2021-02-07', 6180.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK264273', '2021-02-07', 6180.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK264274', '2021-10-12', 5640.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK264275', '2021-06-05', 6555.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK264276', '2022-10-25', 9867.42);
@@ -64654,8 +64654,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK264652', '2022-03-26', 5517.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK264653', '2022-12-26', 2284.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK264654', '2020-04-19', 3304.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK264655', '2022-10-09', 2213.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK264656', '2022-04-11', 9990.31);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK264655', '2022-10-09', 2213.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK264656', '2022-04-11', 9990.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK264657', '2023-05-17', 4321.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK264658', '2023-12-08', 4917.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK264659', '2023-05-17', 3174.42);
@@ -64669,7 +64669,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK264667', '2021-11-25', 4126.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK264668', '2023-01-30', 4067.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK264669', '2020-08-05', 4008.76);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK264670', '2020-01-04', 2097.81);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK264670', '2020-01-04', 2097.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK264671', '2020-03-20', 4480.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK264672', '2022-12-21', 8483.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK264673', '2023-03-10', 9220.91);
@@ -64758,7 +64758,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK264756', '2021-10-07', 1690.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK264757', '2023-03-22', 9646.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK264758', '2023-10-06', 7344.77);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK264759', '2022-02-18', 798.97);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK264759', '2022-02-18', 798.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK264760', '2022-02-08', 8992.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK264761', '2022-10-27', 8213.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK264762', '2022-07-06', 6281.97);
@@ -65000,7 +65000,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK264998', '2023-04-09', 5583.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK264999', '2022-12-09', 4681.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK265000', '2022-05-11', 4080.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265001', '2022-11-09', 7908.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265001', '2022-11-09', 7908.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK265002', '2022-03-27', 7119.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK265003', '2023-02-10', 5220.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK265004', '2021-01-22', 5942.92);
@@ -65105,7 +65105,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK265103', '2020-04-05', 5482.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265104', '2022-03-12', 7022.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK265105', '2021-12-23', 5914.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265106', '2020-10-28', 3485.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265106', '2020-10-28', 3485.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK265107', '2021-02-18', 5769.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK265108', '2022-04-11', 5891.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK265109', '2021-11-27', 420.51);
@@ -65123,7 +65123,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK265121', '2023-07-17', 8201.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK265122', '2020-06-03', 8270.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK265123', '2021-01-07', 7540.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265124', '2022-08-23', 7073.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265124', '2022-08-23', 7073.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK265125', '2021-12-26', 8132.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK265126', '2023-01-22', 7368.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK265127', '2020-07-31', 3911.75);
@@ -65218,7 +65218,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK265216', '2023-04-10', 2719.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK265217', '2020-04-20', 9721.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK265218', '2023-11-19', 1001.46);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265219', '2021-10-15', 3545.43);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265219', '2021-10-15', 3545.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK265220', '2022-09-04', 5645.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK265221', '2020-06-13', 170.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK265222', '2023-05-03', 8762.22);
@@ -65270,7 +65270,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK265268', '2022-06-09', 4159.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK265269', '2023-09-30', 9375.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK265270', '2021-02-08', 6363.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265271', '2022-06-10', 8226.94);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265271', '2022-06-10', 8226.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK265272', '2023-04-26', 2690.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK265273', '2023-06-09', 3718.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK265274', '2023-04-01', 5763.46);
@@ -65428,7 +65428,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK265426', '2020-03-22', 9557.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK265427', '2023-11-19', 5723.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK265428', '2020-07-15', 5754.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265429', '2021-04-13', 4047.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265429', '2021-04-13', 4047.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK265430', '2021-09-24', 6858.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK265431', '2021-11-03', 2577.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK265432', '2023-09-22', 3610.41);
@@ -65479,7 +65479,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK265477', '2023-05-08', 1494.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK265478', '2023-09-09', 2632.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK265479', '2023-01-19', 1689.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265480', '2023-12-19', 3941.16);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265480', '2023-12-19', 3941.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK265481', '2021-03-16', 277.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK265482', '2023-02-21', 845.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK265483', '2020-07-27', 6313.0);
@@ -65630,9 +65630,9 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK265628', '2021-07-15', 2895.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK265629', '2022-09-17', 7173.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK265630', '2021-02-19', 1046.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265631', '2021-07-05', 7255.75);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265631', '2021-07-05', 7255.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK265632', '2021-05-03', 7361.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265633', '2023-05-10', 5378.4);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265633', '2023-05-10', 5378.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK265634', '2020-04-05', 183.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK265635', '2020-01-19', 8123.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK265636', '2021-08-16', 8305.71);
@@ -65800,7 +65800,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK265798', '2020-12-29', 5347.12);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK265799', '2023-03-11', 697.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK265800', '2021-05-12', 6951.08);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265801', '2021-07-25', 6084.42);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265801', '2021-07-25', 6084.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK265802', '2023-04-15', 8159.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK265803', '2020-06-29', 2156.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK265804', '2021-01-28', 3339.99);
@@ -65846,7 +65846,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK265844', '2020-03-12', 7964.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK265845', '2023-12-11', 7612.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK265846', '2022-12-06', 9773.53);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265847', '2020-02-10', 4958.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265847', '2020-02-10', 4958.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK265848', '2021-01-09', 3964.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK265849', '2020-06-08', 7353.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK265850', '2020-03-12', 5337.93);
@@ -65992,7 +65992,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK265990', '2022-03-19', 5909.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK265991', '2022-10-18', 3628.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK265992', '2023-07-21', 3104.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK265993', '2022-01-13', 2442.1);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK265993', '2022-01-13', 2442.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK265994', '2023-09-20', 9309.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK265995', '2021-12-19', 5260.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK265996', '2021-12-10', 4604.73);
@@ -66005,7 +66005,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK266003', '2021-06-11', 1920.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK266004', '2022-04-03', 7196.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK266005', '2021-09-24', 547.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266006', '2022-05-26', 8470.14);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266006', '2022-05-26', 8470.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK266007', '2022-01-17', 3085.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK266008', '2021-06-01', 5412.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK266009', '2020-01-16', 6139.46);
@@ -66153,7 +66153,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK266151', '2022-08-06', 820.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK266152', '2022-01-21', 8544.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK266153', '2023-05-27', 6256.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266154', '2023-06-13', 4598.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266154', '2023-06-13', 4598.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK266155', '2023-10-14', 4434.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK266156', '2021-11-14', 5576.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK266157', '2023-10-07', 7585.79);
@@ -66161,7 +66161,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK266159', '2023-09-05', 4602.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK266160', '2020-05-04', 4772.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK266161', '2022-09-17', 4213.64);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266162', '2023-12-26', 2370.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266162', '2023-12-26', 2370.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK266163', '2021-12-02', 4444.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK266164', '2021-04-06', 5441.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK266165', '2022-12-31', 298.88);
@@ -66193,7 +66193,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK266191', '2021-11-21', 2774.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK266192', '2023-08-28', 7603.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK266193', '2021-08-27', 7718.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266194', '2021-05-27', 9096.38);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266194', '2021-05-27', 9096.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK266195', '2022-07-08', 2771.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK266196', '2020-06-23', 549.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK266197', '2020-03-23', 2312.69);
@@ -66207,7 +66207,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266205', '2022-09-28', 4365.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK266206', '2022-09-24', 4832.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK266207', '2021-04-20', 6689.87);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266208', '2020-06-04', 8001.39);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266208', '2020-06-04', 8001.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK266209', '2023-05-31', 9667.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK266210', '2020-07-15', 3969.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK266211', '2023-03-23', 1485.43);
@@ -66310,7 +66310,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK266308', '2021-02-01', 8036.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK266309', '2023-09-17', 7986.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK266310', '2021-10-20', 3471.57);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266311', '2021-01-10', 8346.27);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266311', '2021-01-10', 8346.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK266312', '2023-11-05', 4192.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK266313', '2023-02-03', 861.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK266314', '2021-05-13', 8890.03);
@@ -66511,7 +66511,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK266509', '2022-03-23', 987.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK266510', '2020-02-24', 6496.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK266511', '2022-02-08', 1781.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266512', '2021-12-13', 4292.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266512', '2021-12-13', 4292.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK266513', '2023-09-29', 3147.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK266514', '2023-10-23', 6598.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK266515', '2021-02-16', 8959.87);
@@ -66561,7 +66561,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK266559', '2023-02-03', 5037.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK266560', '2022-08-29', 3553.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK266561', '2020-05-12', 9668.56);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266562', '2021-03-19', 5118.59);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266562', '2021-03-19', 5118.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK266563', '2020-08-09', 9777.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK266564', '2020-08-20', 7674.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK266565', '2023-11-20', 9059.53);
@@ -66627,7 +66627,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK266625', '2021-07-04', 1222.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK266626', '2020-07-13', 5614.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK266627', '2021-05-20', 5180.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266628', '2021-11-13', 3902.04);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266628', '2021-11-13', 3902.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK266629', '2023-01-07', 5943.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK266630', '2020-07-14', 2570.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK266631', '2021-10-23', 7198.65);
@@ -66878,7 +66878,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK266876', '2021-01-14', 8646.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK266877', '2020-04-05', 5900.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK266878', '2022-07-16', 4725.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266879', '2020-05-04', 7162.26);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266879', '2020-05-04', 7162.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK266880', '2020-12-27', 5097.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK266881', '2020-06-26', 4235.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK266882', '2022-11-28', 5296.49);
@@ -66942,7 +66942,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK266940', '2020-05-16', 1972.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK266941', '2023-08-08', 8967.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK266942', '2020-02-18', 8742.2);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK266943', '2022-11-22', 3235.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK266943', '2022-11-22', 3235.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK266944', '2021-05-18', 7022.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK266945', '2022-12-01', 9971.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK266946', '2021-07-08', 165.7);
@@ -67008,7 +67008,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK267006', '2020-06-03', 7216.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK267007', '2022-08-14', 5067.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK267008', '2021-11-30', 64.14);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267009', '2023-05-31', 601.38);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267009', '2023-05-31', 601.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK267010', '2020-08-27', 1862.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK267011', '2021-03-30', 7305.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK267012', '2022-01-01', 7218.06);
@@ -67062,7 +67062,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK267060', '2022-11-02', 5532.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK267061', '2023-04-29', 6523.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK267062', '2020-06-05', 8433.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267063', '2020-02-10', 9766.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267063', '2020-02-10', 9766.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK267064', '2021-04-12', 7394.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK267065', '2023-05-11', 655.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK267066', '2022-02-11', 5613.82);
@@ -67169,7 +67169,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK267167', '2022-10-03', 6758.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK267168', '2020-03-09', 178.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK267169', '2020-12-31', 7113.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267170', '2023-05-17', 8217.57);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267170', '2023-05-17', 8217.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK267171', '2021-11-20', 3228.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK267172', '2022-03-01', 8296.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK267173', '2021-01-25', 2998.19);
@@ -67265,7 +67265,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK267263', '2023-05-24', 4126.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK267264', '2022-03-14', 7443.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK267265', '2022-01-19', 4636.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267266', '2022-08-15', 3503.18);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267266', '2022-08-15', 3503.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK267267', '2023-04-21', 6669.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK267268', '2022-02-08', 174.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK267269', '2021-02-12', 8252.06);
@@ -67477,7 +67477,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK267475', '2020-12-08', 942.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK267476', '2023-11-05', 9687.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK267477', '2022-08-08', 8882.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267478', '2022-02-20', 4085.94);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267478', '2022-02-20', 4085.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK267479', '2021-01-26', 7183.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK267480', '2021-01-12', 890.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK267481', '2020-10-28', 1989.36);
@@ -67519,7 +67519,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK267517', '2021-02-18', 5779.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK267518', '2023-06-10', 7453.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK267519', '2021-04-11', 457.01);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267520', '2020-01-24', 7770.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267520', '2020-01-24', 7770.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK267521', '2021-06-16', 6048.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK267522', '2022-06-20', 8259.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK267523', '2023-10-02', 9286.36);
@@ -67656,7 +67656,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK267654', '2020-01-21', 3933.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK267655', '2022-04-15', 2481.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK267656', '2023-09-09', 9023.64);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267657', '2020-11-30', 4727.64);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267657', '2020-11-30', 4727.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK267658', '2022-09-12', 7911.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK267659', '2022-09-28', 54.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK267660', '2022-04-23', 2034.81);
@@ -67665,7 +67665,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK267663', '2021-05-20', 3873.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK267664', '2020-08-02', 6113.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK267665', '2022-04-26', 5759.73);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267666', '2023-11-23', 8860.96);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267666', '2023-11-23', 8860.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK267667', '2023-04-06', 2304.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK267668', '2021-09-13', 9760.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK267669', '2022-02-02', 4798.12);
@@ -67725,7 +67725,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK267723', '2021-07-10', 1028.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK267724', '2023-03-12', 1300.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK267725', '2023-11-03', 4371.42);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267726', '2020-07-11', 2238.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267726', '2020-07-11', 2238.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK267727', '2020-06-10', 7507.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK267728', '2022-02-25', 6542.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK267729', '2023-08-18', 6619.65);
@@ -67777,7 +67777,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK267775', '2020-02-14', 1860.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK267776', '2020-05-14', 8808.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK267777', '2023-11-28', 6227.02);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267778', '2023-01-23', 2435.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267778', '2023-01-23', 2435.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK267779', '2023-02-19', 349.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK267780', '2020-01-29', 7774.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK267781', '2022-12-09', 7841.54);
@@ -67871,7 +67871,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK267869', '2022-12-08', 7143.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK267870', '2020-09-16', 7272.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK267871', '2022-06-01', 8015.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK267872', '2022-07-27', 7955.17);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK267872', '2022-07-27', 7955.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK267873', '2021-05-22', 5459.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK267874', '2020-04-27', 1682.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK267875', '2023-02-19', 8772.7);
@@ -68167,7 +68167,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK268165', '2020-12-09', 2436.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK268166', '2022-11-06', 8496.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK268167', '2021-09-02', 5662.84);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK268168', '2022-07-29', 4426.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268168', '2022-07-29', 4426.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK268169', '2020-05-31', 7435.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK268170', '2021-10-10', 3428.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268171', '2023-06-19', 5752.15);
@@ -68332,7 +68332,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (63, 'CHK268330', '2022-11-08', 1144.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK268331', '2023-07-21', 9318.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK268332', '2022-03-30', 2614.34);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK268333', '2022-04-23', 9337.97);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268333', '2022-04-23', 9337.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK268334', '2023-12-16', 5953.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK268335', '2022-10-08', 3747.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK268336', '2023-11-28', 2393.09);
@@ -68467,7 +68467,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK268465', '2022-07-10', 6222.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK268466', '2022-03-09', 2549.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK268467', '2020-04-08', 525.4);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK268468', '2021-03-30', 9497.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268468', '2021-03-30', 9497.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK268469', '2021-01-03', 6154.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK268470', '2021-12-16', 7764.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK268471', '2023-08-08', 77.81);
@@ -68644,7 +68644,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK268642', '2022-03-06', 8479.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK268643', '2022-01-30', 4412.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK268644', '2023-08-15', 1912.43);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK268645', '2022-01-25', 756.42);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268645', '2022-01-25', 756.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268646', '2022-05-15', 5777.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK268647', '2022-03-04', 5530.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK268648', '2020-02-27', 8062.45);
@@ -68684,7 +68684,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK268682', '2021-11-28', 2839.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK268683', '2023-12-19', 1234.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK268684', '2022-01-04', 1846.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK268685', '2021-07-26', 9383.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268685', '2021-07-26', 9383.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK268686', '2023-12-13', 462.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK268687', '2022-08-06', 1459.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK268688', '2022-07-25', 1876.48);
@@ -68708,7 +68708,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK268706', '2022-06-13', 8191.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK268707', '2021-08-10', 6084.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK268708', '2020-09-13', 7117.95);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK268709', '2021-09-27', 596.13);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268709', '2021-09-27', 596.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK268710', '2023-03-26', 4283.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK268711', '2020-06-04', 9182.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK268712', '2022-01-10', 2077.2);
@@ -68934,7 +68934,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK268932', '2023-04-08', 4643.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK268933', '2022-09-27', 5956.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK268934', '2020-10-22', 7373.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK268935', '2021-05-29', 8923.9);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK268935', '2021-05-29', 8923.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK268936', '2022-06-05', 293.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK268937', '2022-07-07', 110.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK268938', '2023-02-01', 2189.44);
@@ -69069,7 +69069,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK269067', '2020-08-01', 20.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK269068', '2020-08-24', 7607.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK269069', '2023-05-11', 5762.63);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269070', '2023-01-22', 7239.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269070', '2023-01-22', 7239.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK269071', '2021-06-20', 803.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK269072', '2021-05-05', 3497.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK269073', '2021-08-08', 2513.1);
@@ -69262,7 +69262,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK269260', '2021-11-07', 4044.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK269261', '2022-10-21', 5849.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK269262', '2022-01-15', 2415.91);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269263', '2023-07-25', 5949.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269263', '2023-07-25', 5949.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK269264', '2022-04-06', 8153.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK269265', '2021-11-10', 9766.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK269266', '2020-12-25', 5398.4);
@@ -69337,7 +69337,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK269335', '2022-06-11', 5716.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK269336', '2022-10-14', 1353.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK269337', '2021-01-12', 3732.5);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269338', '2021-05-07', 7923.49);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269338', '2021-05-07', 7923.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK269339', '2023-01-18', 4639.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK269340', '2023-03-18', 9464.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK269341', '2021-12-19', 7874.66);
@@ -69567,7 +69567,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK269565', '2020-01-12', 6997.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK269566', '2023-04-04', 3393.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK269567', '2023-10-13', 940.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269568', '2022-12-07', 7437.48);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269568', '2022-12-07', 7437.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK269569', '2022-03-12', 6734.83);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK269570', '2022-12-09', 5261.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK269571', '2020-05-23', 7250.88);
@@ -69623,7 +69623,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK269621', '2021-09-25', 7883.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK269622', '2023-07-31', 8249.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK269623', '2020-01-08', 5478.26);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269624', '2023-01-06', 9173.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269624', '2023-01-06', 9173.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK269625', '2022-09-01', 1612.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK269626', '2020-07-01', 3606.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK269627', '2021-05-29', 4635.89);
@@ -69859,12 +69859,12 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK269857', '2022-08-25', 2509.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK269858', '2023-11-16', 1443.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK269859', '2022-06-08', 6088.62);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269860', '2021-11-25', 2730.11);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269860', '2021-11-25', 2730.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK269861', '2023-02-18', 5005.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK269862', '2020-10-03', 6636.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK269863', '2021-06-11', 6294.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK269864', '2023-02-22', 7891.67);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269865', '2023-12-10', 1895.69);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269865', '2023-12-10', 1895.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK269866', '2021-11-19', 4160.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK269867', '2021-03-18', 4135.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK269868', '2020-08-17', 1616.76);
@@ -69896,7 +69896,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK269894', '2020-04-22', 8492.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK269895', '2022-07-01', 2952.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK269896', '2020-12-16', 4449.71);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269897', '2022-08-23', 1689.52);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269897', '2022-08-23', 1689.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK269898', '2020-10-29', 9825.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK269899', '2023-11-20', 7557.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK269900', '2023-07-19', 3556.05);
@@ -69937,7 +69937,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK269935', '2020-01-04', 5426.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK269936', '2023-11-23', 5303.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK269937', '2022-02-14', 3878.5);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK269938', '2021-06-16', 9958.39);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK269938', '2021-06-16', 9958.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK269939', '2023-11-17', 4553.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK269940', '2022-03-20', 1810.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK269941', '2022-03-24', 4521.65);
@@ -69999,7 +69999,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK269997', '2023-06-13', 5838.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK269998', '2021-05-23', 1631.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK269999', '2023-04-07', 1613.62);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270000', '2020-06-19', 159.47);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270000', '2020-06-19', 159.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK270001', '2020-02-24', 9164.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK270002', '2021-04-30', 8289.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK270003', '2021-04-27', 819.87);
@@ -70056,7 +70056,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK270054', '2020-06-28', 4942.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK270055', '2023-01-18', 637.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK270056', '2023-11-15', 3590.22);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270057', '2021-03-03', 9816.99);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270057', '2021-03-03', 9816.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK270058', '2023-03-11', 5465.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK270059', '2021-10-21', 8667.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK270060', '2023-03-22', 3752.14);
@@ -70096,7 +70096,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK270094', '2022-09-16', 7711.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK270095', '2023-07-04', 3720.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK270096', '2020-10-25', 9690.53);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270097', '2021-12-11', 4346.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270097', '2021-12-11', 4346.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK270098', '2022-04-24', 9486.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK270099', '2020-11-10', 1540.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK270100', '2020-07-29', 1517.94);
@@ -70121,7 +70121,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK270119', '2020-11-17', 2202.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK270120', '2023-01-13', 929.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK270121', '2020-05-04', 5347.64);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270122', '2022-11-16', 8080.58);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270122', '2022-11-16', 8080.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK270123', '2022-06-02', 9265.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK270124', '2023-05-31', 2826.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK270125', '2022-06-14', 4143.53);
@@ -70148,9 +70148,9 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK270146', '2022-03-27', 3456.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK270147', '2021-01-24', 641.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK270148', '2022-01-10', 500.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270149', '2020-10-31', 9658.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270149', '2020-10-31', 9658.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK270150', '2023-10-08', 8975.03);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270151', '2021-06-02', 606.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270151', '2021-06-02', 606.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK270152', '2022-07-12', 9859.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK270153', '2020-08-19', 3146.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK270154', '2021-08-19', 3451.15);
@@ -70224,7 +70224,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK270222', '2022-11-27', 4054.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK270223', '2022-09-23', 3931.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK270224', '2022-08-04', 3747.14);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270225', '2022-11-27', 6698.0);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270225', '2022-11-27', 6698.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK270226', '2022-02-13', 9052.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK270227', '2021-12-29', 6035.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK270228', '2022-04-21', 579.06);
@@ -70303,7 +70303,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK270301', '2022-09-27', 5409.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK270302', '2022-07-07', 3098.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK270303', '2023-01-23', 4041.12);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270304', '2021-08-16', 4288.62);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270304', '2021-08-16', 4288.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK270305', '2021-05-27', 5432.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK270306', '2022-10-10', 721.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK270307', '2020-12-20', 5492.43);
@@ -70334,7 +70334,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK270332', '2020-01-10', 4224.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK270333', '2023-12-14', 7629.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK270334', '2020-01-11', 4884.11);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270335', '2023-11-12', 647.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270335', '2023-11-12', 647.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK270336', '2022-10-21', 4850.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK270337', '2021-07-23', 3879.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK270338', '2022-12-06', 2381.31);
@@ -70385,7 +70385,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK270383', '2022-02-22', 3688.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK270384', '2023-10-17', 6010.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK270385', '2021-02-08', 6680.99);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270386', '2020-11-27', 2875.73);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270386', '2020-11-27', 2875.73);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK270387', '2021-02-04', 5682.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK270388', '2023-07-15', 7154.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK270389', '2022-11-07', 9573.46);
@@ -70407,7 +70407,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK270405', '2022-11-18', 8210.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK270406', '2022-02-10', 150.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK270407', '2022-03-27', 7831.88);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270408', '2022-06-20', 2729.11);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270408', '2022-06-20', 2729.11);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK270409', '2023-08-15', 7995.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK270410', '2022-03-07', 8738.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK270411', '2020-03-23', 1474.0);
@@ -70423,7 +70423,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK270421', '2020-07-05', 4888.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK270422', '2020-11-03', 3475.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK270423', '2023-04-27', 1276.04);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270424', '2021-12-28', 6364.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270424', '2021-12-28', 6364.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK270425', '2020-11-02', 2290.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK270426', '2021-05-13', 5760.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK270427', '2023-10-06', 5957.09);
@@ -70506,7 +70506,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK270504', '2021-06-15', 6463.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK270505', '2021-09-12', 6142.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK270506', '2023-08-17', 149.38);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270507', '2023-07-20', 2601.54);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270507', '2023-07-20', 2601.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK270508', '2021-06-17', 1321.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK270509', '2020-10-04', 7563.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK270510', '2023-05-06', 6317.4);
@@ -70942,7 +70942,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK270940', '2021-09-15', 1260.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK270941', '2021-12-10', 8012.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK270942', '2021-09-05', 1505.27);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270943', '2022-07-06', 680.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270943', '2022-07-06', 680.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK270944', '2023-07-09', 7753.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK270945', '2023-08-20', 1066.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK270946', '2021-10-23', 9538.57);
@@ -70964,7 +70964,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK270962', '2021-07-10', 7350.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK270963', '2023-07-14', 4217.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK270964', '2020-04-29', 2437.01);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK270965', '2022-03-13', 9959.23);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK270965', '2022-03-13', 9959.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK270966', '2022-02-06', 9851.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK270967', '2021-11-27', 3923.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK270968', '2022-11-10', 4389.66);
@@ -71108,7 +71108,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK271106', '2023-02-11', 7253.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK271107', '2020-10-27', 4803.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK271108', '2021-03-23', 3856.84);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271109', '2023-05-12', 3410.29);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271109', '2023-05-12', 3410.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK271110', '2022-06-30', 8301.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK271111', '2023-01-11', 8570.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK271112', '2021-11-10', 3428.83);
@@ -71229,7 +71229,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK271227', '2023-01-13', 5251.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK271228', '2023-04-12', 6521.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK271229', '2021-02-07', 8384.47);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271230', '2022-08-26', 1079.32);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271230', '2022-08-26', 1079.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK271231', '2020-09-02', 9693.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK271232', '2021-11-21', 4797.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK271233', '2021-12-16', 8599.86);
@@ -71272,7 +71272,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK271270', '2023-08-07', 1024.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK271271', '2020-03-23', 2109.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK271272', '2020-01-10', 2231.46);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271273', '2023-03-01', 2078.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271273', '2023-03-01', 2078.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK271274', '2023-08-09', 6624.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK271275', '2021-12-17', 7518.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK271276', '2023-12-26', 3993.85);
@@ -71359,7 +71359,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK271357', '2021-03-13', 1269.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK271358', '2021-09-13', 2993.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK271359', '2023-11-29', 889.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271360', '2022-04-18', 9867.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271360', '2022-04-18', 9867.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK271361', '2022-09-05', 2751.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK271362', '2020-01-05', 3424.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK271363', '2021-07-09', 4536.28);
@@ -71450,7 +71450,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK271448', '2020-07-06', 1124.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK271449', '2022-04-10', 1246.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK271450', '2022-12-29', 6691.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271451', '2020-03-14', 1283.41);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271451', '2020-03-14', 1283.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK271452', '2023-06-07', 9412.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK271453', '2023-07-02', 3405.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK271454', '2020-09-25', 8288.33);
@@ -71501,7 +71501,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK271499', '2020-03-09', 3376.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK271500', '2020-01-05', 4194.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK271501', '2022-04-18', 3021.65);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271502', '2021-11-17', 5844.71);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271502', '2021-11-17', 5844.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK271503', '2022-08-10', 8006.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK271504', '2021-12-07', 9563.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK271505', '2021-08-26', 757.17);
@@ -71621,7 +71621,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK271619', '2023-06-11', 2957.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (44, 'CHK271620', '2020-08-19', 4516.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK271621', '2022-07-28', 3692.56);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271622', '2021-09-20', 9176.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271622', '2021-09-20', 9176.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK271623', '2021-01-11', 8506.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK271624', '2022-02-25', 4682.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK271625', '2020-07-08', 9927.52);
@@ -71658,7 +71658,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK271656', '2020-02-21', 8014.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK271657', '2021-03-03', 1885.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK271658', '2022-12-14', 8544.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271659', '2021-08-09', 2275.03);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271659', '2021-08-09', 2275.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK271660', '2022-10-02', 5718.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK271661', '2022-12-29', 2563.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK271662', '2023-06-25', 8555.3);
@@ -71670,7 +71670,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK271668', '2021-02-01', 8967.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK271669', '2020-04-07', 5995.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK271670', '2020-05-24', 1703.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271671', '2023-11-20', 1704.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271671', '2023-11-20', 1704.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK271672', '2020-05-29', 2901.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK271673', '2022-01-10', 383.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK271674', '2023-10-28', 984.88);
@@ -71958,7 +71958,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK271956', '2020-06-28', 8398.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK271957', '2023-08-19', 858.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK271958', '2022-12-23', 6115.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK271959', '2021-10-24', 3976.81);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK271959', '2021-10-24', 3976.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK271960', '2023-10-07', 5756.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK271961', '2023-08-03', 7645.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK271962', '2023-11-10', 111.21);
@@ -72125,7 +72125,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK272123', '2020-06-24', 762.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK272124', '2023-08-11', 8774.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK272125', '2023-08-22', 6778.37);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272126', '2021-08-03', 173.96);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272126', '2021-08-03', 173.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK272127', '2020-10-22', 3589.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK272128', '2022-09-19', 6952.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK272129', '2022-10-09', 4411.57);
@@ -72354,7 +72354,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK272352', '2020-05-22', 6526.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK272353', '2023-03-16', 1848.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK272354', '2023-02-24', 2976.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272355', '2020-03-07', 2198.3);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272355', '2020-03-07', 2198.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK272356', '2022-04-27', 8379.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK272357', '2020-10-04', 6009.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK272358', '2020-12-06', 9836.12);
@@ -72367,8 +72367,8 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK272365', '2020-07-03', 4121.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK272366', '2022-04-27', 8314.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK272367', '2022-11-11', 3975.53);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272368', '2022-12-30', 2716.56);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272369', '2020-02-21', 1676.01);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272368', '2022-12-30', 2716.56);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272369', '2020-02-21', 1676.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (19, 'CHK272370', '2020-11-27', 1932.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK272371', '2020-05-04', 4360.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272372', '2022-08-26', 4508.39);
@@ -72459,7 +72459,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK272457', '2021-08-21', 7203.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK272458', '2021-07-01', 8527.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK272459', '2022-02-13', 1343.24);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272460', '2020-04-20', 6052.49);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272460', '2020-04-20', 6052.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK272461', '2022-02-19', 2166.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK272462', '2022-09-04', 2617.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK272463', '2021-12-04', 1995.62);
@@ -72507,7 +72507,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK272505', '2023-08-06', 5682.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK272506', '2023-03-23', 4111.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK272507', '2023-02-02', 2525.19);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272508', '2020-07-13', 8939.0);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272508', '2020-07-13', 8939.0);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK272509', '2022-09-10', 4951.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK272510', '2021-07-29', 2880.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK272511', '2022-11-25', 8513.21);
@@ -72582,7 +72582,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK272580', '2023-12-09', 5822.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK272581', '2021-08-29', 7477.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK272582', '2020-01-03', 5828.66);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272583', '2020-07-06', 9272.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272583', '2020-07-06', 9272.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK272584', '2022-03-21', 9408.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK272585', '2021-08-27', 925.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (11, 'CHK272586', '2021-10-28', 8928.2);
@@ -72867,7 +72867,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK272865', '2020-07-10', 5460.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK272866', '2023-03-11', 6319.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK272867', '2022-09-07', 7205.82);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272868', '2023-08-15', 3442.68);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272868', '2023-08-15', 3442.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK272869', '2023-10-06', 5335.09);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK272870', '2022-07-07', 4037.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK272871', '2022-08-29', 2389.17);
@@ -72888,7 +72888,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK272886', '2021-12-05', 3409.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (25, 'CHK272887', '2020-09-16', 2884.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK272888', '2020-10-24', 765.83);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272889', '2020-09-03', 3262.77);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272889', '2020-09-03', 3262.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK272890', '2022-02-15', 1887.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK272891', '2023-06-13', 2519.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK272892', '2023-12-21', 8188.72);
@@ -72901,7 +72901,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK272899', '2022-10-22', 2466.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK272900', '2021-08-10', 8097.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK272901', '2020-04-07', 2858.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272902', '2022-03-01', 5040.66);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272902', '2022-03-01', 5040.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK272903', '2023-10-03', 288.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK272904', '2020-07-28', 8676.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK272905', '2020-05-06', 6456.48);
@@ -72998,7 +72998,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK272996', '2023-11-19', 1176.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK272997', '2022-02-13', 3513.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK272998', '2020-06-10', 419.13);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK272999', '2023-04-27', 9920.87);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK272999', '2023-04-27', 9920.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK273000', '2022-10-03', 9530.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK273001', '2023-11-15', 7064.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK273002', '2023-06-12', 391.86);
@@ -73293,7 +73293,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK273291', '2022-04-29', 2921.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK273292', '2022-02-19', 2364.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK273293', '2022-11-20', 4780.58);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK273294', '2020-11-29', 9364.37);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273294', '2020-11-29', 9364.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK273295', '2021-06-16', 5065.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273296', '2020-03-12', 1628.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK273297', '2021-12-30', 8189.38);
@@ -73437,7 +73437,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK273435', '2023-06-17', 807.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK273436', '2023-07-14', 2331.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK273437', '2020-04-19', 6824.94);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK273438', '2020-08-06', 1896.28);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273438', '2020-08-06', 1896.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK273439', '2023-10-22', 5905.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK273440', '2020-10-24', 439.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK273441', '2022-05-18', 2917.12);
@@ -73497,7 +73497,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK273495', '2020-09-14', 5047.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK273496', '2021-02-18', 9661.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK273497', '2022-09-07', 6738.56);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK273498', '2022-08-29', 7042.35);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273498', '2022-08-29', 7042.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK273499', '2023-07-17', 6907.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK273500', '2022-06-21', 3799.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK273501', '2023-07-23', 2230.9);
@@ -73667,7 +73667,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK273665', '2020-02-16', 2504.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK273666', '2023-10-18', 5438.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK273667', '2023-10-31', 1910.51);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK273668', '2020-09-26', 1800.91);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273668', '2020-09-26', 1800.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK273669', '2022-08-12', 3689.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK273670', '2020-05-31', 8162.27);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK273671', '2023-05-02', 9333.47);
@@ -73747,7 +73747,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK273745', '2021-03-29', 6833.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK273746', '2021-10-13', 3302.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273747', '2020-03-23', 836.22);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK273748', '2022-08-19', 5292.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273748', '2022-08-19', 5292.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK273749', '2022-04-02', 9439.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK273750', '2022-09-07', 8120.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK273751', '2020-03-06', 7603.03);
@@ -73865,7 +73865,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK273863', '2021-04-27', 1684.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK273864', '2021-02-19', 5002.23);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK273865', '2022-10-10', 8874.6);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK273866', '2022-08-29', 4566.15);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273866', '2022-08-29', 4566.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK273867', '2023-01-30', 6747.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK273868', '2022-12-23', 8862.26);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK273869', '2023-03-29', 2879.43);
@@ -73980,7 +73980,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK273978', '2020-08-19', 5959.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK273979', '2022-08-18', 6816.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK273980', '2023-07-06', 6873.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK273981', '2020-08-09', 8977.46);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK273981', '2020-08-09', 8977.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK273982', '2022-01-16', 7072.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (98, 'CHK273983', '2022-10-21', 5415.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK273984', '2020-11-24', 9299.7);
@@ -74274,7 +74274,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK274272', '2021-03-09', 2744.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK274273', '2023-02-27', 3736.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK274274', '2022-01-03', 7776.0);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK274275', '2020-05-30', 4058.94);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK274275', '2020-05-30', 4058.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK274276', '2021-05-21', 7469.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (97, 'CHK274277', '2022-04-26', 4304.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK274278', '2020-06-07', 3430.39);
@@ -74335,7 +74335,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK274333', '2022-02-28', 7708.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK274334', '2020-09-17', 4010.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (72, 'CHK274335', '2020-07-22', 2253.07);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK274336', '2023-07-29', 50.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK274336', '2023-07-29', 50.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK274337', '2023-12-04', 8017.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK274338', '2022-11-06', 7506.69);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK274339', '2022-05-02', 7757.08);
@@ -74699,7 +74699,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK274697', '2020-02-01', 3061.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK274698', '2022-03-15', 4279.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (69, 'CHK274699', '2020-11-25', 5691.69);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK274700', '2020-08-12', 3712.25);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK274700', '2020-08-12', 3712.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK274701', '2023-09-01', 9996.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK274702', '2022-03-10', 7702.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK274703', '2021-10-24', 5234.7);
@@ -75156,7 +75156,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (74, 'CHK275154', '2023-02-22', 8614.01);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK275155', '2022-01-06', 9622.1);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK275156', '2020-11-14', 3144.28);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275157', '2020-08-04', 8615.44);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275157', '2020-08-04', 8615.44);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK275158', '2020-07-09', 6819.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (28, 'CHK275159', '2022-09-22', 482.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK275160', '2020-05-23', 3362.45);
@@ -75184,7 +75184,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK275182', '2023-08-10', 2894.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK275183', '2021-05-30', 8153.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK275184', '2021-10-07', 228.33);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275185', '2020-09-30', 9685.33);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275185', '2020-09-30', 9685.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK275186', '2023-03-24', 8843.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK275187', '2023-01-30', 4046.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK275188', '2023-08-13', 6280.55);
@@ -75205,7 +75205,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK275203', '2021-10-20', 9759.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK275204', '2023-02-09', 9950.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (82, 'CHK275205', '2020-04-08', 854.59);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275206', '2021-09-23', 7009.88);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275206', '2021-09-23', 7009.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK275207', '2020-12-02', 4327.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK275208', '2020-11-24', 5592.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK275209', '2020-11-23', 6775.55);
@@ -75251,7 +75251,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK275249', '2022-02-24', 3874.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK275250', '2022-07-13', 4639.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK275251', '2020-02-25', 8978.17);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275252', '2023-02-14', 7842.57);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275252', '2023-02-14', 7842.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK275253', '2020-09-29', 1259.65);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (81, 'CHK275254', '2023-09-20', 6532.21);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK275255', '2021-07-02', 620.58);
@@ -75274,7 +75274,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK275272', '2022-04-18', 583.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (46, 'CHK275273', '2020-12-25', 1969.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK275274', '2021-10-04', 394.25);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275275', '2021-12-23', 9007.68);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275275', '2021-12-23', 9007.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK275276', '2021-02-11', 6447.32);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK275277', '2021-07-27', 5972.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK275278', '2022-10-31', 9905.34);
@@ -75326,7 +75326,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (4, 'CHK275324', '2021-04-17', 799.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK275325', '2020-09-11', 2795.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK275326', '2020-03-31', 7700.99);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275327', '2023-12-14', 1212.7);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275327', '2023-12-14', 1212.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK275328', '2023-06-03', 8565.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (95, 'CHK275329', '2020-09-07', 5123.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275330', '2021-07-14', 8060.7);
@@ -75423,7 +75423,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK275421', '2022-11-07', 8260.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK275422', '2021-05-14', 4797.03);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK275423', '2022-03-13', 6473.78);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275424', '2023-08-13', 2911.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275424', '2023-08-13', 2911.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (73, 'CHK275425', '2022-03-26', 3387.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK275426', '2021-01-26', 7921.3);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK275427', '2023-07-20', 6548.12);
@@ -75496,7 +75496,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (37, 'CHK275494', '2021-12-19', 5119.7);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK275495', '2023-11-13', 1501.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (34, 'CHK275496', '2020-12-22', 226.29);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275497', '2023-09-14', 2730.05);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275497', '2023-09-14', 2730.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK275498', '2020-06-16', 5297.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK275499', '2023-10-18', 3007.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK275500', '2020-01-30', 858.81);
@@ -75538,10 +75538,10 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK275536', '2023-09-23', 3212.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK275537', '2021-08-15', 8911.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK275538', '2023-04-11', 4038.04);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275539', '2020-12-16', 8073.92);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275539', '2020-12-16', 8073.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK275540', '2022-06-24', 5316.48);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK275541', '2022-10-30', 8488.11);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275542', '2021-05-22', 4967.47);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275542', '2021-05-22', 4967.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK275543', '2020-09-20', 323.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK275544', '2021-10-10', 4409.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK275545', '2022-10-22', 4919.72);
@@ -75643,7 +75643,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK275641', '2021-01-09', 6838.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK275642', '2022-05-19', 2287.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK275643', '2020-09-23', 7677.13);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275644', '2022-02-27', 4590.45);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275644', '2022-02-27', 4590.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK275645', '2020-07-26', 1974.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK275646', '2022-01-24', 3265.22);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK275647', '2021-08-03', 799.36);
@@ -75917,7 +75917,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK275915', '2023-04-27', 4007.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK275916', '2023-03-17', 1276.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275917', '2022-03-23', 6735.21);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275918', '2020-09-09', 5917.07);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275918', '2020-09-09', 5917.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK275919', '2021-11-09', 7898.6);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK275920', '2020-10-08', 1878.25);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (3, 'CHK275921', '2020-12-01', 9201.05);
@@ -75994,7 +75994,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (60, 'CHK275992', '2022-08-30', 6209.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK275993', '2021-01-19', 3972.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK275994', '2022-07-04', 6259.35);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK275995', '2023-07-17', 9285.43);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK275995', '2023-07-17', 9285.43);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (83, 'CHK275996', '2022-07-15', 5660.47);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK275997', '2021-08-27', 2531.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK275998', '2023-01-13', 4322.59);
@@ -76025,7 +76025,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK276023', '2023-12-29', 5706.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK276024', '2021-05-24', 1578.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK276025', '2020-02-21', 990.4);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK276026', '2021-12-04', 6426.19);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK276026', '2021-12-04', 6426.19);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (43, 'CHK276027', '2020-01-21', 6786.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK276028', '2021-12-20', 2059.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (36, 'CHK276029', '2020-08-29', 730.99);
@@ -76051,7 +76051,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK276049', '2020-07-05', 8108.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK276050', '2020-07-02', 7634.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK276051', '2022-06-05', 3220.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK276052', '2022-04-03', 5316.06);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK276052', '2022-04-03', 5316.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK276053', '2021-02-11', 5964.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK276054', '2022-01-14', 1031.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK276055', '2022-10-09', 2267.22);
@@ -76238,7 +76238,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK276236', '2020-12-23', 7107.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (64, 'CHK276237', '2022-10-28', 2298.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK276238', '2022-09-20', 1980.98);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK276239', '2023-07-19', 5757.74);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK276239', '2023-07-19', 5757.74);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK276240', '2023-12-11', 6558.4);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK276241', '2021-05-02', 3440.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK276242', '2020-08-23', 8479.71);
@@ -76443,7 +76443,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK276441', '2021-07-17', 7829.31);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK276442', '2021-02-10', 6021.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK276443', '2022-08-06', 453.66);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK276444', '2023-01-08', 6106.42);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK276444', '2023-01-08', 6106.42);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (80, 'CHK276445', '2020-08-26', 2728.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK276446', '2022-07-31', 8416.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK276447', '2020-11-16', 9187.12);
@@ -76530,7 +76530,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK276528', '2020-07-26', 8859.9);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK276529', '2022-09-07', 1381.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK276530', '2022-10-21', 295.18);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK276531', '2021-04-05', 7675.51);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK276531', '2021-04-05', 7675.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK276532', '2023-12-13', 2394.02);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK276533', '2022-02-12', 60.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK276534', '2023-04-27', 4023.27);
@@ -76701,7 +76701,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK276699', '2021-02-08', 7060.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK276700', '2022-09-20', 6320.46);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK276701', '2020-03-22', 1899.86);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK276702', '2023-05-01', 2840.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK276702', '2023-05-01', 2840.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK276703', '2021-02-11', 125.99);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK276704', '2022-08-18', 2263.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (16, 'CHK276705', '2023-12-08', 5313.72);
@@ -76783,7 +76783,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK276781', '2022-10-12', 249.87);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (13, 'CHK276782', '2020-09-12', 4315.05);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (35, 'CHK276783', '2021-12-20', 4541.58);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK276784', '2022-11-14', 1078.58);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK276784', '2022-11-14', 1078.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK276785', '2022-05-24', 8308.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (53, 'CHK276786', '2020-12-30', 8415.41);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK276787', '2022-03-19', 8078.41);
@@ -77039,7 +77039,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK277037', '2023-08-01', 4441.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK277038', '2023-04-11', 9308.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK277039', '2020-12-25', 415.0);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277040', '2022-03-17', 1310.98);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277040', '2022-03-17', 1310.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK277041', '2021-01-15', 3731.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK277042', '2021-03-18', 396.94);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK277043', '2022-07-28', 7800.97);
@@ -77075,7 +77075,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK277073', '2021-05-04', 2495.39);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK277074', '2022-03-26', 1847.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK277075', '2023-09-17', 2092.52);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277076', '2021-11-01', 4251.13);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277076', '2021-11-01', 4251.13);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK277077', '2021-07-01', 9207.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK277078', '2021-05-23', 3131.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK277079', '2022-06-18', 2127.45);
@@ -77086,7 +77086,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (50, 'CHK277084', '2023-10-17', 7923.78);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK277085', '2023-11-04', 4640.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK277086', '2021-03-29', 9600.39);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277087', '2021-05-22', 4685.53);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277087', '2021-05-22', 4685.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK277088', '2022-06-24', 8411.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK277089', '2020-02-25', 202.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (12, 'CHK277090', '2023-08-05', 2599.45);
@@ -77382,7 +77382,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (94, 'CHK277380', '2020-03-07', 1353.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (39, 'CHK277381', '2023-01-05', 5171.33);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK277382', '2020-06-28', 1204.63);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277383', '2022-04-17', 6868.68);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277383', '2022-04-17', 6868.68);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK277384', '2021-10-31', 2868.86);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK277385', '2023-11-29', 1660.04);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (85, 'CHK277386', '2020-09-13', 4549.3);
@@ -77424,7 +77424,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK277422', '2023-03-24', 5804.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK277423', '2022-06-20', 8628.57);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (30, 'CHK277424', '2023-06-27', 5433.36);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277425', '2021-11-09', 4784.38);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277425', '2021-11-09', 4784.38);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK277426', '2022-08-30', 7857.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK277427', '2021-02-07', 2055.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK277428', '2022-08-14', 1049.58);
@@ -77517,7 +77517,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK277515', '2022-05-02', 928.8);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK277516', '2020-03-26', 3396.91);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (20, 'CHK277517', '2020-04-11', 810.27);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277518', '2020-12-25', 1994.96);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277518', '2020-12-25', 1994.96);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK277519', '2021-08-11', 5657.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK277520', '2022-01-10', 6468.07);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK277521', '2022-03-20', 5695.69);
@@ -77641,7 +77641,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK277639', '2021-09-01', 7588.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK277640', '2020-02-02', 2216.16);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (42, 'CHK277641', '2020-03-16', 1347.05);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277642', '2022-08-22', 5958.72);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277642', '2022-08-22', 5958.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK277643', '2023-09-26', 1289.45);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (18, 'CHK277644', '2021-07-05', 6927.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK277645', '2022-11-27', 9091.87);
@@ -77685,7 +77685,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK277683', '2021-01-13', 6935.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK277684', '2023-01-19', 7664.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (27, 'CHK277685', '2021-07-02', 6410.85);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277686', '2022-07-10', 8804.66);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277686', '2022-07-10', 8804.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (5, 'CHK277687', '2020-11-29', 9200.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK277688', '2023-05-09', 950.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK277689', '2020-04-04', 6692.27);
@@ -77722,7 +77722,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK277720', '2023-12-13', 5739.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK277721', '2023-09-30', 3141.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK277722', '2023-09-05', 6087.5);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277723', '2022-12-01', 9663.66);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277723', '2022-12-01', 9663.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277724', '2021-06-30', 7869.76);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK277725', '2021-11-25', 6972.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (41, 'CHK277726', '2020-02-01', 6769.89);
@@ -77968,7 +77968,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK277966', '2023-07-11', 5202.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK277967', '2022-07-31', 5160.93);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (48, 'CHK277968', '2022-05-10', 4556.3);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK277969', '2020-08-01', 5898.29);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK277969', '2020-08-01', 5898.29);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK277970', '2021-09-17', 45.14);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK277971', '2023-02-23', 6873.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (76, 'CHK277972', '2020-06-06', 4014.78);
@@ -78057,7 +78057,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (66, 'CHK278055', '2021-07-26', 7500.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK278056', '2022-08-23', 8893.72);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (89, 'CHK278057', '2021-05-09', 8458.13);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK278058', '2022-08-16', 6816.56);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK278058', '2022-08-16', 6816.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK278059', '2022-04-09', 2104.06);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK278060', '2022-03-19', 8500.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (40, 'CHK278061', '2021-06-01', 4044.22);
@@ -78123,7 +78123,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK278121', '2021-10-04', 8573.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK278122', '2023-06-06', 8334.97);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (84, 'CHK278123', '2022-12-16', 7242.23);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK278124', '2022-11-22', 8956.95);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK278124', '2022-11-22', 8956.95);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (56, 'CHK278125', '2023-06-08', 6549.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (2, 'CHK278126', '2022-08-23', 4361.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (78, 'CHK278127', '2021-10-01', 2132.81);
@@ -78492,7 +78492,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK278490', '2022-06-30', 7304.77);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (52, 'CHK278491', '2020-02-03', 9856.53);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (23, 'CHK278492', '2023-03-16', 1768.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK278493', '2023-12-07', 7206.52);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK278493', '2023-12-07', 7206.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (93, 'CHK278494', '2023-10-17', 9087.34);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (21, 'CHK278495', '2023-08-30', 324.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (38, 'CHK278496', '2020-05-02', 7093.78);
@@ -78614,7 +78614,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (7, 'CHK278612', '2022-08-09', 7168.64);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK278613', '2022-02-16', 4522.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (58, 'CHK278614', '2023-11-08', 3844.45);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK278615', '2023-08-12', 5051.71);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK278615', '2023-08-12', 5051.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (71, 'CHK278616', '2022-08-05', 142.15);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK278617', '2020-01-24', 5596.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (29, 'CHK278618', '2023-03-18', 4674.78);
@@ -78693,7 +78693,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK278691', '2022-04-15', 9802.37);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (15, 'CHK278692', '2022-06-18', 9562.17);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK278693', '2021-02-04', 1866.93);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK278694', '2023-05-16', 9077.84);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK278694', '2023-05-16', 9077.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK278695', '2021-05-10', 816.5);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (47, 'CHK278696', '2023-11-30', 2047.66);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (90, 'CHK278697', '2023-03-24', 1095.35);
@@ -79025,7 +79025,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK279023', '2021-08-04', 744.61);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (92, 'CHK279024', '2021-02-02', 1447.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK279025', '2021-03-27', 8243.55);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK279026', '2021-11-09', 7352.82);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK279026', '2021-11-09', 7352.82);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (17, 'CHK279027', '2023-08-21', 7121.88);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (57, 'CHK279028', '2023-12-15', 8202.58);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK279029', '2021-05-31', 1487.55);
@@ -79056,7 +79056,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (49, 'CHK279054', '2021-05-16', 6430.49);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (99, 'CHK279055', '2023-07-17', 7491.92);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (22, 'CHK279056', '2021-12-27', 4124.41);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK279057', '2021-09-16', 3924.55);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK279057', '2021-09-16', 3924.55);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK279058', '2022-05-24', 747.24);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (45, 'CHK279059', '2021-12-31', 4349.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (70, 'CHK279060', '2023-11-15', 5737.8);
@@ -79100,7 +79100,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK279098', '2021-12-18', 3282.85);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (33, 'CHK279099', '2022-12-08', 2166.56);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (86, 'CHK279100', '2020-10-29', 8537.64);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK279101', '2023-10-19', 933.84);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK279101', '2023-10-19', 933.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (31, 'CHK279102', '2020-02-07', 3608.54);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (62, 'CHK279103', '2021-07-06', 3410.84);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (24, 'CHK279104', '2020-05-31', 9610.44);
@@ -79265,7 +79265,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (32, 'CHK279263', '2023-12-06', 8817.52);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (61, 'CHK279264', '2020-02-25', 6380.08);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (75, 'CHK279265', '2023-03-08', 1428.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK279266', '2021-11-24', 3560.2);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK279266', '2021-11-24', 3560.2);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (96, 'CHK279267', '2023-06-13', 7844.98);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (87, 'CHK279268', '2020-01-27', 2089.81);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (8, 'CHK279269', '2021-02-15', 8419.59);
@@ -79522,7 +79522,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (65, 'CHK279520', '2022-11-22', 836.36);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (6, 'CHK279521', '2021-06-06', 6674.62);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (59, 'CHK279522', '2022-08-03', 5800.84);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK279523', '2023-08-29', 3486.59);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK279523', '2023-08-29', 3486.59);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (100, 'CHK279524', '2020-09-26', 3541.28);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (79, 'CHK279525', '2022-08-30', 2213.51);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK279526', '2021-07-13', 7994.17);
@@ -79688,7 +79688,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (54, 'CHK279686', '2023-10-16', 2095.75);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (91, 'CHK279687', '2021-07-15', 7576.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (77, 'CHK279688', '2022-09-07', 8910.95);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK279689', '2020-06-18', 4697.63);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK279689', '2020-06-18', 4697.63);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (10, 'CHK279690', '2023-09-08', 5704.89);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (14, 'CHK279691', '2020-08-20', 6146.35);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (26, 'CHK279692', '2023-08-13', 8810.12);
@@ -79913,7 +79913,7 @@ INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (68, 'CHK279911', '2021-05-18', 1945.67);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (55, 'CHK279912', '2020-09-27', 2947.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (67, 'CHK279913', '2023-05-02', 9237.97);
-INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (0, 'CHK279914', '2023-03-04', 5699.79);
+INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (1, 'CHK279914', '2023-03-04', 5699.79);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (88, 'CHK279915', '2023-07-29', 9574.71);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (9, 'CHK279916', '2022-01-15', 4304.18);
 INSERT INTO payments (customerNumber, checkNumber, paymentDate, amount) VALUES (51, 'CHK279917', '2020-10-09', 4763.98);

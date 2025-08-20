@@ -1,21 +1,3 @@
-## Como criar meu ambiente em MySQL
-
-docker network create some-network
-
-docker run --name teste-mysql --network some-network -p 3306:3306 -e MYSQL_ROOT_PASSWORD=thiago -d mysql:latest
-
-docker run -it --network some-network --rm mysql mysql -hteste-mysql -u root -p
-ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'thiago';
-FLUSH PRIVILEGES;
-
-CREATE USER 'root'@'%' IDENTIFIED BY 'thiago';
-GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;
-FLUSH PRIVILEGES;
-
-docker exec -it teste-mysql mysql -u root -p -e "SHOW VARIABLES LIKE 'bind_address';"
-
-docker exec -it teste-mysql sh -c "echo '[mysqld]\nbind-address = 0.0.0.0' > /etc/mysql/my.cnf"
-
 # 🐳 Instalação do MySQL via Docker
 
 Este guia mostra como subir rapidamente uma instância do MySQL utilizando Docker, permitindo acesso externo e com permissões configuradas para o usuário `root`.
@@ -94,4 +76,3 @@ docker stop teste-mysql
 docker rm teste-mysql
 docker network rm some-network
 ```
-
