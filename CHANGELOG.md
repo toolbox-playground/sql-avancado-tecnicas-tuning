@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.2.1 (2025-08-20)
+
+
+### Bug Fixes
+
+* duplicated script ([ec11748](https://github.com/toolbox-playground/sql-avancado-tecnicas-tuning/commit/ec11748043f6fa70f19da905cda4ec2bf0ef13db))
+
 ## 1.2.0 (2025-08-20)
 
 
