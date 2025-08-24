@@ -1,47 +1,36 @@
-# 📦 Instalação do MySQL (Free) na Máquina Local
 
-Este repositório contém instruções claras e organizadas para instalar o **MySQL** de forma gratuita em sua máquina local, com **duas abordagens diferentes**:
+## 🏗️ Estrutura do Banco
 
-- **Usando Docker** (recomendado para agilidade e isolamento)
-- **Instalação Manual** (para quem quer controle total ou não pode usar contêineres)
+O banco simula uma plataforma de e-commerce com streaming de conteúdo digital.
 
----
+### Tabelas principais
 
-## 📁 Estrutura do Repositório
+| Tabela                     | Descrição |
+|---------------------------|-----------|
+| `customers`               | Clientes cadastrados |
+| `products`                | Produtos vendidos pela plataforma |
+| `orders`                  | Pedidos realizados |
+| `order_items`             | Itens de cada pedido |
+| `media_content`           | Conteúdo de mídia disponível (filmes, séries, podcasts) |
+| `customer_streaming_history` | Histórico de visualização de conteúdo digital |
 
-```bash
-mysql-instalacao/
-├── docker/
-│   └── README.md  # Instruções de instalação do MySQL via Docker
-├── manual/
-│   └── README.md  # Passo a passo para instalação manual do MySQL
-└── README.md      # Este arquivo (guia geral)
-```
+## 📦 Volume de Dados Gerados
 
----
+| Tabela                     | Registros |
+|---------------------------|-----------|
+| `customers`               | 10.000    |
+| `products`                | 2.000     |
+| `orders`                  | 50.000    |
+| `order_items`             | 200.000   |
+| `media_content`           | 1.000     |
+| `customer_streaming_history` | 50.000 |
 
-## 🚀 Como Usar este Repositório
-
-### 👉 Instalação via Docker
-
-Para quem prefere um ambiente isolado, sem instalar o MySQL diretamente na máquina.
-
-- Acesse a pasta `docker/`
-- Siga as instruções do `README.md` dentro dela
+## 📁 Estrutura dos Arquivos
 
 ```bash
-cd docker/
-cat README.md
-```
-
-### 🛠️ Instalação Manual
-
-Para quem deseja instalar o MySQL diretamente no sistema operacional (Windows, macOS ou Linux).
-
-- Acesse a pasta `manual/`
-- Siga o guia de instalação no `README.md` correspondente
-
-```bash
-cd manual/
-cat README.md
+📁 modulo_02/
+├── estrutura.sql         # Criação das tabelas
+├── dados.sql           # Massa de dados em SQL
+├── queries.sql           # Consultas propositalmente não otimizadas
+├── optimized_queries.sql     # Consultas otimizadas (opcional)
 ```
